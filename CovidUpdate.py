@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 import pandas as pd
+import os
 
-filepath = '''C:/Users/lambw/OneDrive/Documents/COVID19/'''
-datafolder = '''data/'''
-timeseries_file_name = 'county_cases_timeseries.csv'
+
+root_folder = os.path.dirname(os.path.realpath(__file__))
+data_folder = os.path.join(root_folder,'data')
 daily_file_prefix = 'county_cases_daily'
 timestamp = pd.Timestamp.now()
 
@@ -33,20 +34,6 @@ if len(seconds) == 1:
 str_timestamp = date + '_' + hours + minutes + seconds
 
 # Save the data
-daily_file_name= daily_file_prefix + '_' + str_timestamp + '.csv'
-df_county_cases_daily.to_csv(filepath + datafolder + daily_file_name)
+daily_file_name = daily_file_prefix + '_' + str_timestamp + '.csv'
+df_county_cases_daily.to_csv(os.path.join(data_folder, daily_file_name))
 
-
-
-# Load in the previous timeseries data from the existing csv
-try:
-	df_county_cases = pd.read_csv(filepath+timeseries_file_name,index_col=0)
-except:
-	df_county_cases = pd.DataFrame()
-
-# Combine the downloaded data with the previous data
-df_county_cases = pd.concat([df_county_cases,df_county_cases_daily])
-df_county_cases.reindex()
-
-# Save the combined data
-df_county_cases.to_csv(filepath+timeseries_file_name)
