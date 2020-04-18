@@ -1,0 +1,1789 @@
+GSS_CD,date,GSS_NM,TotalCases,day,area_type,CTY19CD,CTY19NM,LAD19CD,LAD19NM,velocity,acceleration
+E06000001,2020-03-18,Hartlepool,1,78,LAD,,,E06000001,Hartlepool,,
+E06000001,2020-03-19,Hartlepool,2,79,LAD,,,E06000001,Hartlepool,1.0,
+E06000001,2020-03-20,Hartlepool,2,80,LAD,,,E06000001,Hartlepool,0.0,-1.0
+E06000001,2020-03-21,Hartlepool,2,81,LAD,,,E06000001,Hartlepool,0.0,0.0
+E06000001,2020-03-22,Hartlepool,2,82,LAD,,,E06000001,Hartlepool,0.0,0.0
+E06000001,2020-03-23,Hartlepool,3,83,LAD,,,E06000001,Hartlepool,1.0,1.0
+E06000001,2020-03-24,Hartlepool,3,84,LAD,,,E06000001,Hartlepool,0.0,-1.0
+E06000001,2020-03-25,Hartlepool,3,85,LAD,,,E06000001,Hartlepool,0.0,0.0
+E06000001,2020-03-26,Hartlepool,3,86,LAD,,,E06000001,Hartlepool,0.0,0.0
+E06000001,2020-03-27,Hartlepool,6,87,LAD,,,E06000001,Hartlepool,3.0,3.0
+E06000001,2020-03-28,Hartlepool,7,88,LAD,,,E06000001,Hartlepool,1.0,-2.0
+E06000001,2020-03-29,Hartlepool,11,89,LAD,,,E06000001,Hartlepool,4.0,3.0
+E06000002,2020-03-18,Middlesbrough,0,78,LAD,,,E06000002,Middlesbrough,,
+E06000002,2020-03-19,Middlesbrough,0,79,LAD,,,E06000002,Middlesbrough,0.0,
+E06000002,2020-03-20,Middlesbrough,1,80,LAD,,,E06000002,Middlesbrough,1.0,1.0
+E06000002,2020-03-21,Middlesbrough,1,81,LAD,,,E06000002,Middlesbrough,0.0,-1.0
+E06000002,2020-03-22,Middlesbrough,1,82,LAD,,,E06000002,Middlesbrough,0.0,0.0
+E06000002,2020-03-23,Middlesbrough,3,83,LAD,,,E06000002,Middlesbrough,2.0,2.0
+E06000002,2020-03-24,Middlesbrough,7,84,LAD,,,E06000002,Middlesbrough,4.0,2.0
+E06000002,2020-03-25,Middlesbrough,9,85,LAD,,,E06000002,Middlesbrough,2.0,-2.0
+E06000002,2020-03-26,Middlesbrough,9,86,LAD,,,E06000002,Middlesbrough,0.0,-2.0
+E06000002,2020-03-27,Middlesbrough,17,87,LAD,,,E06000002,Middlesbrough,8.0,8.0
+E06000002,2020-03-28,Middlesbrough,19,88,LAD,,,E06000002,Middlesbrough,2.0,-6.0
+E06000002,2020-03-29,Middlesbrough,26,89,LAD,,,E06000002,Middlesbrough,7.0,5.0
+E06000003,2020-03-18,Redcar and Cleveland,1,78,LAD,,,E06000003,Redcar and Cleveland,,
+E06000003,2020-03-19,Redcar and Cleveland,1,79,LAD,,,E06000003,Redcar and Cleveland,0.0,
+E06000003,2020-03-20,Redcar and Cleveland,2,80,LAD,,,E06000003,Redcar and Cleveland,1.0,1.0
+E06000003,2020-03-21,Redcar and Cleveland,3,81,LAD,,,E06000003,Redcar and Cleveland,1.0,0.0
+E06000003,2020-03-22,Redcar and Cleveland,3,82,LAD,,,E06000003,Redcar and Cleveland,0.0,-1.0
+E06000003,2020-03-23,Redcar and Cleveland,3,83,LAD,,,E06000003,Redcar and Cleveland,0.0,0.0
+E06000003,2020-03-24,Redcar and Cleveland,7,84,LAD,,,E06000003,Redcar and Cleveland,4.0,4.0
+E06000003,2020-03-25,Redcar and Cleveland,10,85,LAD,,,E06000003,Redcar and Cleveland,3.0,-1.0
+E06000003,2020-03-26,Redcar and Cleveland,10,86,LAD,,,E06000003,Redcar and Cleveland,0.0,-3.0
+E06000003,2020-03-27,Redcar and Cleveland,13,87,LAD,,,E06000003,Redcar and Cleveland,3.0,3.0
+E06000003,2020-03-28,Redcar and Cleveland,15,88,LAD,,,E06000003,Redcar and Cleveland,2.0,-1.0
+E06000003,2020-03-29,Redcar and Cleveland,25,89,LAD,,,E06000003,Redcar and Cleveland,10.0,8.0
+E06000004,2020-03-18,Stockton-on-Tees,6,78,LAD,,,E06000004,Stockton-on-Tees,,
+E06000004,2020-03-19,Stockton-on-Tees,9,79,LAD,,,E06000004,Stockton-on-Tees,3.0,
+E06000004,2020-03-20,Stockton-on-Tees,9,80,LAD,,,E06000004,Stockton-on-Tees,0.0,-3.0
+E06000004,2020-03-21,Stockton-on-Tees,10,81,LAD,,,E06000004,Stockton-on-Tees,1.0,1.0
+E06000004,2020-03-22,Stockton-on-Tees,11,82,LAD,,,E06000004,Stockton-on-Tees,1.0,0.0
+E06000004,2020-03-23,Stockton-on-Tees,12,83,LAD,,,E06000004,Stockton-on-Tees,1.0,0.0
+E06000004,2020-03-24,Stockton-on-Tees,12,84,LAD,,,E06000004,Stockton-on-Tees,0.0,-1.0
+E06000004,2020-03-25,Stockton-on-Tees,14,85,LAD,,,E06000004,Stockton-on-Tees,2.0,2.0
+E06000004,2020-03-26,Stockton-on-Tees,16,86,LAD,,,E06000004,Stockton-on-Tees,2.0,0.0
+E06000004,2020-03-27,Stockton-on-Tees,24,87,LAD,,,E06000004,Stockton-on-Tees,8.0,6.0
+E06000004,2020-03-28,Stockton-on-Tees,29,88,LAD,,,E06000004,Stockton-on-Tees,5.0,-3.0
+E06000004,2020-03-29,Stockton-on-Tees,34,89,LAD,,,E06000004,Stockton-on-Tees,5.0,0.0
+E06000005,2020-03-18,Darlington,2,78,LAD,,,E06000005,Darlington,,
+E06000005,2020-03-19,Darlington,2,79,LAD,,,E06000005,Darlington,0.0,
+E06000005,2020-03-20,Darlington,2,80,LAD,,,E06000005,Darlington,0.0,0.0
+E06000005,2020-03-21,Darlington,3,81,LAD,,,E06000005,Darlington,1.0,1.0
+E06000005,2020-03-22,Darlington,3,82,LAD,,,E06000005,Darlington,0.0,-1.0
+E06000005,2020-03-23,Darlington,3,83,LAD,,,E06000005,Darlington,0.0,0.0
+E06000005,2020-03-24,Darlington,3,84,LAD,,,E06000005,Darlington,0.0,0.0
+E06000005,2020-03-25,Darlington,4,85,LAD,,,E06000005,Darlington,1.0,1.0
+E06000005,2020-03-26,Darlington,5,86,LAD,,,E06000005,Darlington,1.0,0.0
+E06000005,2020-03-27,Darlington,11,87,LAD,,,E06000005,Darlington,6.0,5.0
+E06000005,2020-03-28,Darlington,14,88,LAD,,,E06000005,Darlington,3.0,-3.0
+E06000005,2020-03-29,Darlington,15,89,LAD,,,E06000005,Darlington,1.0,-2.0
+E06000006,2020-03-18,Halton,4,78,LAD,,,E06000006,Halton,,
+E06000006,2020-03-19,Halton,4,79,LAD,,,E06000006,Halton,0.0,
+E06000006,2020-03-20,Halton,5,80,LAD,,,E06000006,Halton,1.0,1.0
+E06000006,2020-03-21,Halton,7,81,LAD,,,E06000006,Halton,2.0,1.0
+E06000006,2020-03-22,Halton,7,82,LAD,,,E06000006,Halton,0.0,-2.0
+E06000006,2020-03-23,Halton,7,83,LAD,,,E06000006,Halton,0.0,0.0
+E06000006,2020-03-24,Halton,8,84,LAD,,,E06000006,Halton,1.0,1.0
+E06000006,2020-03-25,Halton,8,85,LAD,,,E06000006,Halton,0.0,-1.0
+E06000006,2020-03-26,Halton,8,86,LAD,,,E06000006,Halton,0.0,0.0
+E06000006,2020-03-27,Halton,10,87,LAD,,,E06000006,Halton,2.0,2.0
+E06000006,2020-03-28,Halton,12,88,LAD,,,E06000006,Halton,2.0,0.0
+E06000006,2020-03-29,Halton,16,89,LAD,,,E06000006,Halton,4.0,2.0
+E06000007,2020-03-18,Warrington,4,78,LAD,,,E06000007,Warrington,,
+E06000007,2020-03-19,Warrington,4,79,LAD,,,E06000007,Warrington,0.0,
+E06000007,2020-03-20,Warrington,4,80,LAD,,,E06000007,Warrington,0.0,0.0
+E06000007,2020-03-21,Warrington,4,81,LAD,,,E06000007,Warrington,0.0,0.0
+E06000007,2020-03-22,Warrington,4,82,LAD,,,E06000007,Warrington,0.0,0.0
+E06000007,2020-03-23,Warrington,7,83,LAD,,,E06000007,Warrington,3.0,3.0
+E06000007,2020-03-24,Warrington,8,84,LAD,,,E06000007,Warrington,1.0,-2.0
+E06000007,2020-03-25,Warrington,9,85,LAD,,,E06000007,Warrington,1.0,0.0
+E06000007,2020-03-26,Warrington,10,86,LAD,,,E06000007,Warrington,1.0,0.0
+E06000007,2020-03-27,Warrington,15,87,LAD,,,E06000007,Warrington,5.0,4.0
+E06000007,2020-03-28,Warrington,19,88,LAD,,,E06000007,Warrington,4.0,-1.0
+E06000007,2020-03-29,Warrington,21,89,LAD,,,E06000007,Warrington,2.0,-2.0
+E06000008,2020-03-18,Blackburn with Darwen,1,78,LAD,,,E06000008,Blackburn with Darwen,,
+E06000008,2020-03-19,Blackburn with Darwen,1,79,LAD,,,E06000008,Blackburn with Darwen,0.0,
+E06000008,2020-03-20,Blackburn with Darwen,1,80,LAD,,,E06000008,Blackburn with Darwen,0.0,0.0
+E06000008,2020-03-21,Blackburn with Darwen,1,81,LAD,,,E06000008,Blackburn with Darwen,0.0,0.0
+E06000008,2020-03-22,Blackburn with Darwen,1,82,LAD,,,E06000008,Blackburn with Darwen,0.0,0.0
+E06000008,2020-03-23,Blackburn with Darwen,1,83,LAD,,,E06000008,Blackburn with Darwen,0.0,0.0
+E06000008,2020-03-24,Blackburn with Darwen,2,84,LAD,,,E06000008,Blackburn with Darwen,1.0,1.0
+E06000008,2020-03-25,Blackburn with Darwen,3,85,LAD,,,E06000008,Blackburn with Darwen,1.0,0.0
+E06000008,2020-03-26,Blackburn with Darwen,6,86,LAD,,,E06000008,Blackburn with Darwen,3.0,2.0
+E06000008,2020-03-27,Blackburn with Darwen,7,87,LAD,,,E06000008,Blackburn with Darwen,1.0,-2.0
+E06000008,2020-03-28,Blackburn with Darwen,10,88,LAD,,,E06000008,Blackburn with Darwen,3.0,2.0
+E06000008,2020-03-29,Blackburn with Darwen,12,89,LAD,,,E06000008,Blackburn with Darwen,2.0,-1.0
+E06000009,2020-03-18,Blackpool,4,78,LAD,,,E06000009,Blackpool,,
+E06000009,2020-03-19,Blackpool,3,79,LAD,,,E06000009,Blackpool,-1.0,
+E06000009,2020-03-20,Blackpool,5,80,LAD,,,E06000009,Blackpool,2.0,3.0
+E06000009,2020-03-21,Blackpool,5,81,LAD,,,E06000009,Blackpool,0.0,-2.0
+E06000009,2020-03-22,Blackpool,6,82,LAD,,,E06000009,Blackpool,1.0,1.0
+E06000009,2020-03-23,Blackpool,6,83,LAD,,,E06000009,Blackpool,0.0,-1.0
+E06000009,2020-03-24,Blackpool,8,84,LAD,,,E06000009,Blackpool,2.0,2.0
+E06000009,2020-03-25,Blackpool,8,85,LAD,,,E06000009,Blackpool,0.0,-2.0
+E06000009,2020-03-26,Blackpool,8,86,LAD,,,E06000009,Blackpool,0.0,0.0
+E06000009,2020-03-27,Blackpool,9,87,LAD,,,E06000009,Blackpool,1.0,1.0
+E06000009,2020-03-28,Blackpool,10,88,LAD,,,E06000009,Blackpool,1.0,0.0
+E06000009,2020-03-29,Blackpool,10,89,LAD,,,E06000009,Blackpool,0.0,-1.0
+E06000010,2020-03-18,"Kingston upon Hull, City of",1,78,LAD,,,E06000010,"Kingston upon Hull, City of",,
+E06000010,2020-03-19,"Kingston upon Hull, City of",1,79,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,
+E06000010,2020-03-20,"Kingston upon Hull, City of",1,80,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,0.0
+E06000010,2020-03-21,"Kingston upon Hull, City of",1,81,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,0.0
+E06000010,2020-03-22,"Kingston upon Hull, City of",1,82,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,0.0
+E06000010,2020-03-23,"Kingston upon Hull, City of",1,83,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,0.0
+E06000010,2020-03-24,"Kingston upon Hull, City of",1,84,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,0.0
+E06000010,2020-03-25,"Kingston upon Hull, City of",2,85,LAD,,,E06000010,"Kingston upon Hull, City of",1.0,1.0
+E06000010,2020-03-26,"Kingston upon Hull, City of",4,86,LAD,,,E06000010,"Kingston upon Hull, City of",2.0,1.0
+E06000010,2020-03-27,"Kingston upon Hull, City of",5,87,LAD,,,E06000010,"Kingston upon Hull, City of",1.0,-1.0
+E06000010,2020-03-28,"Kingston upon Hull, City of",5,88,LAD,,,E06000010,"Kingston upon Hull, City of",0.0,-1.0
+E06000010,2020-03-29,"Kingston upon Hull, City of",9,89,LAD,,,E06000010,"Kingston upon Hull, City of",4.0,4.0
+E06000011,2020-03-18,East Riding of Yorkshire,10,78,LAD,,,E06000011,East Riding of Yorkshire,,
+E06000011,2020-03-19,East Riding of Yorkshire,10,79,LAD,,,E06000011,East Riding of Yorkshire,0.0,
+E06000011,2020-03-20,East Riding of Yorkshire,15,80,LAD,,,E06000011,East Riding of Yorkshire,5.0,5.0
+E06000011,2020-03-21,East Riding of Yorkshire,15,81,LAD,,,E06000011,East Riding of Yorkshire,0.0,-5.0
+E06000011,2020-03-22,East Riding of Yorkshire,15,82,LAD,,,E06000011,East Riding of Yorkshire,0.0,0.0
+E06000011,2020-03-23,East Riding of Yorkshire,16,83,LAD,,,E06000011,East Riding of Yorkshire,1.0,1.0
+E06000011,2020-03-24,East Riding of Yorkshire,16,84,LAD,,,E06000011,East Riding of Yorkshire,0.0,-1.0
+E06000011,2020-03-25,East Riding of Yorkshire,19,85,LAD,,,E06000011,East Riding of Yorkshire,3.0,3.0
+E06000011,2020-03-26,East Riding of Yorkshire,21,86,LAD,,,E06000011,East Riding of Yorkshire,2.0,-1.0
+E06000011,2020-03-27,East Riding of Yorkshire,23,87,LAD,,,E06000011,East Riding of Yorkshire,2.0,0.0
+E06000011,2020-03-28,East Riding of Yorkshire,26,88,LAD,,,E06000011,East Riding of Yorkshire,3.0,1.0
+E06000011,2020-03-29,East Riding of Yorkshire,31,89,LAD,,,E06000011,East Riding of Yorkshire,5.0,2.0
+E06000012,2020-03-18,North East Lincolnshire,0,78,LAD,,,E06000012,North East Lincolnshire,,
+E06000012,2020-03-19,North East Lincolnshire,0,79,LAD,,,E06000012,North East Lincolnshire,0.0,
+E06000012,2020-03-20,North East Lincolnshire,0,80,LAD,,,E06000012,North East Lincolnshire,0.0,0.0
+E06000012,2020-03-21,North East Lincolnshire,0,81,LAD,,,E06000012,North East Lincolnshire,0.0,0.0
+E06000012,2020-03-22,North East Lincolnshire,1,82,LAD,,,E06000012,North East Lincolnshire,1.0,1.0
+E06000012,2020-03-23,North East Lincolnshire,1,83,LAD,,,E06000012,North East Lincolnshire,0.0,-1.0
+E06000012,2020-03-24,North East Lincolnshire,3,84,LAD,,,E06000012,North East Lincolnshire,2.0,2.0
+E06000012,2020-03-25,North East Lincolnshire,3,85,LAD,,,E06000012,North East Lincolnshire,0.0,-2.0
+E06000012,2020-03-26,North East Lincolnshire,5,86,LAD,,,E06000012,North East Lincolnshire,2.0,2.0
+E06000012,2020-03-27,North East Lincolnshire,5,87,LAD,,,E06000012,North East Lincolnshire,0.0,-2.0
+E06000012,2020-03-28,North East Lincolnshire,8,88,LAD,,,E06000012,North East Lincolnshire,3.0,3.0
+E06000012,2020-03-29,North East Lincolnshire,16,89,LAD,,,E06000012,North East Lincolnshire,8.0,5.0
+E06000013,2020-03-18,North Lincolnshire,1,78,LAD,,,E06000013,North Lincolnshire,,
+E06000013,2020-03-19,North Lincolnshire,1,79,LAD,,,E06000013,North Lincolnshire,0.0,
+E06000013,2020-03-20,North Lincolnshire,1,80,LAD,,,E06000013,North Lincolnshire,0.0,0.0
+E06000013,2020-03-21,North Lincolnshire,2,81,LAD,,,E06000013,North Lincolnshire,1.0,1.0
+E06000013,2020-03-22,North Lincolnshire,2,82,LAD,,,E06000013,North Lincolnshire,0.0,-1.0
+E06000013,2020-03-23,North Lincolnshire,3,83,LAD,,,E06000013,North Lincolnshire,1.0,1.0
+E06000013,2020-03-24,North Lincolnshire,5,84,LAD,,,E06000013,North Lincolnshire,2.0,1.0
+E06000013,2020-03-25,North Lincolnshire,5,85,LAD,,,E06000013,North Lincolnshire,0.0,-2.0
+E06000013,2020-03-26,North Lincolnshire,6,86,LAD,,,E06000013,North Lincolnshire,1.0,1.0
+E06000013,2020-03-27,North Lincolnshire,6,87,LAD,,,E06000013,North Lincolnshire,0.0,-1.0
+E06000013,2020-03-28,North Lincolnshire,7,88,LAD,,,E06000013,North Lincolnshire,1.0,1.0
+E06000013,2020-03-29,North Lincolnshire,13,89,LAD,,,E06000013,North Lincolnshire,6.0,5.0
+E06000014,2020-03-18,York,4,78,LAD,,,E06000014,York,,
+E06000014,2020-03-19,York,5,79,LAD,,,E06000014,York,1.0,
+E06000014,2020-03-20,York,6,80,LAD,,,E06000014,York,1.0,0.0
+E06000014,2020-03-21,York,8,81,LAD,,,E06000014,York,2.0,1.0
+E06000014,2020-03-22,York,10,82,LAD,,,E06000014,York,2.0,0.0
+E06000014,2020-03-23,York,10,83,LAD,,,E06000014,York,0.0,-2.0
+E06000014,2020-03-24,York,11,84,LAD,,,E06000014,York,1.0,1.0
+E06000014,2020-03-25,York,14,85,LAD,,,E06000014,York,3.0,2.0
+E06000014,2020-03-26,York,14,86,LAD,,,E06000014,York,0.0,-3.0
+E06000014,2020-03-27,York,17,87,LAD,,,E06000014,York,3.0,3.0
+E06000014,2020-03-28,York,19,88,LAD,,,E06000014,York,2.0,-1.0
+E06000014,2020-03-29,York,21,89,LAD,,,E06000014,York,2.0,0.0
+E06000015,2020-03-18,Derby,11,78,LAD,,,E06000015,Derby,,
+E06000015,2020-03-19,Derby,9,79,LAD,,,E06000015,Derby,-2.0,
+E06000015,2020-03-20,Derby,12,80,LAD,,,E06000015,Derby,3.0,5.0
+E06000015,2020-03-21,Derby,18,81,LAD,,,E06000015,Derby,6.0,3.0
+E06000015,2020-03-22,Derby,23,82,LAD,,,E06000015,Derby,5.0,-1.0
+E06000015,2020-03-23,Derby,23,83,LAD,,,E06000015,Derby,0.0,-5.0
+E06000015,2020-03-24,Derby,37,84,LAD,,,E06000015,Derby,14.0,14.0
+E06000015,2020-03-25,Derby,40,85,LAD,,,E06000015,Derby,3.0,-11.0
+E06000015,2020-03-26,Derby,58,86,LAD,,,E06000015,Derby,18.0,15.0
+E06000015,2020-03-27,Derby,77,87,LAD,,,E06000015,Derby,19.0,1.0
+E06000015,2020-03-28,Derby,100,88,LAD,,,E06000015,Derby,23.0,4.0
+E06000015,2020-03-29,Derby,105,89,LAD,,,E06000015,Derby,5.0,-18.0
+E06000016,2020-03-18,Leicester,3,78,LAD,,,E06000016,Leicester,,
+E06000016,2020-03-19,Leicester,5,79,LAD,,,E06000016,Leicester,2.0,
+E06000016,2020-03-20,Leicester,11,80,LAD,,,E06000016,Leicester,6.0,4.0
+E06000016,2020-03-21,Leicester,14,81,LAD,,,E06000016,Leicester,3.0,-3.0
+E06000016,2020-03-22,Leicester,19,82,LAD,,,E06000016,Leicester,5.0,2.0
+E06000016,2020-03-23,Leicester,22,83,LAD,,,E06000016,Leicester,3.0,-2.0
+E06000016,2020-03-24,Leicester,24,84,LAD,,,E06000016,Leicester,2.0,-1.0
+E06000016,2020-03-25,Leicester,32,85,LAD,,,E06000016,Leicester,8.0,6.0
+E06000016,2020-03-26,Leicester,45,86,LAD,,,E06000016,Leicester,13.0,5.0
+E06000016,2020-03-27,Leicester,61,87,LAD,,,E06000016,Leicester,16.0,3.0
+E06000016,2020-03-28,Leicester,65,88,LAD,,,E06000016,Leicester,4.0,-12.0
+E06000016,2020-03-29,Leicester,65,89,LAD,,,E06000016,Leicester,0.0,-4.0
+E06000017,2020-03-18,Rutland,0,78,LAD,,,E06000017,Rutland,,
+E06000017,2020-03-19,Rutland,0,79,LAD,,,E06000017,Rutland,0.0,
+E06000017,2020-03-20,Rutland,0,80,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-21,Rutland,0,81,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-22,Rutland,0,82,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-23,Rutland,0,83,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-24,Rutland,0,84,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-25,Rutland,0,85,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-26,Rutland,0,86,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-27,Rutland,0,87,LAD,,,E06000017,Rutland,0.0,0.0
+E06000017,2020-03-28,Rutland,2,88,LAD,,,E06000017,Rutland,2.0,2.0
+E06000017,2020-03-29,Rutland,2,89,LAD,,,E06000017,Rutland,0.0,-2.0
+E06000018,2020-03-18,Nottingham,14,78,LAD,,,E06000018,Nottingham,,
+E06000018,2020-03-19,Nottingham,14,79,LAD,,,E06000018,Nottingham,0.0,
+E06000018,2020-03-20,Nottingham,22,80,LAD,,,E06000018,Nottingham,8.0,8.0
+E06000018,2020-03-21,Nottingham,22,81,LAD,,,E06000018,Nottingham,0.0,-8.0
+E06000018,2020-03-22,Nottingham,34,82,LAD,,,E06000018,Nottingham,12.0,12.0
+E06000018,2020-03-23,Nottingham,41,83,LAD,,,E06000018,Nottingham,7.0,-5.0
+E06000018,2020-03-24,Nottingham,49,84,LAD,,,E06000018,Nottingham,8.0,1.0
+E06000018,2020-03-25,Nottingham,57,85,LAD,,,E06000018,Nottingham,8.0,0.0
+E06000018,2020-03-26,Nottingham,67,86,LAD,,,E06000018,Nottingham,10.0,2.0
+E06000018,2020-03-27,Nottingham,79,87,LAD,,,E06000018,Nottingham,12.0,2.0
+E06000018,2020-03-28,Nottingham,91,88,LAD,,,E06000018,Nottingham,12.0,0.0
+E06000018,2020-03-29,Nottingham,97,89,LAD,,,E06000018,Nottingham,6.0,-6.0
+E06000019,2020-03-18,"Herefordshire, County of",3,78,LAD,,,E06000019,"Herefordshire, County of",,
+E06000019,2020-03-19,"Herefordshire, County of",3,79,LAD,,,E06000019,"Herefordshire, County of",0.0,
+E06000019,2020-03-20,"Herefordshire, County of",3,80,LAD,,,E06000019,"Herefordshire, County of",0.0,0.0
+E06000019,2020-03-21,"Herefordshire, County of",7,81,LAD,,,E06000019,"Herefordshire, County of",4.0,4.0
+E06000019,2020-03-22,"Herefordshire, County of",7,82,LAD,,,E06000019,"Herefordshire, County of",0.0,-4.0
+E06000019,2020-03-23,"Herefordshire, County of",7,83,LAD,,,E06000019,"Herefordshire, County of",0.0,0.0
+E06000019,2020-03-24,"Herefordshire, County of",15,84,LAD,,,E06000019,"Herefordshire, County of",8.0,8.0
+E06000019,2020-03-25,"Herefordshire, County of",15,85,LAD,,,E06000019,"Herefordshire, County of",0.0,-8.0
+E06000019,2020-03-26,"Herefordshire, County of",21,86,LAD,,,E06000019,"Herefordshire, County of",6.0,6.0
+E06000019,2020-03-27,"Herefordshire, County of",23,87,LAD,,,E06000019,"Herefordshire, County of",2.0,-4.0
+E06000019,2020-03-28,"Herefordshire, County of",25,88,LAD,,,E06000019,"Herefordshire, County of",2.0,0.0
+E06000019,2020-03-29,"Herefordshire, County of",25,89,LAD,,,E06000019,"Herefordshire, County of",0.0,-2.0
+E06000020,2020-03-18,Telford and Wrekin,0,78,LAD,,,E06000020,Telford and Wrekin,,
+E06000020,2020-03-19,Telford and Wrekin,0,79,LAD,,,E06000020,Telford and Wrekin,0.0,
+E06000020,2020-03-20,Telford and Wrekin,0,80,LAD,,,E06000020,Telford and Wrekin,0.0,0.0
+E06000020,2020-03-21,Telford and Wrekin,0,81,LAD,,,E06000020,Telford and Wrekin,0.0,0.0
+E06000020,2020-03-22,Telford and Wrekin,1,82,LAD,,,E06000020,Telford and Wrekin,1.0,1.0
+E06000020,2020-03-23,Telford and Wrekin,3,83,LAD,,,E06000020,Telford and Wrekin,2.0,1.0
+E06000020,2020-03-24,Telford and Wrekin,9,84,LAD,,,E06000020,Telford and Wrekin,6.0,4.0
+E06000020,2020-03-25,Telford and Wrekin,12,85,LAD,,,E06000020,Telford and Wrekin,3.0,-3.0
+E06000020,2020-03-26,Telford and Wrekin,17,86,LAD,,,E06000020,Telford and Wrekin,5.0,2.0
+E06000020,2020-03-27,Telford and Wrekin,21,87,LAD,,,E06000020,Telford and Wrekin,4.0,-1.0
+E06000020,2020-03-28,Telford and Wrekin,23,88,LAD,,,E06000020,Telford and Wrekin,2.0,-2.0
+E06000020,2020-03-29,Telford and Wrekin,34,89,LAD,,,E06000020,Telford and Wrekin,11.0,9.0
+E06000021,2020-03-18,Stoke-on-Trent,1,78,LAD,,,E06000021,Stoke-on-Trent,,
+E06000021,2020-03-19,Stoke-on-Trent,2,79,LAD,,,E06000021,Stoke-on-Trent,1.0,
+E06000021,2020-03-20,Stoke-on-Trent,2,80,LAD,,,E06000021,Stoke-on-Trent,0.0,-1.0
+E06000021,2020-03-21,Stoke-on-Trent,2,81,LAD,,,E06000021,Stoke-on-Trent,0.0,0.0
+E06000021,2020-03-22,Stoke-on-Trent,2,82,LAD,,,E06000021,Stoke-on-Trent,0.0,0.0
+E06000021,2020-03-23,Stoke-on-Trent,4,83,LAD,,,E06000021,Stoke-on-Trent,2.0,2.0
+E06000021,2020-03-24,Stoke-on-Trent,9,84,LAD,,,E06000021,Stoke-on-Trent,5.0,3.0
+E06000021,2020-03-25,Stoke-on-Trent,12,85,LAD,,,E06000021,Stoke-on-Trent,3.0,-2.0
+E06000021,2020-03-26,Stoke-on-Trent,16,86,LAD,,,E06000021,Stoke-on-Trent,4.0,1.0
+E06000021,2020-03-27,Stoke-on-Trent,21,87,LAD,,,E06000021,Stoke-on-Trent,5.0,1.0
+E06000021,2020-03-28,Stoke-on-Trent,27,88,LAD,,,E06000021,Stoke-on-Trent,6.0,1.0
+E06000021,2020-03-29,Stoke-on-Trent,28,89,LAD,,,E06000021,Stoke-on-Trent,1.0,-5.0
+E06000022,2020-03-18,Bath and North East Somerset,3,78,LAD,,,E06000022,Bath and North East Somerset,,
+E06000022,2020-03-19,Bath and North East Somerset,4,79,LAD,,,E06000022,Bath and North East Somerset,1.0,
+E06000022,2020-03-20,Bath and North East Somerset,5,80,LAD,,,E06000022,Bath and North East Somerset,1.0,0.0
+E06000022,2020-03-21,Bath and North East Somerset,11,81,LAD,,,E06000022,Bath and North East Somerset,6.0,5.0
+E06000022,2020-03-22,Bath and North East Somerset,13,82,LAD,,,E06000022,Bath and North East Somerset,2.0,-4.0
+E06000022,2020-03-23,Bath and North East Somerset,16,83,LAD,,,E06000022,Bath and North East Somerset,3.0,1.0
+E06000022,2020-03-24,Bath and North East Somerset,17,84,LAD,,,E06000022,Bath and North East Somerset,1.0,-2.0
+E06000022,2020-03-25,Bath and North East Somerset,20,85,LAD,,,E06000022,Bath and North East Somerset,3.0,2.0
+E06000022,2020-03-26,Bath and North East Somerset,23,86,LAD,,,E06000022,Bath and North East Somerset,3.0,0.0
+E06000022,2020-03-27,Bath and North East Somerset,26,87,LAD,,,E06000022,Bath and North East Somerset,3.0,0.0
+E06000022,2020-03-28,Bath and North East Somerset,32,88,LAD,,,E06000022,Bath and North East Somerset,6.0,3.0
+E06000022,2020-03-29,Bath and North East Somerset,36,89,LAD,,,E06000022,Bath and North East Somerset,4.0,-2.0
+E06000023,2020-03-18,"Bristol, City of",12,78,LAD,,,E06000023,"Bristol, City of",,
+E06000023,2020-03-19,"Bristol, City of",12,79,LAD,,,E06000023,"Bristol, City of",0.0,
+E06000023,2020-03-20,"Bristol, City of",13,80,LAD,,,E06000023,"Bristol, City of",1.0,1.0
+E06000023,2020-03-21,"Bristol, City of",20,81,LAD,,,E06000023,"Bristol, City of",7.0,6.0
+E06000023,2020-03-22,"Bristol, City of",23,82,LAD,,,E06000023,"Bristol, City of",3.0,-4.0
+E06000023,2020-03-23,"Bristol, City of",28,83,LAD,,,E06000023,"Bristol, City of",5.0,2.0
+E06000023,2020-03-24,"Bristol, City of",37,84,LAD,,,E06000023,"Bristol, City of",9.0,4.0
+E06000023,2020-03-25,"Bristol, City of",41,85,LAD,,,E06000023,"Bristol, City of",4.0,-5.0
+E06000023,2020-03-26,"Bristol, City of",51,86,LAD,,,E06000023,"Bristol, City of",10.0,6.0
+E06000023,2020-03-27,"Bristol, City of",56,87,LAD,,,E06000023,"Bristol, City of",5.0,-5.0
+E06000023,2020-03-28,"Bristol, City of",65,88,LAD,,,E06000023,"Bristol, City of",9.0,4.0
+E06000023,2020-03-29,"Bristol, City of",78,89,LAD,,,E06000023,"Bristol, City of",13.0,4.0
+E06000024,2020-03-18,North Somerset,4,78,LAD,,,E06000024,North Somerset,,
+E06000024,2020-03-19,North Somerset,4,79,LAD,,,E06000024,North Somerset,0.0,
+E06000024,2020-03-20,North Somerset,4,80,LAD,,,E06000024,North Somerset,0.0,0.0
+E06000024,2020-03-21,North Somerset,5,81,LAD,,,E06000024,North Somerset,1.0,1.0
+E06000024,2020-03-22,North Somerset,5,82,LAD,,,E06000024,North Somerset,0.0,-1.0
+E06000024,2020-03-23,North Somerset,7,83,LAD,,,E06000024,North Somerset,2.0,2.0
+E06000024,2020-03-24,North Somerset,21,84,LAD,,,E06000024,North Somerset,14.0,12.0
+E06000024,2020-03-25,North Somerset,21,85,LAD,,,E06000024,North Somerset,0.0,-14.0
+E06000024,2020-03-26,North Somerset,22,86,LAD,,,E06000024,North Somerset,1.0,1.0
+E06000024,2020-03-27,North Somerset,24,87,LAD,,,E06000024,North Somerset,2.0,1.0
+E06000024,2020-03-28,North Somerset,31,88,LAD,,,E06000024,North Somerset,7.0,5.0
+E06000024,2020-03-29,North Somerset,32,89,LAD,,,E06000024,North Somerset,1.0,-6.0
+E06000025,2020-03-18,South Gloucestershire,9,78,LAD,,,E06000025,South Gloucestershire,,
+E06000025,2020-03-19,South Gloucestershire,12,79,LAD,,,E06000025,South Gloucestershire,3.0,
+E06000025,2020-03-20,South Gloucestershire,13,80,LAD,,,E06000025,South Gloucestershire,1.0,-2.0
+E06000025,2020-03-21,South Gloucestershire,14,81,LAD,,,E06000025,South Gloucestershire,1.0,0.0
+E06000025,2020-03-22,South Gloucestershire,17,82,LAD,,,E06000025,South Gloucestershire,3.0,2.0
+E06000025,2020-03-23,South Gloucestershire,19,83,LAD,,,E06000025,South Gloucestershire,2.0,-1.0
+E06000025,2020-03-24,South Gloucestershire,19,84,LAD,,,E06000025,South Gloucestershire,0.0,-2.0
+E06000025,2020-03-25,South Gloucestershire,25,85,LAD,,,E06000025,South Gloucestershire,6.0,6.0
+E06000025,2020-03-26,South Gloucestershire,31,86,LAD,,,E06000025,South Gloucestershire,6.0,0.0
+E06000025,2020-03-27,South Gloucestershire,37,87,LAD,,,E06000025,South Gloucestershire,6.0,0.0
+E06000025,2020-03-28,South Gloucestershire,49,88,LAD,,,E06000025,South Gloucestershire,12.0,6.0
+E06000025,2020-03-29,South Gloucestershire,53,89,LAD,,,E06000025,South Gloucestershire,4.0,-8.0
+E06000026,2020-03-18,Plymouth,5,78,LAD,,,E06000026,Plymouth,,
+E06000026,2020-03-19,Plymouth,7,79,LAD,,,E06000026,Plymouth,2.0,
+E06000026,2020-03-20,Plymouth,7,80,LAD,,,E06000026,Plymouth,0.0,-2.0
+E06000026,2020-03-21,Plymouth,11,81,LAD,,,E06000026,Plymouth,4.0,4.0
+E06000026,2020-03-22,Plymouth,11,82,LAD,,,E06000026,Plymouth,0.0,-4.0
+E06000026,2020-03-23,Plymouth,11,83,LAD,,,E06000026,Plymouth,0.0,0.0
+E06000026,2020-03-24,Plymouth,16,84,LAD,,,E06000026,Plymouth,5.0,5.0
+E06000026,2020-03-25,Plymouth,21,85,LAD,,,E06000026,Plymouth,5.0,0.0
+E06000026,2020-03-26,Plymouth,26,86,LAD,,,E06000026,Plymouth,5.0,0.0
+E06000026,2020-03-27,Plymouth,32,87,LAD,,,E06000026,Plymouth,6.0,1.0
+E06000026,2020-03-28,Plymouth,39,88,LAD,,,E06000026,Plymouth,7.0,1.0
+E06000026,2020-03-29,Plymouth,42,89,LAD,,,E06000026,Plymouth,3.0,-4.0
+E06000027,2020-03-18,Torbay,6,78,LAD,,,E06000027,Torbay,,
+E06000027,2020-03-19,Torbay,8,79,LAD,,,E06000027,Torbay,2.0,
+E06000027,2020-03-20,Torbay,10,80,LAD,,,E06000027,Torbay,2.0,0.0
+E06000027,2020-03-21,Torbay,10,81,LAD,,,E06000027,Torbay,0.0,-2.0
+E06000027,2020-03-22,Torbay,16,82,LAD,,,E06000027,Torbay,6.0,6.0
+E06000027,2020-03-23,Torbay,17,83,LAD,,,E06000027,Torbay,1.0,-5.0
+E06000027,2020-03-24,Torbay,17,84,LAD,,,E06000027,Torbay,0.0,-1.0
+E06000027,2020-03-25,Torbay,18,85,LAD,,,E06000027,Torbay,1.0,1.0
+E06000027,2020-03-26,Torbay,21,86,LAD,,,E06000027,Torbay,3.0,2.0
+E06000027,2020-03-27,Torbay,23,87,LAD,,,E06000027,Torbay,2.0,-1.0
+E06000027,2020-03-28,Torbay,25,88,LAD,,,E06000027,Torbay,2.0,0.0
+E06000027,2020-03-29,Torbay,30,89,LAD,,,E06000027,Torbay,5.0,3.0
+E06000030,2020-03-18,Swindon,3,78,LAD,,,E06000030,Swindon,,
+E06000030,2020-03-19,Swindon,4,79,LAD,,,E06000030,Swindon,1.0,
+E06000030,2020-03-20,Swindon,5,80,LAD,,,E06000030,Swindon,1.0,0.0
+E06000030,2020-03-21,Swindon,5,81,LAD,,,E06000030,Swindon,0.0,-1.0
+E06000030,2020-03-22,Swindon,6,82,LAD,,,E06000030,Swindon,1.0,1.0
+E06000030,2020-03-23,Swindon,7,83,LAD,,,E06000030,Swindon,1.0,0.0
+E06000030,2020-03-24,Swindon,7,84,LAD,,,E06000030,Swindon,0.0,-1.0
+E06000030,2020-03-25,Swindon,8,85,LAD,,,E06000030,Swindon,1.0,1.0
+E06000030,2020-03-26,Swindon,11,86,LAD,,,E06000030,Swindon,3.0,2.0
+E06000030,2020-03-27,Swindon,16,87,LAD,,,E06000030,Swindon,5.0,2.0
+E06000030,2020-03-28,Swindon,18,88,LAD,,,E06000030,Swindon,2.0,-3.0
+E06000030,2020-03-29,Swindon,26,89,LAD,,,E06000030,Swindon,8.0,6.0
+E06000031,2020-03-18,Peterborough,2,78,LAD,,,E06000031,Peterborough,,
+E06000031,2020-03-19,Peterborough,2,79,LAD,,,E06000031,Peterborough,0.0,
+E06000031,2020-03-20,Peterborough,2,80,LAD,,,E06000031,Peterborough,0.0,0.0
+E06000031,2020-03-21,Peterborough,2,81,LAD,,,E06000031,Peterborough,0.0,0.0
+E06000031,2020-03-22,Peterborough,2,82,LAD,,,E06000031,Peterborough,0.0,0.0
+E06000031,2020-03-23,Peterborough,3,83,LAD,,,E06000031,Peterborough,1.0,1.0
+E06000031,2020-03-24,Peterborough,6,84,LAD,,,E06000031,Peterborough,3.0,2.0
+E06000031,2020-03-25,Peterborough,9,85,LAD,,,E06000031,Peterborough,3.0,0.0
+E06000031,2020-03-26,Peterborough,10,86,LAD,,,E06000031,Peterborough,1.0,-2.0
+E06000031,2020-03-27,Peterborough,11,87,LAD,,,E06000031,Peterborough,1.0,0.0
+E06000031,2020-03-28,Peterborough,20,88,LAD,,,E06000031,Peterborough,9.0,8.0
+E06000031,2020-03-29,Peterborough,21,89,LAD,,,E06000031,Peterborough,1.0,-8.0
+E06000032,2020-03-18,Luton,3,78,LAD,,,E06000032,Luton,,
+E06000032,2020-03-19,Luton,3,79,LAD,,,E06000032,Luton,0.0,
+E06000032,2020-03-20,Luton,4,80,LAD,,,E06000032,Luton,1.0,1.0
+E06000032,2020-03-21,Luton,5,81,LAD,,,E06000032,Luton,1.0,0.0
+E06000032,2020-03-22,Luton,8,82,LAD,,,E06000032,Luton,3.0,2.0
+E06000032,2020-03-23,Luton,15,83,LAD,,,E06000032,Luton,7.0,4.0
+E06000032,2020-03-24,Luton,19,84,LAD,,,E06000032,Luton,4.0,-3.0
+E06000032,2020-03-25,Luton,29,85,LAD,,,E06000032,Luton,10.0,6.0
+E06000032,2020-03-26,Luton,30,86,LAD,,,E06000032,Luton,1.0,-9.0
+E06000032,2020-03-27,Luton,47,87,LAD,,,E06000032,Luton,17.0,16.0
+E06000032,2020-03-28,Luton,53,88,LAD,,,E06000032,Luton,6.0,-11.0
+E06000032,2020-03-29,Luton,63,89,LAD,,,E06000032,Luton,10.0,4.0
+E06000033,2020-03-18,Southend-on-Sea,5,78,LAD,,,E06000033,Southend-on-Sea,,
+E06000033,2020-03-19,Southend-on-Sea,4,79,LAD,,,E06000033,Southend-on-Sea,-1.0,
+E06000033,2020-03-20,Southend-on-Sea,5,80,LAD,,,E06000033,Southend-on-Sea,1.0,2.0
+E06000033,2020-03-21,Southend-on-Sea,8,81,LAD,,,E06000033,Southend-on-Sea,3.0,2.0
+E06000033,2020-03-22,Southend-on-Sea,8,82,LAD,,,E06000033,Southend-on-Sea,0.0,-3.0
+E06000033,2020-03-23,Southend-on-Sea,8,83,LAD,,,E06000033,Southend-on-Sea,0.0,0.0
+E06000033,2020-03-24,Southend-on-Sea,8,84,LAD,,,E06000033,Southend-on-Sea,0.0,0.0
+E06000033,2020-03-25,Southend-on-Sea,9,85,LAD,,,E06000033,Southend-on-Sea,1.0,1.0
+E06000033,2020-03-26,Southend-on-Sea,12,86,LAD,,,E06000033,Southend-on-Sea,3.0,2.0
+E06000033,2020-03-27,Southend-on-Sea,17,87,LAD,,,E06000033,Southend-on-Sea,5.0,2.0
+E06000033,2020-03-28,Southend-on-Sea,23,88,LAD,,,E06000033,Southend-on-Sea,6.0,1.0
+E06000033,2020-03-29,Southend-on-Sea,24,89,LAD,,,E06000033,Southend-on-Sea,1.0,-5.0
+E06000034,2020-03-18,Thurrock,2,78,LAD,,,E06000034,Thurrock,,
+E06000034,2020-03-19,Thurrock,3,79,LAD,,,E06000034,Thurrock,1.0,
+E06000034,2020-03-20,Thurrock,6,80,LAD,,,E06000034,Thurrock,3.0,2.0
+E06000034,2020-03-21,Thurrock,8,81,LAD,,,E06000034,Thurrock,2.0,-1.0
+E06000034,2020-03-22,Thurrock,10,82,LAD,,,E06000034,Thurrock,2.0,0.0
+E06000034,2020-03-23,Thurrock,13,83,LAD,,,E06000034,Thurrock,3.0,1.0
+E06000034,2020-03-24,Thurrock,15,84,LAD,,,E06000034,Thurrock,2.0,-1.0
+E06000034,2020-03-25,Thurrock,15,85,LAD,,,E06000034,Thurrock,0.0,-2.0
+E06000034,2020-03-26,Thurrock,20,86,LAD,,,E06000034,Thurrock,5.0,5.0
+E06000034,2020-03-27,Thurrock,26,87,LAD,,,E06000034,Thurrock,6.0,1.0
+E06000034,2020-03-28,Thurrock,33,88,LAD,,,E06000034,Thurrock,7.0,1.0
+E06000034,2020-03-29,Thurrock,37,89,LAD,,,E06000034,Thurrock,4.0,-3.0
+E06000035,2020-03-18,Medway,4,78,LAD,,,E06000035,Medway,,
+E06000035,2020-03-19,Medway,8,79,LAD,,,E06000035,Medway,4.0,
+E06000035,2020-03-20,Medway,11,80,LAD,,,E06000035,Medway,3.0,-1.0
+E06000035,2020-03-21,Medway,11,81,LAD,,,E06000035,Medway,0.0,-3.0
+E06000035,2020-03-22,Medway,11,82,LAD,,,E06000035,Medway,0.0,0.0
+E06000035,2020-03-23,Medway,15,83,LAD,,,E06000035,Medway,4.0,4.0
+E06000035,2020-03-24,Medway,19,84,LAD,,,E06000035,Medway,4.0,0.0
+E06000035,2020-03-25,Medway,25,85,LAD,,,E06000035,Medway,6.0,2.0
+E06000035,2020-03-26,Medway,32,86,LAD,,,E06000035,Medway,7.0,1.0
+E06000035,2020-03-27,Medway,48,87,LAD,,,E06000035,Medway,16.0,9.0
+E06000035,2020-03-28,Medway,50,88,LAD,,,E06000035,Medway,2.0,-14.0
+E06000035,2020-03-29,Medway,57,89,LAD,,,E06000035,Medway,7.0,5.0
+E06000036,2020-03-18,Bracknell Forest,3,78,LAD,,,E06000036,Bracknell Forest,,
+E06000036,2020-03-19,Bracknell Forest,3,79,LAD,,,E06000036,Bracknell Forest,0.0,
+E06000036,2020-03-20,Bracknell Forest,3,80,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-21,Bracknell Forest,3,81,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-22,Bracknell Forest,3,82,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-23,Bracknell Forest,3,83,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-24,Bracknell Forest,3,84,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-25,Bracknell Forest,3,85,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-26,Bracknell Forest,3,86,LAD,,,E06000036,Bracknell Forest,0.0,0.0
+E06000036,2020-03-27,Bracknell Forest,16,87,LAD,,,E06000036,Bracknell Forest,13.0,13.0
+E06000036,2020-03-28,Bracknell Forest,17,88,LAD,,,E06000036,Bracknell Forest,1.0,-12.0
+E06000036,2020-03-29,Bracknell Forest,19,89,LAD,,,E06000036,Bracknell Forest,2.0,1.0
+E06000037,2020-03-18,West Berkshire,3,78,LAD,,,E06000037,West Berkshire,,
+E06000037,2020-03-19,West Berkshire,3,79,LAD,,,E06000037,West Berkshire,0.0,
+E06000037,2020-03-20,West Berkshire,6,80,LAD,,,E06000037,West Berkshire,3.0,3.0
+E06000037,2020-03-21,West Berkshire,7,81,LAD,,,E06000037,West Berkshire,1.0,-2.0
+E06000037,2020-03-22,West Berkshire,8,82,LAD,,,E06000037,West Berkshire,1.0,0.0
+E06000037,2020-03-23,West Berkshire,10,83,LAD,,,E06000037,West Berkshire,2.0,1.0
+E06000037,2020-03-24,West Berkshire,12,84,LAD,,,E06000037,West Berkshire,2.0,0.0
+E06000037,2020-03-25,West Berkshire,16,85,LAD,,,E06000037,West Berkshire,4.0,2.0
+E06000037,2020-03-26,West Berkshire,18,86,LAD,,,E06000037,West Berkshire,2.0,-2.0
+E06000037,2020-03-27,West Berkshire,32,87,LAD,,,E06000037,West Berkshire,14.0,12.0
+E06000037,2020-03-28,West Berkshire,36,88,LAD,,,E06000037,West Berkshire,4.0,-10.0
+E06000037,2020-03-29,West Berkshire,40,89,LAD,,,E06000037,West Berkshire,4.0,0.0
+E06000038,2020-03-18,Reading,5,78,LAD,,,E06000038,Reading,,
+E06000038,2020-03-19,Reading,7,79,LAD,,,E06000038,Reading,2.0,
+E06000038,2020-03-20,Reading,7,80,LAD,,,E06000038,Reading,0.0,-2.0
+E06000038,2020-03-21,Reading,7,81,LAD,,,E06000038,Reading,0.0,0.0
+E06000038,2020-03-22,Reading,8,82,LAD,,,E06000038,Reading,1.0,1.0
+E06000038,2020-03-23,Reading,8,83,LAD,,,E06000038,Reading,0.0,-1.0
+E06000038,2020-03-24,Reading,8,84,LAD,,,E06000038,Reading,0.0,0.0
+E06000038,2020-03-25,Reading,9,85,LAD,,,E06000038,Reading,1.0,1.0
+E06000038,2020-03-26,Reading,10,86,LAD,,,E06000038,Reading,1.0,0.0
+E06000038,2020-03-27,Reading,25,87,LAD,,,E06000038,Reading,15.0,14.0
+E06000038,2020-03-28,Reading,27,88,LAD,,,E06000038,Reading,2.0,-13.0
+E06000038,2020-03-29,Reading,27,89,LAD,,,E06000038,Reading,0.0,-2.0
+E06000039,2020-03-18,Slough,13,78,LAD,,,E06000039,Slough,,
+E06000039,2020-03-19,Slough,17,79,LAD,,,E06000039,Slough,4.0,
+E06000039,2020-03-20,Slough,20,80,LAD,,,E06000039,Slough,3.0,-1.0
+E06000039,2020-03-21,Slough,21,81,LAD,,,E06000039,Slough,1.0,-2.0
+E06000039,2020-03-22,Slough,21,82,LAD,,,E06000039,Slough,0.0,-1.0
+E06000039,2020-03-23,Slough,22,83,LAD,,,E06000039,Slough,1.0,1.0
+E06000039,2020-03-24,Slough,22,84,LAD,,,E06000039,Slough,0.0,-1.0
+E06000039,2020-03-25,Slough,22,85,LAD,,,E06000039,Slough,0.0,0.0
+E06000039,2020-03-26,Slough,22,86,LAD,,,E06000039,Slough,0.0,0.0
+E06000039,2020-03-27,Slough,59,87,LAD,,,E06000039,Slough,37.0,37.0
+E06000039,2020-03-28,Slough,69,88,LAD,,,E06000039,Slough,10.0,-27.0
+E06000039,2020-03-29,Slough,73,89,LAD,,,E06000039,Slough,4.0,-6.0
+E06000040,2020-03-18,Windsor and Maidenhead,10,78,LAD,,,E06000040,Windsor and Maidenhead,,
+E06000040,2020-03-19,Windsor and Maidenhead,13,79,LAD,,,E06000040,Windsor and Maidenhead,3.0,
+E06000040,2020-03-20,Windsor and Maidenhead,13,80,LAD,,,E06000040,Windsor and Maidenhead,0.0,-3.0
+E06000040,2020-03-21,Windsor and Maidenhead,13,81,LAD,,,E06000040,Windsor and Maidenhead,0.0,0.0
+E06000040,2020-03-22,Windsor and Maidenhead,13,82,LAD,,,E06000040,Windsor and Maidenhead,0.0,0.0
+E06000040,2020-03-23,Windsor and Maidenhead,13,83,LAD,,,E06000040,Windsor and Maidenhead,0.0,0.0
+E06000040,2020-03-24,Windsor and Maidenhead,13,84,LAD,,,E06000040,Windsor and Maidenhead,0.0,0.0
+E06000040,2020-03-25,Windsor and Maidenhead,13,85,LAD,,,E06000040,Windsor and Maidenhead,0.0,0.0
+E06000040,2020-03-26,Windsor and Maidenhead,14,86,LAD,,,E06000040,Windsor and Maidenhead,1.0,1.0
+E06000040,2020-03-27,Windsor and Maidenhead,37,87,LAD,,,E06000040,Windsor and Maidenhead,23.0,22.0
+E06000040,2020-03-28,Windsor and Maidenhead,44,88,LAD,,,E06000040,Windsor and Maidenhead,7.0,-16.0
+E06000040,2020-03-29,Windsor and Maidenhead,48,89,LAD,,,E06000040,Windsor and Maidenhead,4.0,-3.0
+E06000041,2020-03-18,Wokingham,10,78,LAD,,,E06000041,Wokingham,,
+E06000041,2020-03-19,Wokingham,9,79,LAD,,,E06000041,Wokingham,-1.0,
+E06000041,2020-03-20,Wokingham,12,80,LAD,,,E06000041,Wokingham,3.0,4.0
+E06000041,2020-03-21,Wokingham,13,81,LAD,,,E06000041,Wokingham,1.0,-2.0
+E06000041,2020-03-22,Wokingham,13,82,LAD,,,E06000041,Wokingham,0.0,-1.0
+E06000041,2020-03-23,Wokingham,13,83,LAD,,,E06000041,Wokingham,0.0,0.0
+E06000041,2020-03-24,Wokingham,13,84,LAD,,,E06000041,Wokingham,0.0,0.0
+E06000041,2020-03-25,Wokingham,13,85,LAD,,,E06000041,Wokingham,0.0,0.0
+E06000041,2020-03-26,Wokingham,13,86,LAD,,,E06000041,Wokingham,0.0,0.0
+E06000041,2020-03-27,Wokingham,22,87,LAD,,,E06000041,Wokingham,9.0,9.0
+E06000041,2020-03-28,Wokingham,23,88,LAD,,,E06000041,Wokingham,1.0,-8.0
+E06000041,2020-03-29,Wokingham,23,89,LAD,,,E06000041,Wokingham,0.0,-1.0
+E06000042,2020-03-18,Milton Keynes,4,78,LAD,,,E06000042,Milton Keynes,,
+E06000042,2020-03-19,Milton Keynes,5,79,LAD,,,E06000042,Milton Keynes,1.0,
+E06000042,2020-03-20,Milton Keynes,7,80,LAD,,,E06000042,Milton Keynes,2.0,1.0
+E06000042,2020-03-21,Milton Keynes,7,81,LAD,,,E06000042,Milton Keynes,0.0,-2.0
+E06000042,2020-03-22,Milton Keynes,11,82,LAD,,,E06000042,Milton Keynes,4.0,4.0
+E06000042,2020-03-23,Milton Keynes,17,83,LAD,,,E06000042,Milton Keynes,6.0,2.0
+E06000042,2020-03-24,Milton Keynes,25,84,LAD,,,E06000042,Milton Keynes,8.0,2.0
+E06000042,2020-03-25,Milton Keynes,29,85,LAD,,,E06000042,Milton Keynes,4.0,-4.0
+E06000042,2020-03-26,Milton Keynes,38,86,LAD,,,E06000042,Milton Keynes,9.0,5.0
+E06000042,2020-03-27,Milton Keynes,58,87,LAD,,,E06000042,Milton Keynes,20.0,11.0
+E06000042,2020-03-28,Milton Keynes,71,88,LAD,,,E06000042,Milton Keynes,13.0,-7.0
+E06000042,2020-03-29,Milton Keynes,82,89,LAD,,,E06000042,Milton Keynes,11.0,-2.0
+E06000043,2020-03-18,Brighton and Hove,11,78,LAD,,,E06000043,Brighton and Hove,,
+E06000043,2020-03-19,Brighton and Hove,12,79,LAD,,,E06000043,Brighton and Hove,1.0,
+E06000043,2020-03-20,Brighton and Hove,14,80,LAD,,,E06000043,Brighton and Hove,2.0,1.0
+E06000043,2020-03-21,Brighton and Hove,17,81,LAD,,,E06000043,Brighton and Hove,3.0,1.0
+E06000043,2020-03-22,Brighton and Hove,17,82,LAD,,,E06000043,Brighton and Hove,0.0,-3.0
+E06000043,2020-03-23,Brighton and Hove,17,83,LAD,,,E06000043,Brighton and Hove,0.0,0.0
+E06000043,2020-03-24,Brighton and Hove,25,84,LAD,,,E06000043,Brighton and Hove,8.0,8.0
+E06000043,2020-03-25,Brighton and Hove,25,85,LAD,,,E06000043,Brighton and Hove,0.0,-8.0
+E06000043,2020-03-26,Brighton and Hove,30,86,LAD,,,E06000043,Brighton and Hove,5.0,5.0
+E06000043,2020-03-27,Brighton and Hove,33,87,LAD,,,E06000043,Brighton and Hove,3.0,-2.0
+E06000043,2020-03-28,Brighton and Hove,33,88,LAD,,,E06000043,Brighton and Hove,0.0,-3.0
+E06000043,2020-03-29,Brighton and Hove,33,89,LAD,,,E06000043,Brighton and Hove,0.0,0.0
+E06000044,2020-03-18,Portsmouth,4,78,LAD,,,E06000044,Portsmouth,,
+E06000044,2020-03-19,Portsmouth,5,79,LAD,,,E06000044,Portsmouth,1.0,
+E06000044,2020-03-20,Portsmouth,13,80,LAD,,,E06000044,Portsmouth,8.0,7.0
+E06000044,2020-03-21,Portsmouth,22,81,LAD,,,E06000044,Portsmouth,9.0,1.0
+E06000044,2020-03-22,Portsmouth,25,82,LAD,,,E06000044,Portsmouth,3.0,-6.0
+E06000044,2020-03-23,Portsmouth,25,83,LAD,,,E06000044,Portsmouth,0.0,-3.0
+E06000044,2020-03-24,Portsmouth,29,84,LAD,,,E06000044,Portsmouth,4.0,4.0
+E06000044,2020-03-25,Portsmouth,33,85,LAD,,,E06000044,Portsmouth,4.0,0.0
+E06000044,2020-03-26,Portsmouth,42,86,LAD,,,E06000044,Portsmouth,9.0,5.0
+E06000044,2020-03-27,Portsmouth,50,87,LAD,,,E06000044,Portsmouth,8.0,-1.0
+E06000044,2020-03-28,Portsmouth,64,88,LAD,,,E06000044,Portsmouth,14.0,6.0
+E06000044,2020-03-29,Portsmouth,70,89,LAD,,,E06000044,Portsmouth,6.0,-8.0
+E06000045,2020-03-18,Southampton,4,78,LAD,,,E06000045,Southampton,,
+E06000045,2020-03-19,Southampton,7,79,LAD,,,E06000045,Southampton,3.0,
+E06000045,2020-03-20,Southampton,7,80,LAD,,,E06000045,Southampton,0.0,-3.0
+E06000045,2020-03-21,Southampton,8,81,LAD,,,E06000045,Southampton,1.0,1.0
+E06000045,2020-03-22,Southampton,11,82,LAD,,,E06000045,Southampton,3.0,2.0
+E06000045,2020-03-23,Southampton,11,83,LAD,,,E06000045,Southampton,0.0,-3.0
+E06000045,2020-03-24,Southampton,24,84,LAD,,,E06000045,Southampton,13.0,13.0
+E06000045,2020-03-25,Southampton,28,85,LAD,,,E06000045,Southampton,4.0,-9.0
+E06000045,2020-03-26,Southampton,32,86,LAD,,,E06000045,Southampton,4.0,0.0
+E06000045,2020-03-27,Southampton,37,87,LAD,,,E06000045,Southampton,5.0,1.0
+E06000045,2020-03-28,Southampton,41,88,LAD,,,E06000045,Southampton,4.0,-1.0
+E06000045,2020-03-29,Southampton,43,89,LAD,,,E06000045,Southampton,2.0,-2.0
+E06000046,2020-03-18,Isle of Wight,2,78,LAD,,,E06000046,Isle of Wight,,
+E06000046,2020-03-19,Isle of Wight,2,79,LAD,,,E06000046,Isle of Wight,0.0,
+E06000046,2020-03-20,Isle of Wight,2,80,LAD,,,E06000046,Isle of Wight,0.0,0.0
+E06000046,2020-03-21,Isle of Wight,2,81,LAD,,,E06000046,Isle of Wight,0.0,0.0
+E06000046,2020-03-22,Isle of Wight,2,82,LAD,,,E06000046,Isle of Wight,0.0,0.0
+E06000046,2020-03-23,Isle of Wight,2,83,LAD,,,E06000046,Isle of Wight,0.0,0.0
+E06000046,2020-03-24,Isle of Wight,3,84,LAD,,,E06000046,Isle of Wight,1.0,1.0
+E06000046,2020-03-25,Isle of Wight,3,85,LAD,,,E06000046,Isle of Wight,0.0,-1.0
+E06000046,2020-03-26,Isle of Wight,7,86,LAD,,,E06000046,Isle of Wight,4.0,4.0
+E06000046,2020-03-27,Isle of Wight,8,87,LAD,,,E06000046,Isle of Wight,1.0,-3.0
+E06000046,2020-03-28,Isle of Wight,10,88,LAD,,,E06000046,Isle of Wight,2.0,1.0
+E06000046,2020-03-29,Isle of Wight,10,89,LAD,,,E06000046,Isle of Wight,0.0,-2.0
+E06000047,2020-03-18,County Durham,3,78,LAD,,,E06000047,County Durham,,
+E06000047,2020-03-19,County Durham,5,79,LAD,,,E06000047,County Durham,2.0,
+E06000047,2020-03-20,County Durham,7,80,LAD,,,E06000047,County Durham,2.0,0.0
+E06000047,2020-03-21,County Durham,11,81,LAD,,,E06000047,County Durham,4.0,2.0
+E06000047,2020-03-22,County Durham,11,82,LAD,,,E06000047,County Durham,0.0,-4.0
+E06000047,2020-03-23,County Durham,14,83,LAD,,,E06000047,County Durham,3.0,3.0
+E06000047,2020-03-24,County Durham,18,84,LAD,,,E06000047,County Durham,4.0,1.0
+E06000047,2020-03-25,County Durham,25,85,LAD,,,E06000047,County Durham,7.0,3.0
+E06000047,2020-03-26,County Durham,29,86,LAD,,,E06000047,County Durham,4.0,-3.0
+E06000047,2020-03-27,County Durham,56,87,LAD,,,E06000047,County Durham,27.0,23.0
+E06000047,2020-03-28,County Durham,69,88,LAD,,,E06000047,County Durham,13.0,-14.0
+E06000047,2020-03-29,County Durham,81,89,LAD,,,E06000047,County Durham,12.0,-1.0
+E06000049,2020-03-18,Cheshire East,8,78,LAD,,,E06000049,Cheshire East,,
+E06000049,2020-03-19,Cheshire East,9,79,LAD,,,E06000049,Cheshire East,1.0,
+E06000049,2020-03-20,Cheshire East,9,80,LAD,,,E06000049,Cheshire East,0.0,-1.0
+E06000049,2020-03-21,Cheshire East,11,81,LAD,,,E06000049,Cheshire East,2.0,2.0
+E06000049,2020-03-22,Cheshire East,18,82,LAD,,,E06000049,Cheshire East,7.0,5.0
+E06000049,2020-03-23,Cheshire East,18,83,LAD,,,E06000049,Cheshire East,0.0,-7.0
+E06000049,2020-03-24,Cheshire East,25,84,LAD,,,E06000049,Cheshire East,7.0,7.0
+E06000049,2020-03-25,Cheshire East,30,85,LAD,,,E06000049,Cheshire East,5.0,-2.0
+E06000049,2020-03-26,Cheshire East,31,86,LAD,,,E06000049,Cheshire East,1.0,-4.0
+E06000049,2020-03-27,Cheshire East,35,87,LAD,,,E06000049,Cheshire East,4.0,3.0
+E06000049,2020-03-28,Cheshire East,42,88,LAD,,,E06000049,Cheshire East,7.0,3.0
+E06000049,2020-03-29,Cheshire East,54,89,LAD,,,E06000049,Cheshire East,12.0,5.0
+E06000050,2020-03-18,Cheshire West and Chester,5,78,LAD,,,E06000050,Cheshire West and Chester,,
+E06000050,2020-03-19,Cheshire West and Chester,7,79,LAD,,,E06000050,Cheshire West and Chester,2.0,
+E06000050,2020-03-20,Cheshire West and Chester,10,80,LAD,,,E06000050,Cheshire West and Chester,3.0,1.0
+E06000050,2020-03-21,Cheshire West and Chester,10,81,LAD,,,E06000050,Cheshire West and Chester,0.0,-3.0
+E06000050,2020-03-22,Cheshire West and Chester,11,82,LAD,,,E06000050,Cheshire West and Chester,1.0,1.0
+E06000050,2020-03-23,Cheshire West and Chester,16,83,LAD,,,E06000050,Cheshire West and Chester,5.0,4.0
+E06000050,2020-03-24,Cheshire West and Chester,18,84,LAD,,,E06000050,Cheshire West and Chester,2.0,-3.0
+E06000050,2020-03-25,Cheshire West and Chester,18,85,LAD,,,E06000050,Cheshire West and Chester,0.0,-2.0
+E06000050,2020-03-26,Cheshire West and Chester,24,86,LAD,,,E06000050,Cheshire West and Chester,6.0,6.0
+E06000050,2020-03-27,Cheshire West and Chester,25,87,LAD,,,E06000050,Cheshire West and Chester,1.0,-5.0
+E06000050,2020-03-28,Cheshire West and Chester,31,88,LAD,,,E06000050,Cheshire West and Chester,6.0,5.0
+E06000050,2020-03-29,Cheshire West and Chester,34,89,LAD,,,E06000050,Cheshire West and Chester,3.0,-3.0
+E06000051,2020-03-18,Shropshire,3,78,LAD,,,E06000051,Shropshire,,
+E06000051,2020-03-19,Shropshire,3,79,LAD,,,E06000051,Shropshire,0.0,
+E06000051,2020-03-20,Shropshire,3,80,LAD,,,E06000051,Shropshire,0.0,0.0
+E06000051,2020-03-21,Shropshire,3,81,LAD,,,E06000051,Shropshire,0.0,0.0
+E06000051,2020-03-22,Shropshire,3,82,LAD,,,E06000051,Shropshire,0.0,0.0
+E06000051,2020-03-23,Shropshire,10,83,LAD,,,E06000051,Shropshire,7.0,7.0
+E06000051,2020-03-24,Shropshire,27,84,LAD,,,E06000051,Shropshire,17.0,10.0
+E06000051,2020-03-25,Shropshire,33,85,LAD,,,E06000051,Shropshire,6.0,-11.0
+E06000051,2020-03-26,Shropshire,44,86,LAD,,,E06000051,Shropshire,11.0,5.0
+E06000051,2020-03-27,Shropshire,53,87,LAD,,,E06000051,Shropshire,9.0,-2.0
+E06000051,2020-03-28,Shropshire,56,88,LAD,,,E06000051,Shropshire,3.0,-6.0
+E06000051,2020-03-29,Shropshire,67,89,LAD,,,E06000051,Shropshire,11.0,8.0
+E06000052,2020-03-18,Cornwall and Isles of Scilly,10,78,LAD,,,E06000052,Cornwall and Isles of Scilly,,
+E06000052,2020-03-19,Cornwall and Isles of Scilly,10,79,LAD,,,E06000052,Cornwall and Isles of Scilly,0.0,
+E06000052,2020-03-20,Cornwall and Isles of Scilly,16,80,LAD,,,E06000052,Cornwall and Isles of Scilly,6.0,6.0
+E06000052,2020-03-21,Cornwall and Isles of Scilly,20,81,LAD,,,E06000052,Cornwall and Isles of Scilly,4.0,-2.0
+E06000052,2020-03-22,Cornwall and Isles of Scilly,20,82,LAD,,,E06000052,Cornwall and Isles of Scilly,0.0,-4.0
+E06000052,2020-03-23,Cornwall and Isles of Scilly,25,83,LAD,,,E06000052,Cornwall and Isles of Scilly,5.0,5.0
+E06000052,2020-03-24,Cornwall and Isles of Scilly,30,84,LAD,,,E06000052,Cornwall and Isles of Scilly,5.0,0.0
+E06000052,2020-03-25,Cornwall and Isles of Scilly,37,85,LAD,,,E06000052,Cornwall and Isles of Scilly,7.0,2.0
+E06000052,2020-03-26,Cornwall and Isles of Scilly,43,86,LAD,,,E06000052,Cornwall and Isles of Scilly,6.0,-1.0
+E06000052,2020-03-27,Cornwall and Isles of Scilly,48,87,LAD,,,E06000052,Cornwall and Isles of Scilly,5.0,-1.0
+E06000052,2020-03-28,Cornwall and Isles of Scilly,56,88,LAD,,,E06000052,Cornwall and Isles of Scilly,8.0,3.0
+E06000052,2020-03-29,Cornwall and Isles of Scilly,64,89,LAD,,,E06000052,Cornwall and Isles of Scilly,8.0,0.0
+E06000054,2020-03-18,Wiltshire,9,78,LAD,,,E06000054,Wiltshire,,
+E06000054,2020-03-19,Wiltshire,12,79,LAD,,,E06000054,Wiltshire,3.0,
+E06000054,2020-03-20,Wiltshire,17,80,LAD,,,E06000054,Wiltshire,5.0,2.0
+E06000054,2020-03-21,Wiltshire,20,81,LAD,,,E06000054,Wiltshire,3.0,-2.0
+E06000054,2020-03-22,Wiltshire,23,82,LAD,,,E06000054,Wiltshire,3.0,0.0
+E06000054,2020-03-23,Wiltshire,28,83,LAD,,,E06000054,Wiltshire,5.0,2.0
+E06000054,2020-03-24,Wiltshire,34,84,LAD,,,E06000054,Wiltshire,6.0,1.0
+E06000054,2020-03-25,Wiltshire,39,85,LAD,,,E06000054,Wiltshire,5.0,-1.0
+E06000054,2020-03-26,Wiltshire,43,86,LAD,,,E06000054,Wiltshire,4.0,-1.0
+E06000054,2020-03-27,Wiltshire,54,87,LAD,,,E06000054,Wiltshire,11.0,7.0
+E06000054,2020-03-28,Wiltshire,58,88,LAD,,,E06000054,Wiltshire,4.0,-7.0
+E06000054,2020-03-29,Wiltshire,67,89,LAD,,,E06000054,Wiltshire,9.0,5.0
+E06000055,2020-03-18,Bedford,1,78,LAD,,,E06000055,Bedford,,
+E06000055,2020-03-19,Bedford,1,79,LAD,,,E06000055,Bedford,0.0,
+E06000055,2020-03-20,Bedford,1,80,LAD,,,E06000055,Bedford,0.0,0.0
+E06000055,2020-03-21,Bedford,4,81,LAD,,,E06000055,Bedford,3.0,3.0
+E06000055,2020-03-22,Bedford,4,82,LAD,,,E06000055,Bedford,0.0,-3.0
+E06000055,2020-03-23,Bedford,7,83,LAD,,,E06000055,Bedford,3.0,3.0
+E06000055,2020-03-24,Bedford,7,84,LAD,,,E06000055,Bedford,0.0,-3.0
+E06000055,2020-03-25,Bedford,7,85,LAD,,,E06000055,Bedford,0.0,0.0
+E06000055,2020-03-26,Bedford,10,86,LAD,,,E06000055,Bedford,3.0,3.0
+E06000055,2020-03-27,Bedford,20,87,LAD,,,E06000055,Bedford,10.0,7.0
+E06000055,2020-03-28,Bedford,25,88,LAD,,,E06000055,Bedford,5.0,-5.0
+E06000055,2020-03-29,Bedford,32,89,LAD,,,E06000055,Bedford,7.0,2.0
+E06000056,2020-03-18,Central Bedfordshire,6,78,LAD,,,E06000056,Central Bedfordshire,,
+E06000056,2020-03-19,Central Bedfordshire,7,79,LAD,,,E06000056,Central Bedfordshire,1.0,
+E06000056,2020-03-20,Central Bedfordshire,8,80,LAD,,,E06000056,Central Bedfordshire,1.0,0.0
+E06000056,2020-03-21,Central Bedfordshire,11,81,LAD,,,E06000056,Central Bedfordshire,3.0,2.0
+E06000056,2020-03-22,Central Bedfordshire,14,82,LAD,,,E06000056,Central Bedfordshire,3.0,0.0
+E06000056,2020-03-23,Central Bedfordshire,19,83,LAD,,,E06000056,Central Bedfordshire,5.0,2.0
+E06000056,2020-03-24,Central Bedfordshire,22,84,LAD,,,E06000056,Central Bedfordshire,3.0,-2.0
+E06000056,2020-03-25,Central Bedfordshire,24,85,LAD,,,E06000056,Central Bedfordshire,2.0,-1.0
+E06000056,2020-03-26,Central Bedfordshire,28,86,LAD,,,E06000056,Central Bedfordshire,4.0,2.0
+E06000056,2020-03-27,Central Bedfordshire,42,87,LAD,,,E06000056,Central Bedfordshire,14.0,10.0
+E06000056,2020-03-28,Central Bedfordshire,48,88,LAD,,,E06000056,Central Bedfordshire,6.0,-8.0
+E06000056,2020-03-29,Central Bedfordshire,56,89,LAD,,,E06000056,Central Bedfordshire,8.0,2.0
+E06000057,2020-03-18,Northumberland,4,78,LAD,,,E06000057,Northumberland,,
+E06000057,2020-03-19,Northumberland,6,79,LAD,,,E06000057,Northumberland,2.0,
+E06000057,2020-03-20,Northumberland,7,80,LAD,,,E06000057,Northumberland,1.0,-1.0
+E06000057,2020-03-21,Northumberland,10,81,LAD,,,E06000057,Northumberland,3.0,2.0
+E06000057,2020-03-22,Northumberland,10,82,LAD,,,E06000057,Northumberland,0.0,-3.0
+E06000057,2020-03-23,Northumberland,10,83,LAD,,,E06000057,Northumberland,0.0,0.0
+E06000057,2020-03-24,Northumberland,13,84,LAD,,,E06000057,Northumberland,3.0,3.0
+E06000057,2020-03-25,Northumberland,19,85,LAD,,,E06000057,Northumberland,6.0,3.0
+E06000057,2020-03-26,Northumberland,23,86,LAD,,,E06000057,Northumberland,4.0,-2.0
+E06000057,2020-03-27,Northumberland,45,87,LAD,,,E06000057,Northumberland,22.0,18.0
+E06000057,2020-03-28,Northumberland,53,88,LAD,,,E06000057,Northumberland,8.0,-14.0
+E06000057,2020-03-29,Northumberland,61,89,LAD,,,E06000057,Northumberland,8.0,0.0
+E06000058,2020-03-18,"Bournemouth, Christchurch and Poole",7,78,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",,
+E06000058,2020-03-19,"Bournemouth, Christchurch and Poole",9,79,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",2.0,
+E06000058,2020-03-20,"Bournemouth, Christchurch and Poole",10,80,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,-1.0
+E06000058,2020-03-21,"Bournemouth, Christchurch and Poole",11,81,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,0.0
+E06000058,2020-03-22,"Bournemouth, Christchurch and Poole",12,82,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,0.0
+E06000058,2020-03-23,"Bournemouth, Christchurch and Poole",13,83,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,0.0
+E06000058,2020-03-24,"Bournemouth, Christchurch and Poole",14,84,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,0.0
+E06000058,2020-03-25,"Bournemouth, Christchurch and Poole",15,85,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",1.0,0.0
+E06000058,2020-03-26,"Bournemouth, Christchurch and Poole",15,86,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",0.0,-1.0
+E06000058,2020-03-27,"Bournemouth, Christchurch and Poole",20,87,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",5.0,5.0
+E06000058,2020-03-28,"Bournemouth, Christchurch and Poole",25,88,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",5.0,0.0
+E06000058,2020-03-29,"Bournemouth, Christchurch and Poole",34,89,LAD,,,E06000058,"Bournemouth, Christchurch and Poole",9.0,4.0
+E06000059,2020-03-18,Dorset,5,78,LAD,,,E06000059,Dorset,,
+E06000059,2020-03-19,Dorset,7,79,LAD,,,E06000059,Dorset,2.0,
+E06000059,2020-03-20,Dorset,7,80,LAD,,,E06000059,Dorset,0.0,-2.0
+E06000059,2020-03-21,Dorset,8,81,LAD,,,E06000059,Dorset,1.0,1.0
+E06000059,2020-03-22,Dorset,11,82,LAD,,,E06000059,Dorset,3.0,2.0
+E06000059,2020-03-23,Dorset,14,83,LAD,,,E06000059,Dorset,3.0,0.0
+E06000059,2020-03-24,Dorset,15,84,LAD,,,E06000059,Dorset,1.0,-2.0
+E06000059,2020-03-25,Dorset,23,85,LAD,,,E06000059,Dorset,8.0,7.0
+E06000059,2020-03-26,Dorset,25,86,LAD,,,E06000059,Dorset,2.0,-6.0
+E06000059,2020-03-27,Dorset,29,87,LAD,,,E06000059,Dorset,4.0,2.0
+E06000059,2020-03-28,Dorset,30,88,LAD,,,E06000059,Dorset,1.0,-3.0
+E06000059,2020-03-29,Dorset,36,89,LAD,,,E06000059,Dorset,6.0,5.0
+E08000001,2020-03-18,Bolton,7,78,LAD,E11000001,Greater Manchester,E08000001,Bolton,,
+E08000001,2020-03-19,Bolton,9,79,LAD,E11000001,Greater Manchester,E08000001,Bolton,2.0,
+E08000001,2020-03-20,Bolton,13,80,LAD,E11000001,Greater Manchester,E08000001,Bolton,4.0,2.0
+E08000001,2020-03-21,Bolton,15,81,LAD,E11000001,Greater Manchester,E08000001,Bolton,2.0,-2.0
+E08000001,2020-03-22,Bolton,17,82,LAD,E11000001,Greater Manchester,E08000001,Bolton,2.0,0.0
+E08000001,2020-03-23,Bolton,18,83,LAD,E11000001,Greater Manchester,E08000001,Bolton,1.0,-1.0
+E08000001,2020-03-24,Bolton,19,84,LAD,E11000001,Greater Manchester,E08000001,Bolton,1.0,0.0
+E08000001,2020-03-25,Bolton,21,85,LAD,E11000001,Greater Manchester,E08000001,Bolton,2.0,1.0
+E08000001,2020-03-26,Bolton,25,86,LAD,E11000001,Greater Manchester,E08000001,Bolton,4.0,2.0
+E08000001,2020-03-27,Bolton,27,87,LAD,E11000001,Greater Manchester,E08000001,Bolton,2.0,-2.0
+E08000001,2020-03-28,Bolton,33,88,LAD,E11000001,Greater Manchester,E08000001,Bolton,6.0,4.0
+E08000001,2020-03-29,Bolton,42,89,LAD,E11000001,Greater Manchester,E08000001,Bolton,9.0,3.0
+E08000002,2020-03-18,Bury,7,78,LAD,E11000001,Greater Manchester,E08000002,Bury,,
+E08000002,2020-03-19,Bury,8,79,LAD,E11000001,Greater Manchester,E08000002,Bury,1.0,
+E08000002,2020-03-20,Bury,10,80,LAD,E11000001,Greater Manchester,E08000002,Bury,2.0,1.0
+E08000002,2020-03-21,Bury,11,81,LAD,E11000001,Greater Manchester,E08000002,Bury,1.0,-1.0
+E08000002,2020-03-22,Bury,14,82,LAD,E11000001,Greater Manchester,E08000002,Bury,3.0,2.0
+E08000002,2020-03-23,Bury,15,83,LAD,E11000001,Greater Manchester,E08000002,Bury,1.0,-2.0
+E08000002,2020-03-24,Bury,17,84,LAD,E11000001,Greater Manchester,E08000002,Bury,2.0,1.0
+E08000002,2020-03-25,Bury,23,85,LAD,E11000001,Greater Manchester,E08000002,Bury,6.0,4.0
+E08000002,2020-03-26,Bury,27,86,LAD,E11000001,Greater Manchester,E08000002,Bury,4.0,-2.0
+E08000002,2020-03-27,Bury,30,87,LAD,E11000001,Greater Manchester,E08000002,Bury,3.0,-1.0
+E08000002,2020-03-28,Bury,40,88,LAD,E11000001,Greater Manchester,E08000002,Bury,10.0,7.0
+E08000002,2020-03-29,Bury,55,89,LAD,E11000001,Greater Manchester,E08000002,Bury,15.0,5.0
+E08000003,2020-03-18,Manchester,18,78,LAD,E11000001,Greater Manchester,E08000003,Manchester,,
+E08000003,2020-03-19,Manchester,21,79,LAD,E11000001,Greater Manchester,E08000003,Manchester,3.0,
+E08000003,2020-03-20,Manchester,26,80,LAD,E11000001,Greater Manchester,E08000003,Manchester,5.0,2.0
+E08000003,2020-03-21,Manchester,28,81,LAD,E11000001,Greater Manchester,E08000003,Manchester,2.0,-3.0
+E08000003,2020-03-22,Manchester,31,82,LAD,E11000001,Greater Manchester,E08000003,Manchester,3.0,1.0
+E08000003,2020-03-23,Manchester,37,83,LAD,E11000001,Greater Manchester,E08000003,Manchester,6.0,3.0
+E08000003,2020-03-24,Manchester,41,84,LAD,E11000001,Greater Manchester,E08000003,Manchester,4.0,-2.0
+E08000003,2020-03-25,Manchester,45,85,LAD,E11000001,Greater Manchester,E08000003,Manchester,4.0,0.0
+E08000003,2020-03-26,Manchester,55,86,LAD,E11000001,Greater Manchester,E08000003,Manchester,10.0,6.0
+E08000003,2020-03-27,Manchester,63,87,LAD,E11000001,Greater Manchester,E08000003,Manchester,8.0,-2.0
+E08000003,2020-03-28,Manchester,76,88,LAD,E11000001,Greater Manchester,E08000003,Manchester,13.0,5.0
+E08000003,2020-03-29,Manchester,91,89,LAD,E11000001,Greater Manchester,E08000003,Manchester,15.0,2.0
+E08000004,2020-03-18,Oldham,12,78,LAD,E11000001,Greater Manchester,E08000004,Oldham,,
+E08000004,2020-03-19,Oldham,14,79,LAD,E11000001,Greater Manchester,E08000004,Oldham,2.0,
+E08000004,2020-03-20,Oldham,14,80,LAD,E11000001,Greater Manchester,E08000004,Oldham,0.0,-2.0
+E08000004,2020-03-21,Oldham,15,81,LAD,E11000001,Greater Manchester,E08000004,Oldham,1.0,1.0
+E08000004,2020-03-22,Oldham,23,82,LAD,E11000001,Greater Manchester,E08000004,Oldham,8.0,7.0
+E08000004,2020-03-23,Oldham,28,83,LAD,E11000001,Greater Manchester,E08000004,Oldham,5.0,-3.0
+E08000004,2020-03-24,Oldham,34,84,LAD,E11000001,Greater Manchester,E08000004,Oldham,6.0,1.0
+E08000004,2020-03-25,Oldham,42,85,LAD,E11000001,Greater Manchester,E08000004,Oldham,8.0,2.0
+E08000004,2020-03-26,Oldham,48,86,LAD,E11000001,Greater Manchester,E08000004,Oldham,6.0,-2.0
+E08000004,2020-03-27,Oldham,51,87,LAD,E11000001,Greater Manchester,E08000004,Oldham,3.0,-3.0
+E08000004,2020-03-28,Oldham,73,88,LAD,E11000001,Greater Manchester,E08000004,Oldham,22.0,19.0
+E08000004,2020-03-29,Oldham,82,89,LAD,E11000001,Greater Manchester,E08000004,Oldham,9.0,-13.0
+E08000005,2020-03-18,Rochdale,6,78,LAD,E11000001,Greater Manchester,E08000005,Rochdale,,
+E08000005,2020-03-19,Rochdale,9,79,LAD,E11000001,Greater Manchester,E08000005,Rochdale,3.0,
+E08000005,2020-03-20,Rochdale,12,80,LAD,E11000001,Greater Manchester,E08000005,Rochdale,3.0,0.0
+E08000005,2020-03-21,Rochdale,13,81,LAD,E11000001,Greater Manchester,E08000005,Rochdale,1.0,-2.0
+E08000005,2020-03-22,Rochdale,15,82,LAD,E11000001,Greater Manchester,E08000005,Rochdale,2.0,1.0
+E08000005,2020-03-23,Rochdale,19,83,LAD,E11000001,Greater Manchester,E08000005,Rochdale,4.0,2.0
+E08000005,2020-03-24,Rochdale,24,84,LAD,E11000001,Greater Manchester,E08000005,Rochdale,5.0,1.0
+E08000005,2020-03-25,Rochdale,29,85,LAD,E11000001,Greater Manchester,E08000005,Rochdale,5.0,0.0
+E08000005,2020-03-26,Rochdale,38,86,LAD,E11000001,Greater Manchester,E08000005,Rochdale,9.0,4.0
+E08000005,2020-03-27,Rochdale,40,87,LAD,E11000001,Greater Manchester,E08000005,Rochdale,2.0,-7.0
+E08000005,2020-03-28,Rochdale,52,88,LAD,E11000001,Greater Manchester,E08000005,Rochdale,12.0,10.0
+E08000005,2020-03-29,Rochdale,65,89,LAD,E11000001,Greater Manchester,E08000005,Rochdale,13.0,1.0
+E08000006,2020-03-18,Salford,4,78,LAD,E11000001,Greater Manchester,E08000006,Salford,,
+E08000006,2020-03-19,Salford,9,79,LAD,E11000001,Greater Manchester,E08000006,Salford,5.0,
+E08000006,2020-03-20,Salford,10,80,LAD,E11000001,Greater Manchester,E08000006,Salford,1.0,-4.0
+E08000006,2020-03-21,Salford,12,81,LAD,E11000001,Greater Manchester,E08000006,Salford,2.0,1.0
+E08000006,2020-03-22,Salford,23,82,LAD,E11000001,Greater Manchester,E08000006,Salford,11.0,9.0
+E08000006,2020-03-23,Salford,25,83,LAD,E11000001,Greater Manchester,E08000006,Salford,2.0,-9.0
+E08000006,2020-03-24,Salford,31,84,LAD,E11000001,Greater Manchester,E08000006,Salford,6.0,4.0
+E08000006,2020-03-25,Salford,47,85,LAD,E11000001,Greater Manchester,E08000006,Salford,16.0,10.0
+E08000006,2020-03-26,Salford,52,86,LAD,E11000001,Greater Manchester,E08000006,Salford,5.0,-11.0
+E08000006,2020-03-27,Salford,58,87,LAD,E11000001,Greater Manchester,E08000006,Salford,6.0,1.0
+E08000006,2020-03-28,Salford,78,88,LAD,E11000001,Greater Manchester,E08000006,Salford,20.0,14.0
+E08000006,2020-03-29,Salford,92,89,LAD,E11000001,Greater Manchester,E08000006,Salford,14.0,-6.0
+E08000007,2020-03-18,Stockport,10,78,LAD,E11000001,Greater Manchester,E08000007,Stockport,,
+E08000007,2020-03-19,Stockport,13,79,LAD,E11000001,Greater Manchester,E08000007,Stockport,3.0,
+E08000007,2020-03-20,Stockport,21,80,LAD,E11000001,Greater Manchester,E08000007,Stockport,8.0,5.0
+E08000007,2020-03-21,Stockport,24,81,LAD,E11000001,Greater Manchester,E08000007,Stockport,3.0,-5.0
+E08000007,2020-03-22,Stockport,29,82,LAD,E11000001,Greater Manchester,E08000007,Stockport,5.0,2.0
+E08000007,2020-03-23,Stockport,36,83,LAD,E11000001,Greater Manchester,E08000007,Stockport,7.0,2.0
+E08000007,2020-03-24,Stockport,42,84,LAD,E11000001,Greater Manchester,E08000007,Stockport,6.0,-1.0
+E08000007,2020-03-25,Stockport,45,85,LAD,E11000001,Greater Manchester,E08000007,Stockport,3.0,-3.0
+E08000007,2020-03-26,Stockport,48,86,LAD,E11000001,Greater Manchester,E08000007,Stockport,3.0,0.0
+E08000007,2020-03-27,Stockport,59,87,LAD,E11000001,Greater Manchester,E08000007,Stockport,11.0,8.0
+E08000007,2020-03-28,Stockport,66,88,LAD,E11000001,Greater Manchester,E08000007,Stockport,7.0,-4.0
+E08000007,2020-03-29,Stockport,79,89,LAD,E11000001,Greater Manchester,E08000007,Stockport,13.0,6.0
+E08000008,2020-03-18,Tameside,12,78,LAD,E11000001,Greater Manchester,E08000008,Tameside,,
+E08000008,2020-03-19,Tameside,14,79,LAD,E11000001,Greater Manchester,E08000008,Tameside,2.0,
+E08000008,2020-03-20,Tameside,19,80,LAD,E11000001,Greater Manchester,E08000008,Tameside,5.0,3.0
+E08000008,2020-03-21,Tameside,21,81,LAD,E11000001,Greater Manchester,E08000008,Tameside,2.0,-3.0
+E08000008,2020-03-22,Tameside,21,82,LAD,E11000001,Greater Manchester,E08000008,Tameside,0.0,-2.0
+E08000008,2020-03-23,Tameside,27,83,LAD,E11000001,Greater Manchester,E08000008,Tameside,6.0,6.0
+E08000008,2020-03-24,Tameside,32,84,LAD,E11000001,Greater Manchester,E08000008,Tameside,5.0,-1.0
+E08000008,2020-03-25,Tameside,35,85,LAD,E11000001,Greater Manchester,E08000008,Tameside,3.0,-2.0
+E08000008,2020-03-26,Tameside,40,86,LAD,E11000001,Greater Manchester,E08000008,Tameside,5.0,2.0
+E08000008,2020-03-27,Tameside,43,87,LAD,E11000001,Greater Manchester,E08000008,Tameside,3.0,-2.0
+E08000008,2020-03-28,Tameside,52,88,LAD,E11000001,Greater Manchester,E08000008,Tameside,9.0,6.0
+E08000008,2020-03-29,Tameside,58,89,LAD,E11000001,Greater Manchester,E08000008,Tameside,6.0,-3.0
+E08000009,2020-03-18,Trafford,14,78,LAD,E11000001,Greater Manchester,E08000009,Trafford,,
+E08000009,2020-03-19,Trafford,13,79,LAD,E11000001,Greater Manchester,E08000009,Trafford,-1.0,
+E08000009,2020-03-20,Trafford,15,80,LAD,E11000001,Greater Manchester,E08000009,Trafford,2.0,3.0
+E08000009,2020-03-21,Trafford,19,81,LAD,E11000001,Greater Manchester,E08000009,Trafford,4.0,2.0
+E08000009,2020-03-22,Trafford,23,82,LAD,E11000001,Greater Manchester,E08000009,Trafford,4.0,0.0
+E08000009,2020-03-23,Trafford,28,83,LAD,E11000001,Greater Manchester,E08000009,Trafford,5.0,1.0
+E08000009,2020-03-24,Trafford,31,84,LAD,E11000001,Greater Manchester,E08000009,Trafford,3.0,-2.0
+E08000009,2020-03-25,Trafford,40,85,LAD,E11000001,Greater Manchester,E08000009,Trafford,9.0,6.0
+E08000009,2020-03-26,Trafford,46,86,LAD,E11000001,Greater Manchester,E08000009,Trafford,6.0,-3.0
+E08000009,2020-03-27,Trafford,53,87,LAD,E11000001,Greater Manchester,E08000009,Trafford,7.0,1.0
+E08000009,2020-03-28,Trafford,64,88,LAD,E11000001,Greater Manchester,E08000009,Trafford,11.0,4.0
+E08000009,2020-03-29,Trafford,77,89,LAD,E11000001,Greater Manchester,E08000009,Trafford,13.0,2.0
+E08000010,2020-03-18,Wigan,4,78,LAD,E11000001,Greater Manchester,E08000010,Wigan,,
+E08000010,2020-03-19,Wigan,4,79,LAD,E11000001,Greater Manchester,E08000010,Wigan,0.0,
+E08000010,2020-03-20,Wigan,6,80,LAD,E11000001,Greater Manchester,E08000010,Wigan,2.0,2.0
+E08000010,2020-03-21,Wigan,9,81,LAD,E11000001,Greater Manchester,E08000010,Wigan,3.0,1.0
+E08000010,2020-03-22,Wigan,9,82,LAD,E11000001,Greater Manchester,E08000010,Wigan,0.0,-3.0
+E08000010,2020-03-23,Wigan,9,83,LAD,E11000001,Greater Manchester,E08000010,Wigan,0.0,0.0
+E08000010,2020-03-24,Wigan,11,84,LAD,E11000001,Greater Manchester,E08000010,Wigan,2.0,2.0
+E08000010,2020-03-25,Wigan,14,85,LAD,E11000001,Greater Manchester,E08000010,Wigan,3.0,1.0
+E08000010,2020-03-26,Wigan,16,86,LAD,E11000001,Greater Manchester,E08000010,Wigan,2.0,-1.0
+E08000010,2020-03-27,Wigan,21,87,LAD,E11000001,Greater Manchester,E08000010,Wigan,5.0,3.0
+E08000010,2020-03-28,Wigan,30,88,LAD,E11000001,Greater Manchester,E08000010,Wigan,9.0,4.0
+E08000010,2020-03-29,Wigan,39,89,LAD,E11000001,Greater Manchester,E08000010,Wigan,9.0,0.0
+E08000011,2020-03-18,Knowsley,1,78,LAD,E11000002,Merseyside,E08000011,Knowsley,,
+E08000011,2020-03-19,Knowsley,3,79,LAD,E11000002,Merseyside,E08000011,Knowsley,2.0,
+E08000011,2020-03-20,Knowsley,3,80,LAD,E11000002,Merseyside,E08000011,Knowsley,0.0,-2.0
+E08000011,2020-03-21,Knowsley,4,81,LAD,E11000002,Merseyside,E08000011,Knowsley,1.0,1.0
+E08000011,2020-03-22,Knowsley,4,82,LAD,E11000002,Merseyside,E08000011,Knowsley,0.0,-1.0
+E08000011,2020-03-23,Knowsley,5,83,LAD,E11000002,Merseyside,E08000011,Knowsley,1.0,1.0
+E08000011,2020-03-24,Knowsley,8,84,LAD,E11000002,Merseyside,E08000011,Knowsley,3.0,2.0
+E08000011,2020-03-25,Knowsley,9,85,LAD,E11000002,Merseyside,E08000011,Knowsley,1.0,-2.0
+E08000011,2020-03-26,Knowsley,12,86,LAD,E11000002,Merseyside,E08000011,Knowsley,3.0,2.0
+E08000011,2020-03-27,Knowsley,15,87,LAD,E11000002,Merseyside,E08000011,Knowsley,3.0,0.0
+E08000011,2020-03-28,Knowsley,19,88,LAD,E11000002,Merseyside,E08000011,Knowsley,4.0,1.0
+E08000011,2020-03-29,Knowsley,26,89,LAD,E11000002,Merseyside,E08000011,Knowsley,7.0,3.0
+E08000012,2020-03-18,Liverpool,12,78,LAD,E11000002,Merseyside,E08000012,Liverpool,,
+E08000012,2020-03-19,Liverpool,13,79,LAD,E11000002,Merseyside,E08000012,Liverpool,1.0,
+E08000012,2020-03-20,Liverpool,14,80,LAD,E11000002,Merseyside,E08000012,Liverpool,1.0,0.0
+E08000012,2020-03-21,Liverpool,18,81,LAD,E11000002,Merseyside,E08000012,Liverpool,4.0,3.0
+E08000012,2020-03-22,Liverpool,22,82,LAD,E11000002,Merseyside,E08000012,Liverpool,4.0,0.0
+E08000012,2020-03-23,Liverpool,35,83,LAD,E11000002,Merseyside,E08000012,Liverpool,13.0,9.0
+E08000012,2020-03-24,Liverpool,41,84,LAD,E11000002,Merseyside,E08000012,Liverpool,6.0,-7.0
+E08000012,2020-03-25,Liverpool,57,85,LAD,E11000002,Merseyside,E08000012,Liverpool,16.0,10.0
+E08000012,2020-03-26,Liverpool,72,86,LAD,E11000002,Merseyside,E08000012,Liverpool,15.0,-1.0
+E08000012,2020-03-27,Liverpool,100,87,LAD,E11000002,Merseyside,E08000012,Liverpool,28.0,13.0
+E08000012,2020-03-28,Liverpool,132,88,LAD,E11000002,Merseyside,E08000012,Liverpool,32.0,4.0
+E08000012,2020-03-29,Liverpool,157,89,LAD,E11000002,Merseyside,E08000012,Liverpool,25.0,-7.0
+E08000013,2020-03-18,St. Helens,2,78,LAD,E11000002,Merseyside,E08000013,St. Helens,,
+E08000013,2020-03-19,St. Helens,2,79,LAD,E11000002,Merseyside,E08000013,St. Helens,0.0,
+E08000013,2020-03-20,St. Helens,2,80,LAD,E11000002,Merseyside,E08000013,St. Helens,0.0,0.0
+E08000013,2020-03-21,St. Helens,3,81,LAD,E11000002,Merseyside,E08000013,St. Helens,1.0,1.0
+E08000013,2020-03-22,St. Helens,3,82,LAD,E11000002,Merseyside,E08000013,St. Helens,0.0,-1.0
+E08000013,2020-03-23,St. Helens,6,83,LAD,E11000002,Merseyside,E08000013,St. Helens,3.0,3.0
+E08000013,2020-03-24,St. Helens,8,84,LAD,E11000002,Merseyside,E08000013,St. Helens,2.0,-1.0
+E08000013,2020-03-25,St. Helens,16,85,LAD,E11000002,Merseyside,E08000013,St. Helens,8.0,6.0
+E08000013,2020-03-26,St. Helens,17,86,LAD,E11000002,Merseyside,E08000013,St. Helens,1.0,-7.0
+E08000013,2020-03-27,St. Helens,32,87,LAD,E11000002,Merseyside,E08000013,St. Helens,15.0,14.0
+E08000013,2020-03-28,St. Helens,33,88,LAD,E11000002,Merseyside,E08000013,St. Helens,1.0,-14.0
+E08000013,2020-03-29,St. Helens,39,89,LAD,E11000002,Merseyside,E08000013,St. Helens,6.0,5.0
+E08000014,2020-03-18,Sefton,4,78,LAD,E11000002,Merseyside,E08000014,Sefton,,
+E08000014,2020-03-19,Sefton,6,79,LAD,E11000002,Merseyside,E08000014,Sefton,2.0,
+E08000014,2020-03-20,Sefton,7,80,LAD,E11000002,Merseyside,E08000014,Sefton,1.0,-1.0
+E08000014,2020-03-21,Sefton,7,81,LAD,E11000002,Merseyside,E08000014,Sefton,0.0,-1.0
+E08000014,2020-03-22,Sefton,8,82,LAD,E11000002,Merseyside,E08000014,Sefton,1.0,1.0
+E08000014,2020-03-23,Sefton,10,83,LAD,E11000002,Merseyside,E08000014,Sefton,2.0,1.0
+E08000014,2020-03-24,Sefton,13,84,LAD,E11000002,Merseyside,E08000014,Sefton,3.0,1.0
+E08000014,2020-03-25,Sefton,20,85,LAD,E11000002,Merseyside,E08000014,Sefton,7.0,4.0
+E08000014,2020-03-26,Sefton,24,86,LAD,E11000002,Merseyside,E08000014,Sefton,4.0,-3.0
+E08000014,2020-03-27,Sefton,30,87,LAD,E11000002,Merseyside,E08000014,Sefton,6.0,2.0
+E08000014,2020-03-28,Sefton,35,88,LAD,E11000002,Merseyside,E08000014,Sefton,5.0,-1.0
+E08000014,2020-03-29,Sefton,45,89,LAD,E11000002,Merseyside,E08000014,Sefton,10.0,5.0
+E08000015,2020-03-18,Wirral,8,78,LAD,E11000002,Merseyside,E08000015,Wirral,,
+E08000015,2020-03-19,Wirral,8,79,LAD,E11000002,Merseyside,E08000015,Wirral,0.0,
+E08000015,2020-03-20,Wirral,9,80,LAD,E11000002,Merseyside,E08000015,Wirral,1.0,1.0
+E08000015,2020-03-21,Wirral,10,81,LAD,E11000002,Merseyside,E08000015,Wirral,1.0,0.0
+E08000015,2020-03-22,Wirral,10,82,LAD,E11000002,Merseyside,E08000015,Wirral,0.0,-1.0
+E08000015,2020-03-23,Wirral,12,83,LAD,E11000002,Merseyside,E08000015,Wirral,2.0,2.0
+E08000015,2020-03-24,Wirral,15,84,LAD,E11000002,Merseyside,E08000015,Wirral,3.0,1.0
+E08000015,2020-03-25,Wirral,16,85,LAD,E11000002,Merseyside,E08000015,Wirral,1.0,-2.0
+E08000015,2020-03-26,Wirral,22,86,LAD,E11000002,Merseyside,E08000015,Wirral,6.0,5.0
+E08000015,2020-03-27,Wirral,32,87,LAD,E11000002,Merseyside,E08000015,Wirral,10.0,4.0
+E08000015,2020-03-28,Wirral,40,88,LAD,E11000002,Merseyside,E08000015,Wirral,8.0,-2.0
+E08000015,2020-03-29,Wirral,44,89,LAD,E11000002,Merseyside,E08000015,Wirral,4.0,-4.0
+E08000016,2020-03-18,Barnsley,6,78,LAD,E11000003,South Yorkshire,E08000016,Barnsley,,
+E08000016,2020-03-19,Barnsley,7,79,LAD,E11000003,South Yorkshire,E08000016,Barnsley,1.0,
+E08000016,2020-03-20,Barnsley,7,80,LAD,E11000003,South Yorkshire,E08000016,Barnsley,0.0,-1.0
+E08000016,2020-03-21,Barnsley,7,81,LAD,E11000003,South Yorkshire,E08000016,Barnsley,0.0,0.0
+E08000016,2020-03-22,Barnsley,10,82,LAD,E11000003,South Yorkshire,E08000016,Barnsley,3.0,3.0
+E08000016,2020-03-23,Barnsley,11,83,LAD,E11000003,South Yorkshire,E08000016,Barnsley,1.0,-2.0
+E08000016,2020-03-24,Barnsley,15,84,LAD,E11000003,South Yorkshire,E08000016,Barnsley,4.0,3.0
+E08000016,2020-03-25,Barnsley,19,85,LAD,E11000003,South Yorkshire,E08000016,Barnsley,4.0,0.0
+E08000016,2020-03-26,Barnsley,27,86,LAD,E11000003,South Yorkshire,E08000016,Barnsley,8.0,4.0
+E08000016,2020-03-27,Barnsley,42,87,LAD,E11000003,South Yorkshire,E08000016,Barnsley,15.0,7.0
+E08000016,2020-03-28,Barnsley,62,88,LAD,E11000003,South Yorkshire,E08000016,Barnsley,20.0,5.0
+E08000016,2020-03-29,Barnsley,70,89,LAD,E11000003,South Yorkshire,E08000016,Barnsley,8.0,-12.0
+E08000017,2020-03-18,Doncaster,3,78,LAD,E11000003,South Yorkshire,E08000017,Doncaster,,
+E08000017,2020-03-19,Doncaster,2,79,LAD,E11000003,South Yorkshire,E08000017,Doncaster,-1.0,
+E08000017,2020-03-20,Doncaster,3,80,LAD,E11000003,South Yorkshire,E08000017,Doncaster,1.0,2.0
+E08000017,2020-03-21,Doncaster,5,81,LAD,E11000003,South Yorkshire,E08000017,Doncaster,2.0,1.0
+E08000017,2020-03-22,Doncaster,7,82,LAD,E11000003,South Yorkshire,E08000017,Doncaster,2.0,0.0
+E08000017,2020-03-23,Doncaster,9,83,LAD,E11000003,South Yorkshire,E08000017,Doncaster,2.0,0.0
+E08000017,2020-03-24,Doncaster,13,84,LAD,E11000003,South Yorkshire,E08000017,Doncaster,4.0,2.0
+E08000017,2020-03-25,Doncaster,15,85,LAD,E11000003,South Yorkshire,E08000017,Doncaster,2.0,-2.0
+E08000017,2020-03-26,Doncaster,21,86,LAD,E11000003,South Yorkshire,E08000017,Doncaster,6.0,4.0
+E08000017,2020-03-27,Doncaster,24,87,LAD,E11000003,South Yorkshire,E08000017,Doncaster,3.0,-3.0
+E08000017,2020-03-28,Doncaster,38,88,LAD,E11000003,South Yorkshire,E08000017,Doncaster,14.0,11.0
+E08000017,2020-03-29,Doncaster,44,89,LAD,E11000003,South Yorkshire,E08000017,Doncaster,6.0,-8.0
+E08000018,2020-03-18,Rotherham,4,78,LAD,E11000003,South Yorkshire,E08000018,Rotherham,,
+E08000018,2020-03-19,Rotherham,3,79,LAD,E11000003,South Yorkshire,E08000018,Rotherham,-1.0,
+E08000018,2020-03-20,Rotherham,4,80,LAD,E11000003,South Yorkshire,E08000018,Rotherham,1.0,2.0
+E08000018,2020-03-21,Rotherham,6,81,LAD,E11000003,South Yorkshire,E08000018,Rotherham,2.0,1.0
+E08000018,2020-03-22,Rotherham,9,82,LAD,E11000003,South Yorkshire,E08000018,Rotherham,3.0,1.0
+E08000018,2020-03-23,Rotherham,12,83,LAD,E11000003,South Yorkshire,E08000018,Rotherham,3.0,0.0
+E08000018,2020-03-24,Rotherham,16,84,LAD,E11000003,South Yorkshire,E08000018,Rotherham,4.0,1.0
+E08000018,2020-03-25,Rotherham,20,85,LAD,E11000003,South Yorkshire,E08000018,Rotherham,4.0,0.0
+E08000018,2020-03-26,Rotherham,30,86,LAD,E11000003,South Yorkshire,E08000018,Rotherham,10.0,6.0
+E08000018,2020-03-27,Rotherham,39,87,LAD,E11000003,South Yorkshire,E08000018,Rotherham,9.0,-1.0
+E08000018,2020-03-28,Rotherham,57,88,LAD,E11000003,South Yorkshire,E08000018,Rotherham,18.0,9.0
+E08000018,2020-03-29,Rotherham,60,89,LAD,E11000003,South Yorkshire,E08000018,Rotherham,3.0,-15.0
+E08000019,2020-03-18,Sheffield,36,78,LAD,E11000003,South Yorkshire,E08000019,Sheffield,,
+E08000019,2020-03-19,Sheffield,40,79,LAD,E11000003,South Yorkshire,E08000019,Sheffield,4.0,
+E08000019,2020-03-20,Sheffield,48,80,LAD,E11000003,South Yorkshire,E08000019,Sheffield,8.0,4.0
+E08000019,2020-03-21,Sheffield,61,81,LAD,E11000003,South Yorkshire,E08000019,Sheffield,13.0,5.0
+E08000019,2020-03-22,Sheffield,82,82,LAD,E11000003,South Yorkshire,E08000019,Sheffield,21.0,8.0
+E08000019,2020-03-23,Sheffield,106,83,LAD,E11000003,South Yorkshire,E08000019,Sheffield,24.0,3.0
+E08000019,2020-03-24,Sheffield,130,84,LAD,E11000003,South Yorkshire,E08000019,Sheffield,24.0,0.0
+E08000019,2020-03-25,Sheffield,174,85,LAD,E11000003,South Yorkshire,E08000019,Sheffield,44.0,20.0
+E08000019,2020-03-26,Sheffield,240,86,LAD,E11000003,South Yorkshire,E08000019,Sheffield,66.0,22.0
+E08000019,2020-03-27,Sheffield,286,87,LAD,E11000003,South Yorkshire,E08000019,Sheffield,46.0,-20.0
+E08000019,2020-03-28,Sheffield,361,88,LAD,E11000003,South Yorkshire,E08000019,Sheffield,75.0,29.0
+E08000019,2020-03-29,Sheffield,387,89,LAD,E11000003,South Yorkshire,E08000019,Sheffield,26.0,-49.0
+E08000021,2020-03-18,Newcastle upon Tyne,13,78,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,,
+E08000021,2020-03-19,Newcastle upon Tyne,19,79,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,6.0,
+E08000021,2020-03-20,Newcastle upon Tyne,21,80,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,2.0,-4.0
+E08000021,2020-03-21,Newcastle upon Tyne,28,81,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,7.0,5.0
+E08000021,2020-03-22,Newcastle upon Tyne,34,82,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,6.0,-1.0
+E08000021,2020-03-23,Newcastle upon Tyne,42,83,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,8.0,2.0
+E08000021,2020-03-24,Newcastle upon Tyne,49,84,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,7.0,-1.0
+E08000021,2020-03-25,Newcastle upon Tyne,58,85,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,9.0,2.0
+E08000021,2020-03-26,Newcastle upon Tyne,80,86,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,22.0,13.0
+E08000021,2020-03-27,Newcastle upon Tyne,121,87,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,41.0,19.0
+E08000021,2020-03-28,Newcastle upon Tyne,135,88,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,14.0,-27.0
+E08000021,2020-03-29,Newcastle upon Tyne,155,89,LAD,E11000007,Tyne and Wear,E08000021,Newcastle upon Tyne,20.0,6.0
+E08000022,2020-03-18,North Tyneside,7,78,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,,
+E08000022,2020-03-19,North Tyneside,10,79,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,3.0,
+E08000022,2020-03-20,North Tyneside,12,80,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,2.0,-1.0
+E08000022,2020-03-21,North Tyneside,17,81,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,5.0,3.0
+E08000022,2020-03-22,North Tyneside,18,82,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,1.0,-4.0
+E08000022,2020-03-23,North Tyneside,18,83,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,0.0,-1.0
+E08000022,2020-03-24,North Tyneside,20,84,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,2.0,2.0
+E08000022,2020-03-25,North Tyneside,23,85,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,3.0,1.0
+E08000022,2020-03-26,North Tyneside,27,86,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,4.0,1.0
+E08000022,2020-03-27,North Tyneside,36,87,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,9.0,5.0
+E08000022,2020-03-28,North Tyneside,46,88,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,10.0,1.0
+E08000022,2020-03-29,North Tyneside,62,89,LAD,E11000007,Tyne and Wear,E08000022,North Tyneside,16.0,6.0
+E08000023,2020-03-18,South Tyneside,2,78,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,,
+E08000023,2020-03-19,South Tyneside,2,79,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,0.0,
+E08000023,2020-03-20,South Tyneside,2,80,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,0.0,0.0
+E08000023,2020-03-21,South Tyneside,5,81,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,3.0,3.0
+E08000023,2020-03-22,South Tyneside,5,82,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,0.0,-3.0
+E08000023,2020-03-23,South Tyneside,6,83,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,1.0,1.0
+E08000023,2020-03-24,South Tyneside,8,84,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,2.0,1.0
+E08000023,2020-03-25,South Tyneside,9,85,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,1.0,-1.0
+E08000023,2020-03-26,South Tyneside,10,86,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,1.0,0.0
+E08000023,2020-03-27,South Tyneside,19,87,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,9.0,8.0
+E08000023,2020-03-28,South Tyneside,22,88,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,3.0,-6.0
+E08000023,2020-03-29,South Tyneside,27,89,LAD,E11000007,Tyne and Wear,E08000023,South Tyneside,5.0,2.0
+E08000024,2020-03-18,Sunderland,3,78,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,,
+E08000024,2020-03-19,Sunderland,4,79,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,1.0,
+E08000024,2020-03-20,Sunderland,5,80,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,1.0,0.0
+E08000024,2020-03-21,Sunderland,11,81,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,6.0,5.0
+E08000024,2020-03-22,Sunderland,11,82,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,0.0,-6.0
+E08000024,2020-03-23,Sunderland,13,83,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,2.0,2.0
+E08000024,2020-03-24,Sunderland,20,84,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,7.0,5.0
+E08000024,2020-03-25,Sunderland,25,85,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,5.0,-2.0
+E08000024,2020-03-26,Sunderland,27,86,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,2.0,-3.0
+E08000024,2020-03-27,Sunderland,55,87,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,28.0,26.0
+E08000024,2020-03-28,Sunderland,68,88,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,13.0,-15.0
+E08000024,2020-03-29,Sunderland,76,89,LAD,E11000007,Tyne and Wear,E08000024,Sunderland,8.0,-5.0
+E08000025,2020-03-18,Birmingham,25,78,LAD,E11000005,West Midlands,E08000025,Birmingham,,
+E08000025,2020-03-19,Birmingham,34,79,LAD,E11000005,West Midlands,E08000025,Birmingham,9.0,
+E08000025,2020-03-20,Birmingham,54,80,LAD,E11000005,West Midlands,E08000025,Birmingham,20.0,11.0
+E08000025,2020-03-21,Birmingham,75,81,LAD,E11000005,West Midlands,E08000025,Birmingham,21.0,1.0
+E08000025,2020-03-22,Birmingham,91,82,LAD,E11000005,West Midlands,E08000025,Birmingham,16.0,-5.0
+E08000025,2020-03-23,Birmingham,137,83,LAD,E11000005,West Midlands,E08000025,Birmingham,46.0,30.0
+E08000025,2020-03-24,Birmingham,187,84,LAD,E11000005,West Midlands,E08000025,Birmingham,50.0,4.0
+E08000025,2020-03-25,Birmingham,228,85,LAD,E11000005,West Midlands,E08000025,Birmingham,41.0,-9.0
+E08000025,2020-03-26,Birmingham,290,86,LAD,E11000005,West Midlands,E08000025,Birmingham,62.0,21.0
+E08000025,2020-03-27,Birmingham,366,87,LAD,E11000005,West Midlands,E08000025,Birmingham,76.0,14.0
+E08000025,2020-03-28,Birmingham,428,88,LAD,E11000005,West Midlands,E08000025,Birmingham,62.0,-14.0
+E08000025,2020-03-29,Birmingham,513,89,LAD,E11000005,West Midlands,E08000025,Birmingham,85.0,23.0
+E08000026,2020-03-18,Coventry,4,78,LAD,E11000005,West Midlands,E08000026,Coventry,,
+E08000026,2020-03-19,Coventry,4,79,LAD,E11000005,West Midlands,E08000026,Coventry,0.0,
+E08000026,2020-03-20,Coventry,7,80,LAD,E11000005,West Midlands,E08000026,Coventry,3.0,3.0
+E08000026,2020-03-21,Coventry,9,81,LAD,E11000005,West Midlands,E08000026,Coventry,2.0,-1.0
+E08000026,2020-03-22,Coventry,14,82,LAD,E11000005,West Midlands,E08000026,Coventry,5.0,3.0
+E08000026,2020-03-23,Coventry,19,83,LAD,E11000005,West Midlands,E08000026,Coventry,5.0,0.0
+E08000026,2020-03-24,Coventry,24,84,LAD,E11000005,West Midlands,E08000026,Coventry,5.0,0.0
+E08000026,2020-03-25,Coventry,25,85,LAD,E11000005,West Midlands,E08000026,Coventry,1.0,-4.0
+E08000026,2020-03-26,Coventry,35,86,LAD,E11000005,West Midlands,E08000026,Coventry,10.0,9.0
+E08000026,2020-03-27,Coventry,47,87,LAD,E11000005,West Midlands,E08000026,Coventry,12.0,2.0
+E08000026,2020-03-28,Coventry,54,88,LAD,E11000005,West Midlands,E08000026,Coventry,7.0,-5.0
+E08000026,2020-03-29,Coventry,79,89,LAD,E11000005,West Midlands,E08000026,Coventry,25.0,18.0
+E08000027,2020-03-18,Dudley,10,78,LAD,E11000005,West Midlands,E08000027,Dudley,,
+E08000027,2020-03-19,Dudley,11,79,LAD,E11000005,West Midlands,E08000027,Dudley,1.0,
+E08000027,2020-03-20,Dudley,18,80,LAD,E11000005,West Midlands,E08000027,Dudley,7.0,6.0
+E08000027,2020-03-21,Dudley,19,81,LAD,E11000005,West Midlands,E08000027,Dudley,1.0,-6.0
+E08000027,2020-03-22,Dudley,24,82,LAD,E11000005,West Midlands,E08000027,Dudley,5.0,4.0
+E08000027,2020-03-23,Dudley,26,83,LAD,E11000005,West Midlands,E08000027,Dudley,2.0,-3.0
+E08000027,2020-03-24,Dudley,40,84,LAD,E11000005,West Midlands,E08000027,Dudley,14.0,12.0
+E08000027,2020-03-25,Dudley,51,85,LAD,E11000005,West Midlands,E08000027,Dudley,11.0,-3.0
+E08000027,2020-03-26,Dudley,60,86,LAD,E11000005,West Midlands,E08000027,Dudley,9.0,-2.0
+E08000027,2020-03-27,Dudley,81,87,LAD,E11000005,West Midlands,E08000027,Dudley,21.0,12.0
+E08000027,2020-03-28,Dudley,83,88,LAD,E11000005,West Midlands,E08000027,Dudley,2.0,-19.0
+E08000027,2020-03-29,Dudley,122,89,LAD,E11000005,West Midlands,E08000027,Dudley,39.0,37.0
+E08000028,2020-03-18,Sandwell,6,78,LAD,E11000005,West Midlands,E08000028,Sandwell,,
+E08000028,2020-03-19,Sandwell,7,79,LAD,E11000005,West Midlands,E08000028,Sandwell,1.0,
+E08000028,2020-03-20,Sandwell,11,80,LAD,E11000005,West Midlands,E08000028,Sandwell,4.0,3.0
+E08000028,2020-03-21,Sandwell,15,81,LAD,E11000005,West Midlands,E08000028,Sandwell,4.0,0.0
+E08000028,2020-03-22,Sandwell,20,82,LAD,E11000005,West Midlands,E08000028,Sandwell,5.0,1.0
+E08000028,2020-03-23,Sandwell,31,83,LAD,E11000005,West Midlands,E08000028,Sandwell,11.0,6.0
+E08000028,2020-03-24,Sandwell,47,84,LAD,E11000005,West Midlands,E08000028,Sandwell,16.0,5.0
+E08000028,2020-03-25,Sandwell,50,85,LAD,E11000005,West Midlands,E08000028,Sandwell,3.0,-13.0
+E08000028,2020-03-26,Sandwell,65,86,LAD,E11000005,West Midlands,E08000028,Sandwell,15.0,12.0
+E08000028,2020-03-27,Sandwell,103,87,LAD,E11000005,West Midlands,E08000028,Sandwell,38.0,23.0
+E08000028,2020-03-28,Sandwell,116,88,LAD,E11000005,West Midlands,E08000028,Sandwell,13.0,-25.0
+E08000028,2020-03-29,Sandwell,138,89,LAD,E11000005,West Midlands,E08000028,Sandwell,22.0,9.0
+E08000029,2020-03-18,Solihull,1,78,LAD,E11000005,West Midlands,E08000029,Solihull,,
+E08000029,2020-03-19,Solihull,1,79,LAD,E11000005,West Midlands,E08000029,Solihull,0.0,
+E08000029,2020-03-20,Solihull,3,80,LAD,E11000005,West Midlands,E08000029,Solihull,2.0,2.0
+E08000029,2020-03-21,Solihull,4,81,LAD,E11000005,West Midlands,E08000029,Solihull,1.0,-1.0
+E08000029,2020-03-22,Solihull,4,82,LAD,E11000005,West Midlands,E08000029,Solihull,0.0,-1.0
+E08000029,2020-03-23,Solihull,8,83,LAD,E11000005,West Midlands,E08000029,Solihull,4.0,4.0
+E08000029,2020-03-24,Solihull,12,84,LAD,E11000005,West Midlands,E08000029,Solihull,4.0,0.0
+E08000029,2020-03-25,Solihull,19,85,LAD,E11000005,West Midlands,E08000029,Solihull,7.0,3.0
+E08000029,2020-03-26,Solihull,29,86,LAD,E11000005,West Midlands,E08000029,Solihull,10.0,3.0
+E08000029,2020-03-27,Solihull,39,87,LAD,E11000005,West Midlands,E08000029,Solihull,10.0,0.0
+E08000029,2020-03-28,Solihull,54,88,LAD,E11000005,West Midlands,E08000029,Solihull,15.0,5.0
+E08000029,2020-03-29,Solihull,74,89,LAD,E11000005,West Midlands,E08000029,Solihull,20.0,5.0
+E08000030,2020-03-18,Walsall,14,78,LAD,E11000005,West Midlands,E08000030,Walsall,,
+E08000030,2020-03-19,Walsall,16,79,LAD,E11000005,West Midlands,E08000030,Walsall,2.0,
+E08000030,2020-03-20,Walsall,20,80,LAD,E11000005,West Midlands,E08000030,Walsall,4.0,2.0
+E08000030,2020-03-21,Walsall,28,81,LAD,E11000005,West Midlands,E08000030,Walsall,8.0,4.0
+E08000030,2020-03-22,Walsall,29,82,LAD,E11000005,West Midlands,E08000030,Walsall,1.0,-7.0
+E08000030,2020-03-23,Walsall,37,83,LAD,E11000005,West Midlands,E08000030,Walsall,8.0,7.0
+E08000030,2020-03-24,Walsall,43,84,LAD,E11000005,West Midlands,E08000030,Walsall,6.0,-2.0
+E08000030,2020-03-25,Walsall,60,85,LAD,E11000005,West Midlands,E08000030,Walsall,17.0,11.0
+E08000030,2020-03-26,Walsall,78,86,LAD,E11000005,West Midlands,E08000030,Walsall,18.0,1.0
+E08000030,2020-03-27,Walsall,100,87,LAD,E11000005,West Midlands,E08000030,Walsall,22.0,4.0
+E08000030,2020-03-28,Walsall,108,88,LAD,E11000005,West Midlands,E08000030,Walsall,8.0,-14.0
+E08000030,2020-03-29,Walsall,125,89,LAD,E11000005,West Midlands,E08000030,Walsall,17.0,9.0
+E08000031,2020-03-18,Wolverhampton,22,78,LAD,E11000005,West Midlands,E08000031,Wolverhampton,,
+E08000031,2020-03-19,Wolverhampton,28,79,LAD,E11000005,West Midlands,E08000031,Wolverhampton,6.0,
+E08000031,2020-03-20,Wolverhampton,39,80,LAD,E11000005,West Midlands,E08000031,Wolverhampton,11.0,5.0
+E08000031,2020-03-21,Wolverhampton,45,81,LAD,E11000005,West Midlands,E08000031,Wolverhampton,6.0,-5.0
+E08000031,2020-03-22,Wolverhampton,52,82,LAD,E11000005,West Midlands,E08000031,Wolverhampton,7.0,1.0
+E08000031,2020-03-23,Wolverhampton,69,83,LAD,E11000005,West Midlands,E08000031,Wolverhampton,17.0,10.0
+E08000031,2020-03-24,Wolverhampton,81,84,LAD,E11000005,West Midlands,E08000031,Wolverhampton,12.0,-5.0
+E08000031,2020-03-25,Wolverhampton,98,85,LAD,E11000005,West Midlands,E08000031,Wolverhampton,17.0,5.0
+E08000031,2020-03-26,Wolverhampton,103,86,LAD,E11000005,West Midlands,E08000031,Wolverhampton,5.0,-12.0
+E08000031,2020-03-27,Wolverhampton,128,87,LAD,E11000005,West Midlands,E08000031,Wolverhampton,25.0,20.0
+E08000031,2020-03-28,Wolverhampton,141,88,LAD,E11000005,West Midlands,E08000031,Wolverhampton,13.0,-12.0
+E08000031,2020-03-29,Wolverhampton,153,89,LAD,E11000005,West Midlands,E08000031,Wolverhampton,12.0,-1.0
+E08000032,2020-03-18,Bradford,8,78,LAD,E11000006,West Yorkshire,E08000032,Bradford,,
+E08000032,2020-03-19,Bradford,7,79,LAD,E11000006,West Yorkshire,E08000032,Bradford,-1.0,
+E08000032,2020-03-20,Bradford,9,80,LAD,E11000006,West Yorkshire,E08000032,Bradford,2.0,3.0
+E08000032,2020-03-21,Bradford,10,81,LAD,E11000006,West Yorkshire,E08000032,Bradford,1.0,-1.0
+E08000032,2020-03-22,Bradford,11,82,LAD,E11000006,West Yorkshire,E08000032,Bradford,1.0,0.0
+E08000032,2020-03-23,Bradford,13,83,LAD,E11000006,West Yorkshire,E08000032,Bradford,2.0,1.0
+E08000032,2020-03-24,Bradford,14,84,LAD,E11000006,West Yorkshire,E08000032,Bradford,1.0,-1.0
+E08000032,2020-03-25,Bradford,16,85,LAD,E11000006,West Yorkshire,E08000032,Bradford,2.0,1.0
+E08000032,2020-03-26,Bradford,23,86,LAD,E11000006,West Yorkshire,E08000032,Bradford,7.0,5.0
+E08000032,2020-03-27,Bradford,29,87,LAD,E11000006,West Yorkshire,E08000032,Bradford,6.0,-1.0
+E08000032,2020-03-28,Bradford,37,88,LAD,E11000006,West Yorkshire,E08000032,Bradford,8.0,2.0
+E08000032,2020-03-29,Bradford,46,89,LAD,E11000006,West Yorkshire,E08000032,Bradford,9.0,1.0
+E08000033,2020-03-18,Calderdale,3,78,LAD,E11000006,West Yorkshire,E08000033,Calderdale,,
+E08000033,2020-03-19,Calderdale,3,79,LAD,E11000006,West Yorkshire,E08000033,Calderdale,0.0,
+E08000033,2020-03-20,Calderdale,5,80,LAD,E11000006,West Yorkshire,E08000033,Calderdale,2.0,2.0
+E08000033,2020-03-21,Calderdale,5,81,LAD,E11000006,West Yorkshire,E08000033,Calderdale,0.0,-2.0
+E08000033,2020-03-22,Calderdale,5,82,LAD,E11000006,West Yorkshire,E08000033,Calderdale,0.0,0.0
+E08000033,2020-03-23,Calderdale,7,83,LAD,E11000006,West Yorkshire,E08000033,Calderdale,2.0,2.0
+E08000033,2020-03-24,Calderdale,7,84,LAD,E11000006,West Yorkshire,E08000033,Calderdale,0.0,-2.0
+E08000033,2020-03-25,Calderdale,7,85,LAD,E11000006,West Yorkshire,E08000033,Calderdale,0.0,0.0
+E08000033,2020-03-26,Calderdale,9,86,LAD,E11000006,West Yorkshire,E08000033,Calderdale,2.0,2.0
+E08000033,2020-03-27,Calderdale,11,87,LAD,E11000006,West Yorkshire,E08000033,Calderdale,2.0,0.0
+E08000033,2020-03-28,Calderdale,15,88,LAD,E11000006,West Yorkshire,E08000033,Calderdale,4.0,2.0
+E08000033,2020-03-29,Calderdale,29,89,LAD,E11000006,West Yorkshire,E08000033,Calderdale,14.0,10.0
+E08000034,2020-03-18,Kirklees,2,78,LAD,E11000006,West Yorkshire,E08000034,Kirklees,,
+E08000034,2020-03-19,Kirklees,3,79,LAD,E11000006,West Yorkshire,E08000034,Kirklees,1.0,
+E08000034,2020-03-20,Kirklees,6,80,LAD,E11000006,West Yorkshire,E08000034,Kirklees,3.0,2.0
+E08000034,2020-03-21,Kirklees,8,81,LAD,E11000006,West Yorkshire,E08000034,Kirklees,2.0,-1.0
+E08000034,2020-03-22,Kirklees,11,82,LAD,E11000006,West Yorkshire,E08000034,Kirklees,3.0,1.0
+E08000034,2020-03-23,Kirklees,16,83,LAD,E11000006,West Yorkshire,E08000034,Kirklees,5.0,2.0
+E08000034,2020-03-24,Kirklees,17,84,LAD,E11000006,West Yorkshire,E08000034,Kirklees,1.0,-4.0
+E08000034,2020-03-25,Kirklees,20,85,LAD,E11000006,West Yorkshire,E08000034,Kirklees,3.0,2.0
+E08000034,2020-03-26,Kirklees,24,86,LAD,E11000006,West Yorkshire,E08000034,Kirklees,4.0,1.0
+E08000034,2020-03-27,Kirklees,33,87,LAD,E11000006,West Yorkshire,E08000034,Kirklees,9.0,5.0
+E08000034,2020-03-28,Kirklees,38,88,LAD,E11000006,West Yorkshire,E08000034,Kirklees,5.0,-4.0
+E08000034,2020-03-29,Kirklees,60,89,LAD,E11000006,West Yorkshire,E08000034,Kirklees,22.0,17.0
+E08000035,2020-03-18,Leeds,12,78,LAD,E11000006,West Yorkshire,E08000035,Leeds,,
+E08000035,2020-03-19,Leeds,15,79,LAD,E11000006,West Yorkshire,E08000035,Leeds,3.0,
+E08000035,2020-03-20,Leeds,17,80,LAD,E11000006,West Yorkshire,E08000035,Leeds,2.0,-1.0
+E08000035,2020-03-21,Leeds,20,81,LAD,E11000006,West Yorkshire,E08000035,Leeds,3.0,1.0
+E08000035,2020-03-22,Leeds,29,82,LAD,E11000006,West Yorkshire,E08000035,Leeds,9.0,6.0
+E08000035,2020-03-23,Leeds,35,83,LAD,E11000006,West Yorkshire,E08000035,Leeds,6.0,-3.0
+E08000035,2020-03-24,Leeds,42,84,LAD,E11000006,West Yorkshire,E08000035,Leeds,7.0,1.0
+E08000035,2020-03-25,Leeds,53,85,LAD,E11000006,West Yorkshire,E08000035,Leeds,11.0,4.0
+E08000035,2020-03-26,Leeds,67,86,LAD,E11000006,West Yorkshire,E08000035,Leeds,14.0,3.0
+E08000035,2020-03-27,Leeds,80,87,LAD,E11000006,West Yorkshire,E08000035,Leeds,13.0,-1.0
+E08000035,2020-03-28,Leeds,95,88,LAD,E11000006,West Yorkshire,E08000035,Leeds,15.0,2.0
+E08000035,2020-03-29,Leeds,113,89,LAD,E11000006,West Yorkshire,E08000035,Leeds,18.0,3.0
+E08000036,2020-03-18,Wakefield,5,78,LAD,E11000006,West Yorkshire,E08000036,Wakefield,,
+E08000036,2020-03-19,Wakefield,6,79,LAD,E11000006,West Yorkshire,E08000036,Wakefield,1.0,
+E08000036,2020-03-20,Wakefield,6,80,LAD,E11000006,West Yorkshire,E08000036,Wakefield,0.0,-1.0
+E08000036,2020-03-21,Wakefield,8,81,LAD,E11000006,West Yorkshire,E08000036,Wakefield,2.0,2.0
+E08000036,2020-03-22,Wakefield,10,82,LAD,E11000006,West Yorkshire,E08000036,Wakefield,2.0,0.0
+E08000036,2020-03-23,Wakefield,12,83,LAD,E11000006,West Yorkshire,E08000036,Wakefield,2.0,0.0
+E08000036,2020-03-24,Wakefield,13,84,LAD,E11000006,West Yorkshire,E08000036,Wakefield,1.0,-1.0
+E08000036,2020-03-25,Wakefield,19,85,LAD,E11000006,West Yorkshire,E08000036,Wakefield,6.0,5.0
+E08000036,2020-03-26,Wakefield,24,86,LAD,E11000006,West Yorkshire,E08000036,Wakefield,5.0,-1.0
+E08000036,2020-03-27,Wakefield,34,87,LAD,E11000006,West Yorkshire,E08000036,Wakefield,10.0,5.0
+E08000036,2020-03-28,Wakefield,40,88,LAD,E11000006,West Yorkshire,E08000036,Wakefield,6.0,-4.0
+E08000036,2020-03-29,Wakefield,54,89,LAD,E11000006,West Yorkshire,E08000036,Wakefield,14.0,8.0
+E08000037,2020-03-18,Gateshead,1,78,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,,
+E08000037,2020-03-19,Gateshead,1,79,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,0.0,
+E08000037,2020-03-20,Gateshead,1,80,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,0.0,0.0
+E08000037,2020-03-21,Gateshead,2,81,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,1.0,1.0
+E08000037,2020-03-22,Gateshead,3,82,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,1.0,0.0
+E08000037,2020-03-23,Gateshead,4,83,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,1.0,0.0
+E08000037,2020-03-24,Gateshead,5,84,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,1.0,0.0
+E08000037,2020-03-25,Gateshead,10,85,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,5.0,4.0
+E08000037,2020-03-26,Gateshead,12,86,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,2.0,-3.0
+E08000037,2020-03-27,Gateshead,23,87,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,11.0,9.0
+E08000037,2020-03-28,Gateshead,31,88,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,8.0,-3.0
+E08000037,2020-03-29,Gateshead,44,89,LAD,E11000007,Tyne and Wear,E08000037,Gateshead,13.0,5.0
+E09000002,2020-03-18,Barking and Dagenham,14,78,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,,
+E09000002,2020-03-19,Barking and Dagenham,18,79,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,4.0,
+E09000002,2020-03-20,Barking and Dagenham,21,80,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,3.0,-1.0
+E09000002,2020-03-21,Barking and Dagenham,30,81,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,9.0,6.0
+E09000002,2020-03-22,Barking and Dagenham,35,82,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,5.0,-4.0
+E09000002,2020-03-23,Barking and Dagenham,42,83,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,7.0,2.0
+E09000002,2020-03-24,Barking and Dagenham,45,84,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,3.0,-4.0
+E09000002,2020-03-25,Barking and Dagenham,53,85,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,8.0,5.0
+E09000002,2020-03-26,Barking and Dagenham,72,86,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,19.0,11.0
+E09000002,2020-03-27,Barking and Dagenham,82,87,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,10.0,-9.0
+E09000002,2020-03-28,Barking and Dagenham,93,88,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,11.0,1.0
+E09000002,2020-03-29,Barking and Dagenham,100,89,LAD,E13000002,Outer London,E09000002,Barking and Dagenham,7.0,-4.0
+E09000003,2020-03-18,Barnet,27,78,LAD,E13000002,Outer London,E09000003,Barnet,,
+E09000003,2020-03-19,Barnet,28,79,LAD,E13000002,Outer London,E09000003,Barnet,1.0,
+E09000003,2020-03-20,Barnet,76,80,LAD,E13000002,Outer London,E09000003,Barnet,48.0,47.0
+E09000003,2020-03-21,Barnet,81,81,LAD,E13000002,Outer London,E09000003,Barnet,5.0,-43.0
+E09000003,2020-03-22,Barnet,88,82,LAD,E13000002,Outer London,E09000003,Barnet,7.0,2.0
+E09000003,2020-03-23,Barnet,94,83,LAD,E13000002,Outer London,E09000003,Barnet,6.0,-1.0
+E09000003,2020-03-24,Barnet,99,84,LAD,E13000002,Outer London,E09000003,Barnet,5.0,-1.0
+E09000003,2020-03-25,Barnet,100,85,LAD,E13000002,Outer London,E09000003,Barnet,1.0,-4.0
+E09000003,2020-03-26,Barnet,103,86,LAD,E13000002,Outer London,E09000003,Barnet,3.0,2.0
+E09000003,2020-03-27,Barnet,115,87,LAD,E13000002,Outer London,E09000003,Barnet,12.0,9.0
+E09000003,2020-03-28,Barnet,117,88,LAD,E13000002,Outer London,E09000003,Barnet,2.0,-10.0
+E09000003,2020-03-29,Barnet,119,89,LAD,E13000002,Outer London,E09000003,Barnet,2.0,0.0
+E09000004,2020-03-18,Bexley,17,78,LAD,E13000002,Outer London,E09000004,Bexley,,
+E09000004,2020-03-19,Bexley,22,79,LAD,E13000002,Outer London,E09000004,Bexley,5.0,
+E09000004,2020-03-20,Bexley,31,80,LAD,E13000002,Outer London,E09000004,Bexley,9.0,4.0
+E09000004,2020-03-21,Bexley,37,81,LAD,E13000002,Outer London,E09000004,Bexley,6.0,-3.0
+E09000004,2020-03-22,Bexley,39,82,LAD,E13000002,Outer London,E09000004,Bexley,2.0,-4.0
+E09000004,2020-03-23,Bexley,43,83,LAD,E13000002,Outer London,E09000004,Bexley,4.0,2.0
+E09000004,2020-03-24,Bexley,47,84,LAD,E13000002,Outer London,E09000004,Bexley,4.0,0.0
+E09000004,2020-03-25,Bexley,59,85,LAD,E13000002,Outer London,E09000004,Bexley,12.0,8.0
+E09000004,2020-03-26,Bexley,77,86,LAD,E13000002,Outer London,E09000004,Bexley,18.0,6.0
+E09000004,2020-03-27,Bexley,85,87,LAD,E13000002,Outer London,E09000004,Bexley,8.0,-10.0
+E09000004,2020-03-28,Bexley,102,88,LAD,E13000002,Outer London,E09000004,Bexley,17.0,9.0
+E09000004,2020-03-29,Bexley,119,89,LAD,E13000002,Outer London,E09000004,Bexley,17.0,0.0
+E09000005,2020-03-18,Brent,45,78,LAD,E13000002,Outer London,E09000005,Brent,,
+E09000005,2020-03-19,Brent,66,79,LAD,E13000002,Outer London,E09000005,Brent,21.0,
+E09000005,2020-03-20,Brent,75,80,LAD,E13000002,Outer London,E09000005,Brent,9.0,-12.0
+E09000005,2020-03-21,Brent,108,81,LAD,E13000002,Outer London,E09000005,Brent,33.0,24.0
+E09000005,2020-03-22,Brent,128,82,LAD,E13000002,Outer London,E09000005,Brent,20.0,-13.0
+E09000005,2020-03-23,Brent,143,83,LAD,E13000002,Outer London,E09000005,Brent,15.0,-5.0
+E09000005,2020-03-24,Brent,170,84,LAD,E13000002,Outer London,E09000005,Brent,27.0,12.0
+E09000005,2020-03-25,Brent,192,85,LAD,E13000002,Outer London,E09000005,Brent,22.0,-5.0
+E09000005,2020-03-26,Brent,228,86,LAD,E13000002,Outer London,E09000005,Brent,36.0,14.0
+E09000005,2020-03-27,Brent,265,87,LAD,E13000002,Outer London,E09000005,Brent,37.0,1.0
+E09000005,2020-03-28,Brent,295,88,LAD,E13000002,Outer London,E09000005,Brent,30.0,-7.0
+E09000005,2020-03-29,Brent,321,89,LAD,E13000002,Outer London,E09000005,Brent,26.0,-4.0
+E09000006,2020-03-18,Bromley,32,78,LAD,E13000002,Outer London,E09000006,Bromley,,
+E09000006,2020-03-19,Bromley,40,79,LAD,E13000002,Outer London,E09000006,Bromley,8.0,
+E09000006,2020-03-20,Bromley,52,80,LAD,E13000002,Outer London,E09000006,Bromley,12.0,4.0
+E09000006,2020-03-21,Bromley,63,81,LAD,E13000002,Outer London,E09000006,Bromley,11.0,-1.0
+E09000006,2020-03-22,Bromley,67,82,LAD,E13000002,Outer London,E09000006,Bromley,4.0,-7.0
+E09000006,2020-03-23,Bromley,76,83,LAD,E13000002,Outer London,E09000006,Bromley,9.0,5.0
+E09000006,2020-03-24,Bromley,93,84,LAD,E13000002,Outer London,E09000006,Bromley,17.0,8.0
+E09000006,2020-03-25,Bromley,125,85,LAD,E13000002,Outer London,E09000006,Bromley,32.0,15.0
+E09000006,2020-03-26,Bromley,149,86,LAD,E13000002,Outer London,E09000006,Bromley,24.0,-8.0
+E09000006,2020-03-27,Bromley,188,87,LAD,E13000002,Outer London,E09000006,Bromley,39.0,15.0
+E09000006,2020-03-28,Bromley,217,88,LAD,E13000002,Outer London,E09000006,Bromley,29.0,-10.0
+E09000006,2020-03-29,Bromley,268,89,LAD,E13000002,Outer London,E09000006,Bromley,51.0,22.0
+E09000007,2020-03-18,Camden,30,78,LAD,E13000001,Inner London,E09000007,Camden,,
+E09000007,2020-03-19,Camden,36,79,LAD,E13000001,Inner London,E09000007,Camden,6.0,
+E09000007,2020-03-20,Camden,46,80,LAD,E13000001,Inner London,E09000007,Camden,10.0,4.0
+E09000007,2020-03-21,Camden,51,81,LAD,E13000001,Inner London,E09000007,Camden,5.0,-5.0
+E09000007,2020-03-22,Camden,53,82,LAD,E13000001,Inner London,E09000007,Camden,2.0,-3.0
+E09000007,2020-03-23,Camden,60,83,LAD,E13000001,Inner London,E09000007,Camden,7.0,5.0
+E09000007,2020-03-24,Camden,64,84,LAD,E13000001,Inner London,E09000007,Camden,4.0,-3.0
+E09000007,2020-03-25,Camden,71,85,LAD,E13000001,Inner London,E09000007,Camden,7.0,3.0
+E09000007,2020-03-26,Camden,85,86,LAD,E13000001,Inner London,E09000007,Camden,14.0,7.0
+E09000007,2020-03-27,Camden,99,87,LAD,E13000001,Inner London,E09000007,Camden,14.0,0.0
+E09000007,2020-03-28,Camden,115,88,LAD,E13000001,Inner London,E09000007,Camden,16.0,2.0
+E09000007,2020-03-29,Camden,119,89,LAD,E13000001,Inner London,E09000007,Camden,4.0,-12.0
+E09000008,2020-03-18,Croydon,32,78,LAD,E13000002,Outer London,E09000008,Croydon,,
+E09000008,2020-03-19,Croydon,49,79,LAD,E13000002,Outer London,E09000008,Croydon,17.0,
+E09000008,2020-03-20,Croydon,68,80,LAD,E13000002,Outer London,E09000008,Croydon,19.0,2.0
+E09000008,2020-03-21,Croydon,81,81,LAD,E13000002,Outer London,E09000008,Croydon,13.0,-6.0
+E09000008,2020-03-22,Croydon,84,82,LAD,E13000002,Outer London,E09000008,Croydon,3.0,-10.0
+E09000008,2020-03-23,Croydon,85,83,LAD,E13000002,Outer London,E09000008,Croydon,1.0,-2.0
+E09000008,2020-03-24,Croydon,128,84,LAD,E13000002,Outer London,E09000008,Croydon,43.0,42.0
+E09000008,2020-03-25,Croydon,163,85,LAD,E13000002,Outer London,E09000008,Croydon,35.0,-8.0
+E09000008,2020-03-26,Croydon,181,86,LAD,E13000002,Outer London,E09000008,Croydon,18.0,-17.0
+E09000008,2020-03-27,Croydon,219,87,LAD,E13000002,Outer London,E09000008,Croydon,38.0,20.0
+E09000008,2020-03-28,Croydon,261,88,LAD,E13000002,Outer London,E09000008,Croydon,42.0,4.0
+E09000008,2020-03-29,Croydon,289,89,LAD,E13000002,Outer London,E09000008,Croydon,28.0,-14.0
+E09000009,2020-03-18,Ealing,42,78,LAD,E13000002,Outer London,E09000009,Ealing,,
+E09000009,2020-03-19,Ealing,53,79,LAD,E13000002,Outer London,E09000009,Ealing,11.0,
+E09000009,2020-03-20,Ealing,54,80,LAD,E13000002,Outer London,E09000009,Ealing,1.0,-10.0
+E09000009,2020-03-21,Ealing,80,81,LAD,E13000002,Outer London,E09000009,Ealing,26.0,25.0
+E09000009,2020-03-22,Ealing,97,82,LAD,E13000002,Outer London,E09000009,Ealing,17.0,-9.0
+E09000009,2020-03-23,Ealing,106,83,LAD,E13000002,Outer London,E09000009,Ealing,9.0,-8.0
+E09000009,2020-03-24,Ealing,123,84,LAD,E13000002,Outer London,E09000009,Ealing,17.0,8.0
+E09000009,2020-03-25,Ealing,136,85,LAD,E13000002,Outer London,E09000009,Ealing,13.0,-4.0
+E09000009,2020-03-26,Ealing,165,86,LAD,E13000002,Outer London,E09000009,Ealing,29.0,16.0
+E09000009,2020-03-27,Ealing,209,87,LAD,E13000002,Outer London,E09000009,Ealing,44.0,15.0
+E09000009,2020-03-28,Ealing,241,88,LAD,E13000002,Outer London,E09000009,Ealing,32.0,-12.0
+E09000009,2020-03-29,Ealing,265,89,LAD,E13000002,Outer London,E09000009,Ealing,24.0,-8.0
+E09000010,2020-03-18,Enfield,27,78,LAD,E13000002,Outer London,E09000010,Enfield,,
+E09000010,2020-03-19,Enfield,30,79,LAD,E13000002,Outer London,E09000010,Enfield,3.0,
+E09000010,2020-03-20,Enfield,48,80,LAD,E13000002,Outer London,E09000010,Enfield,18.0,15.0
+E09000010,2020-03-21,Enfield,54,81,LAD,E13000002,Outer London,E09000010,Enfield,6.0,-12.0
+E09000010,2020-03-22,Enfield,68,82,LAD,E13000002,Outer London,E09000010,Enfield,14.0,8.0
+E09000010,2020-03-23,Enfield,76,83,LAD,E13000002,Outer London,E09000010,Enfield,8.0,-6.0
+E09000010,2020-03-24,Enfield,84,84,LAD,E13000002,Outer London,E09000010,Enfield,8.0,0.0
+E09000010,2020-03-25,Enfield,98,85,LAD,E13000002,Outer London,E09000010,Enfield,14.0,6.0
+E09000010,2020-03-26,Enfield,110,86,LAD,E13000002,Outer London,E09000010,Enfield,12.0,-2.0
+E09000010,2020-03-27,Enfield,136,87,LAD,E13000002,Outer London,E09000010,Enfield,26.0,14.0
+E09000010,2020-03-28,Enfield,144,88,LAD,E13000002,Outer London,E09000010,Enfield,8.0,-18.0
+E09000010,2020-03-29,Enfield,151,89,LAD,E13000002,Outer London,E09000010,Enfield,7.0,-1.0
+E09000011,2020-03-18,Greenwich,19,78,LAD,E13000002,Outer London,E09000011,Greenwich,,
+E09000011,2020-03-19,Greenwich,33,79,LAD,E13000002,Outer London,E09000011,Greenwich,14.0,
+E09000011,2020-03-20,Greenwich,41,80,LAD,E13000002,Outer London,E09000011,Greenwich,8.0,-6.0
+E09000011,2020-03-21,Greenwich,54,81,LAD,E13000002,Outer London,E09000011,Greenwich,13.0,5.0
+E09000011,2020-03-22,Greenwich,61,82,LAD,E13000002,Outer London,E09000011,Greenwich,7.0,-6.0
+E09000011,2020-03-23,Greenwich,67,83,LAD,E13000002,Outer London,E09000011,Greenwich,6.0,-1.0
+E09000011,2020-03-24,Greenwich,77,84,LAD,E13000002,Outer London,E09000011,Greenwich,10.0,4.0
+E09000011,2020-03-25,Greenwich,97,85,LAD,E13000002,Outer London,E09000011,Greenwich,20.0,10.0
+E09000011,2020-03-26,Greenwich,118,86,LAD,E13000002,Outer London,E09000011,Greenwich,21.0,1.0
+E09000011,2020-03-27,Greenwich,128,87,LAD,E13000002,Outer London,E09000011,Greenwich,10.0,-11.0
+E09000011,2020-03-28,Greenwich,148,88,LAD,E13000002,Outer London,E09000011,Greenwich,20.0,10.0
+E09000011,2020-03-29,Greenwich,168,89,LAD,E13000002,Outer London,E09000011,Greenwich,20.0,0.0
+E09000012,2020-03-18,Hackney and City of London,29,78,LAD,E13000001,Inner London,E09000012,Hackney and City of London,,
+E09000012,2020-03-19,Hackney and City of London,32,79,LAD,E13000001,Inner London,E09000012,Hackney and City of London,3.0,
+E09000012,2020-03-20,Hackney and City of London,45,80,LAD,E13000001,Inner London,E09000012,Hackney and City of London,13.0,10.0
+E09000012,2020-03-21,Hackney and City of London,52,81,LAD,E13000001,Inner London,E09000012,Hackney and City of London,7.0,-6.0
+E09000012,2020-03-22,Hackney and City of London,64,82,LAD,E13000001,Inner London,E09000012,Hackney and City of London,12.0,5.0
+E09000012,2020-03-23,Hackney and City of London,72,83,LAD,E13000001,Inner London,E09000012,Hackney and City of London,8.0,-4.0
+E09000012,2020-03-24,Hackney and City of London,74,84,LAD,E13000001,Inner London,E09000012,Hackney and City of London,2.0,-6.0
+E09000012,2020-03-25,Hackney and City of London,85,85,LAD,E13000001,Inner London,E09000012,Hackney and City of London,11.0,9.0
+E09000012,2020-03-26,Hackney and City of London,119,86,LAD,E13000001,Inner London,E09000012,Hackney and City of London,34.0,23.0
+E09000012,2020-03-27,Hackney and City of London,134,87,LAD,E13000001,Inner London,E09000012,Hackney and City of London,15.0,-19.0
+E09000012,2020-03-28,Hackney and City of London,151,88,LAD,E13000001,Inner London,E09000012,Hackney and City of London,17.0,2.0
+E09000012,2020-03-29,Hackney and City of London,177,89,LAD,E13000001,Inner London,E09000012,Hackney and City of London,26.0,9.0
+E09000013,2020-03-18,Hammersmith and Fulham,25,78,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,,
+E09000013,2020-03-19,Hammersmith and Fulham,28,79,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,3.0,
+E09000013,2020-03-20,Hammersmith and Fulham,36,80,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,8.0,5.0
+E09000013,2020-03-21,Hammersmith and Fulham,45,81,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,9.0,1.0
+E09000013,2020-03-22,Hammersmith and Fulham,51,82,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,6.0,-3.0
+E09000013,2020-03-23,Hammersmith and Fulham,58,83,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,7.0,1.0
+E09000013,2020-03-24,Hammersmith and Fulham,70,84,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,12.0,5.0
+E09000013,2020-03-25,Hammersmith and Fulham,80,85,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,10.0,-2.0
+E09000013,2020-03-26,Hammersmith and Fulham,94,86,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,14.0,4.0
+E09000013,2020-03-27,Hammersmith and Fulham,112,87,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,18.0,4.0
+E09000013,2020-03-28,Hammersmith and Fulham,124,88,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,12.0,-6.0
+E09000013,2020-03-29,Hammersmith and Fulham,144,89,LAD,E13000001,Inner London,E09000013,Hammersmith and Fulham,20.0,8.0
+E09000014,2020-03-18,Haringey,29,78,LAD,E13000001,Inner London,E09000014,Haringey,,
+E09000014,2020-03-19,Haringey,32,79,LAD,E13000001,Inner London,E09000014,Haringey,3.0,
+E09000014,2020-03-20,Haringey,44,80,LAD,E13000001,Inner London,E09000014,Haringey,12.0,9.0
+E09000014,2020-03-21,Haringey,51,81,LAD,E13000001,Inner London,E09000014,Haringey,7.0,-5.0
+E09000014,2020-03-22,Haringey,57,82,LAD,E13000001,Inner London,E09000014,Haringey,6.0,-1.0
+E09000014,2020-03-23,Haringey,64,83,LAD,E13000001,Inner London,E09000014,Haringey,7.0,1.0
+E09000014,2020-03-24,Haringey,72,84,LAD,E13000001,Inner London,E09000014,Haringey,8.0,1.0
+E09000014,2020-03-25,Haringey,76,85,LAD,E13000001,Inner London,E09000014,Haringey,4.0,-4.0
+E09000014,2020-03-26,Haringey,91,86,LAD,E13000001,Inner London,E09000014,Haringey,15.0,11.0
+E09000014,2020-03-27,Haringey,113,87,LAD,E13000001,Inner London,E09000014,Haringey,22.0,7.0
+E09000014,2020-03-28,Haringey,127,88,LAD,E13000001,Inner London,E09000014,Haringey,14.0,-8.0
+E09000014,2020-03-29,Haringey,141,89,LAD,E13000001,Inner London,E09000014,Haringey,14.0,0.0
+E09000015,2020-03-18,Harrow,40,78,LAD,E13000002,Outer London,E09000015,Harrow,,
+E09000015,2020-03-19,Harrow,56,79,LAD,E13000002,Outer London,E09000015,Harrow,16.0,
+E09000015,2020-03-20,Harrow,60,80,LAD,E13000002,Outer London,E09000015,Harrow,4.0,-12.0
+E09000015,2020-03-21,Harrow,89,81,LAD,E13000002,Outer London,E09000015,Harrow,29.0,25.0
+E09000015,2020-03-22,Harrow,103,82,LAD,E13000002,Outer London,E09000015,Harrow,14.0,-15.0
+E09000015,2020-03-23,Harrow,113,83,LAD,E13000002,Outer London,E09000015,Harrow,10.0,-4.0
+E09000015,2020-03-24,Harrow,134,84,LAD,E13000002,Outer London,E09000015,Harrow,21.0,11.0
+E09000015,2020-03-25,Harrow,145,85,LAD,E13000002,Outer London,E09000015,Harrow,11.0,-10.0
+E09000015,2020-03-26,Harrow,167,86,LAD,E13000002,Outer London,E09000015,Harrow,22.0,11.0
+E09000015,2020-03-27,Harrow,196,87,LAD,E13000002,Outer London,E09000015,Harrow,29.0,7.0
+E09000015,2020-03-28,Harrow,225,88,LAD,E13000002,Outer London,E09000015,Harrow,29.0,0.0
+E09000015,2020-03-29,Harrow,251,89,LAD,E13000002,Outer London,E09000015,Harrow,26.0,-3.0
+E09000016,2020-03-18,Havering,7,78,LAD,E13000002,Outer London,E09000016,Havering,,
+E09000016,2020-03-19,Havering,14,79,LAD,E13000002,Outer London,E09000016,Havering,7.0,
+E09000016,2020-03-20,Havering,19,80,LAD,E13000002,Outer London,E09000016,Havering,5.0,-2.0
+E09000016,2020-03-21,Havering,30,81,LAD,E13000002,Outer London,E09000016,Havering,11.0,6.0
+E09000016,2020-03-22,Havering,35,82,LAD,E13000002,Outer London,E09000016,Havering,5.0,-6.0
+E09000016,2020-03-23,Havering,39,83,LAD,E13000002,Outer London,E09000016,Havering,4.0,-1.0
+E09000016,2020-03-24,Havering,44,84,LAD,E13000002,Outer London,E09000016,Havering,5.0,1.0
+E09000016,2020-03-25,Havering,47,85,LAD,E13000002,Outer London,E09000016,Havering,3.0,-2.0
+E09000016,2020-03-26,Havering,70,86,LAD,E13000002,Outer London,E09000016,Havering,23.0,20.0
+E09000016,2020-03-27,Havering,82,87,LAD,E13000002,Outer London,E09000016,Havering,12.0,-11.0
+E09000016,2020-03-28,Havering,101,88,LAD,E13000002,Outer London,E09000016,Havering,19.0,7.0
+E09000016,2020-03-29,Havering,105,89,LAD,E13000002,Outer London,E09000016,Havering,4.0,-15.0
+E09000017,2020-03-18,Hillingdon,21,78,LAD,E13000002,Outer London,E09000017,Hillingdon,,
+E09000017,2020-03-19,Hillingdon,29,79,LAD,E13000002,Outer London,E09000017,Hillingdon,8.0,
+E09000017,2020-03-20,Hillingdon,34,80,LAD,E13000002,Outer London,E09000017,Hillingdon,5.0,-3.0
+E09000017,2020-03-21,Hillingdon,50,81,LAD,E13000002,Outer London,E09000017,Hillingdon,16.0,11.0
+E09000017,2020-03-22,Hillingdon,63,82,LAD,E13000002,Outer London,E09000017,Hillingdon,13.0,-3.0
+E09000017,2020-03-23,Hillingdon,78,83,LAD,E13000002,Outer London,E09000017,Hillingdon,15.0,2.0
+E09000017,2020-03-24,Hillingdon,85,84,LAD,E13000002,Outer London,E09000017,Hillingdon,7.0,-8.0
+E09000017,2020-03-25,Hillingdon,90,85,LAD,E13000002,Outer London,E09000017,Hillingdon,5.0,-2.0
+E09000017,2020-03-26,Hillingdon,103,86,LAD,E13000002,Outer London,E09000017,Hillingdon,13.0,8.0
+E09000017,2020-03-27,Hillingdon,129,87,LAD,E13000002,Outer London,E09000017,Hillingdon,26.0,13.0
+E09000017,2020-03-28,Hillingdon,140,88,LAD,E13000002,Outer London,E09000017,Hillingdon,11.0,-15.0
+E09000017,2020-03-29,Hillingdon,163,89,LAD,E13000002,Outer London,E09000017,Hillingdon,23.0,12.0
+E09000018,2020-03-18,Hounslow,24,78,LAD,E13000002,Outer London,E09000018,Hounslow,,
+E09000018,2020-03-19,Hounslow,29,79,LAD,E13000002,Outer London,E09000018,Hounslow,5.0,
+E09000018,2020-03-20,Hounslow,38,80,LAD,E13000002,Outer London,E09000018,Hounslow,9.0,4.0
+E09000018,2020-03-21,Hounslow,52,81,LAD,E13000002,Outer London,E09000018,Hounslow,14.0,5.0
+E09000018,2020-03-22,Hounslow,64,82,LAD,E13000002,Outer London,E09000018,Hounslow,12.0,-2.0
+E09000018,2020-03-23,Hounslow,73,83,LAD,E13000002,Outer London,E09000018,Hounslow,9.0,-3.0
+E09000018,2020-03-24,Hounslow,82,84,LAD,E13000002,Outer London,E09000018,Hounslow,9.0,0.0
+E09000018,2020-03-25,Hounslow,90,85,LAD,E13000002,Outer London,E09000018,Hounslow,8.0,-1.0
+E09000018,2020-03-26,Hounslow,112,86,LAD,E13000002,Outer London,E09000018,Hounslow,22.0,14.0
+E09000018,2020-03-27,Hounslow,126,87,LAD,E13000002,Outer London,E09000018,Hounslow,14.0,-8.0
+E09000018,2020-03-28,Hounslow,139,88,LAD,E13000002,Outer London,E09000018,Hounslow,13.0,-1.0
+E09000018,2020-03-29,Hounslow,152,89,LAD,E13000002,Outer London,E09000018,Hounslow,13.0,0.0
+E09000019,2020-03-18,Islington,29,78,LAD,E13000001,Inner London,E09000019,Islington,,
+E09000019,2020-03-19,Islington,35,79,LAD,E13000001,Inner London,E09000019,Islington,6.0,
+E09000019,2020-03-20,Islington,45,80,LAD,E13000001,Inner London,E09000019,Islington,10.0,4.0
+E09000019,2020-03-21,Islington,48,81,LAD,E13000001,Inner London,E09000019,Islington,3.0,-7.0
+E09000019,2020-03-22,Islington,54,82,LAD,E13000001,Inner London,E09000019,Islington,6.0,3.0
+E09000019,2020-03-23,Islington,59,83,LAD,E13000001,Inner London,E09000019,Islington,5.0,-1.0
+E09000019,2020-03-24,Islington,66,84,LAD,E13000001,Inner London,E09000019,Islington,7.0,2.0
+E09000019,2020-03-25,Islington,70,85,LAD,E13000001,Inner London,E09000019,Islington,4.0,-3.0
+E09000019,2020-03-26,Islington,96,86,LAD,E13000001,Inner London,E09000019,Islington,26.0,22.0
+E09000019,2020-03-27,Islington,120,87,LAD,E13000001,Inner London,E09000019,Islington,24.0,-2.0
+E09000019,2020-03-28,Islington,131,88,LAD,E13000001,Inner London,E09000019,Islington,11.0,-13.0
+E09000019,2020-03-29,Islington,141,89,LAD,E13000001,Inner London,E09000019,Islington,10.0,-1.0
+E09000020,2020-03-18,Kensington and Chelsea,55,78,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,,
+E09000020,2020-03-19,Kensington and Chelsea,57,79,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,2.0,
+E09000020,2020-03-20,Kensington and Chelsea,66,80,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,9.0,7.0
+E09000020,2020-03-21,Kensington and Chelsea,75,81,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,9.0,0.0
+E09000020,2020-03-22,Kensington and Chelsea,81,82,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,6.0,-3.0
+E09000020,2020-03-23,Kensington and Chelsea,85,83,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,4.0,-2.0
+E09000020,2020-03-24,Kensington and Chelsea,91,84,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,6.0,2.0
+E09000020,2020-03-25,Kensington and Chelsea,97,85,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,6.0,0.0
+E09000020,2020-03-26,Kensington and Chelsea,110,86,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,13.0,7.0
+E09000020,2020-03-27,Kensington and Chelsea,116,87,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,6.0,-7.0
+E09000020,2020-03-28,Kensington and Chelsea,123,88,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,7.0,1.0
+E09000020,2020-03-29,Kensington and Chelsea,141,89,LAD,E13000001,Inner London,E09000020,Kensington and Chelsea,18.0,11.0
+E09000021,2020-03-18,Kingston upon Thames,7,78,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,,
+E09000021,2020-03-19,Kingston upon Thames,14,79,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,7.0,
+E09000021,2020-03-20,Kingston upon Thames,17,80,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,3.0,-4.0
+E09000021,2020-03-21,Kingston upon Thames,22,81,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,5.0,2.0
+E09000021,2020-03-22,Kingston upon Thames,23,82,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,1.0,-4.0
+E09000021,2020-03-23,Kingston upon Thames,23,83,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,0.0,-1.0
+E09000021,2020-03-24,Kingston upon Thames,36,84,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,13.0,13.0
+E09000021,2020-03-25,Kingston upon Thames,37,85,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,1.0,-12.0
+E09000021,2020-03-26,Kingston upon Thames,42,86,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,5.0,4.0
+E09000021,2020-03-27,Kingston upon Thames,52,87,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,10.0,5.0
+E09000021,2020-03-28,Kingston upon Thames,66,88,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,14.0,4.0
+E09000021,2020-03-29,Kingston upon Thames,82,89,LAD,E13000002,Outer London,E09000021,Kingston upon Thames,16.0,2.0
+E09000022,2020-03-18,Lambeth,61,78,LAD,E13000001,Inner London,E09000022,Lambeth,,
+E09000022,2020-03-19,Lambeth,81,79,LAD,E13000001,Inner London,E09000022,Lambeth,20.0,
+E09000022,2020-03-20,Lambeth,103,80,LAD,E13000001,Inner London,E09000022,Lambeth,22.0,2.0
+E09000022,2020-03-21,Lambeth,118,81,LAD,E13000001,Inner London,E09000022,Lambeth,15.0,-7.0
+E09000022,2020-03-22,Lambeth,127,82,LAD,E13000001,Inner London,E09000022,Lambeth,9.0,-6.0
+E09000022,2020-03-23,Lambeth,134,83,LAD,E13000001,Inner London,E09000022,Lambeth,7.0,-2.0
+E09000022,2020-03-24,Lambeth,188,84,LAD,E13000001,Inner London,E09000022,Lambeth,54.0,47.0
+E09000022,2020-03-25,Lambeth,212,85,LAD,E13000001,Inner London,E09000022,Lambeth,24.0,-30.0
+E09000022,2020-03-26,Lambeth,248,86,LAD,E13000001,Inner London,E09000022,Lambeth,36.0,12.0
+E09000022,2020-03-27,Lambeth,276,87,LAD,E13000001,Inner London,E09000022,Lambeth,28.0,-8.0
+E09000022,2020-03-28,Lambeth,318,88,LAD,E13000001,Inner London,E09000022,Lambeth,42.0,14.0
+E09000022,2020-03-29,Lambeth,358,89,LAD,E13000001,Inner London,E09000022,Lambeth,40.0,-2.0
+E09000023,2020-03-18,Lewisham,22,78,LAD,E13000001,Inner London,E09000023,Lewisham,,
+E09000023,2020-03-19,Lewisham,39,79,LAD,E13000001,Inner London,E09000023,Lewisham,17.0,
+E09000023,2020-03-20,Lewisham,47,80,LAD,E13000001,Inner London,E09000023,Lewisham,8.0,-9.0
+E09000023,2020-03-21,Lewisham,60,81,LAD,E13000001,Inner London,E09000023,Lewisham,13.0,5.0
+E09000023,2020-03-22,Lewisham,67,82,LAD,E13000001,Inner London,E09000023,Lewisham,7.0,-6.0
+E09000023,2020-03-23,Lewisham,86,83,LAD,E13000001,Inner London,E09000023,Lewisham,19.0,12.0
+E09000023,2020-03-24,Lewisham,97,84,LAD,E13000001,Inner London,E09000023,Lewisham,11.0,-8.0
+E09000023,2020-03-25,Lewisham,114,85,LAD,E13000001,Inner London,E09000023,Lewisham,17.0,6.0
+E09000023,2020-03-26,Lewisham,144,86,LAD,E13000001,Inner London,E09000023,Lewisham,30.0,13.0
+E09000023,2020-03-27,Lewisham,158,87,LAD,E13000001,Inner London,E09000023,Lewisham,14.0,-16.0
+E09000023,2020-03-28,Lewisham,188,88,LAD,E13000001,Inner London,E09000023,Lewisham,30.0,16.0
+E09000023,2020-03-29,Lewisham,218,89,LAD,E13000001,Inner London,E09000023,Lewisham,30.0,0.0
+E09000024,2020-03-18,Merton,34,78,LAD,E13000002,Outer London,E09000024,Merton,,
+E09000024,2020-03-19,Merton,39,79,LAD,E13000002,Outer London,E09000024,Merton,5.0,
+E09000024,2020-03-20,Merton,45,80,LAD,E13000002,Outer London,E09000024,Merton,6.0,1.0
+E09000024,2020-03-21,Merton,56,81,LAD,E13000002,Outer London,E09000024,Merton,11.0,5.0
+E09000024,2020-03-22,Merton,56,82,LAD,E13000002,Outer London,E09000024,Merton,0.0,-11.0
+E09000024,2020-03-23,Merton,57,83,LAD,E13000002,Outer London,E09000024,Merton,1.0,1.0
+E09000024,2020-03-24,Merton,84,84,LAD,E13000002,Outer London,E09000024,Merton,27.0,26.0
+E09000024,2020-03-25,Merton,98,85,LAD,E13000002,Outer London,E09000024,Merton,14.0,-13.0
+E09000024,2020-03-26,Merton,108,86,LAD,E13000002,Outer London,E09000024,Merton,10.0,-4.0
+E09000024,2020-03-27,Merton,128,87,LAD,E13000002,Outer London,E09000024,Merton,20.0,10.0
+E09000024,2020-03-28,Merton,141,88,LAD,E13000002,Outer London,E09000024,Merton,13.0,-7.0
+E09000024,2020-03-29,Merton,161,89,LAD,E13000002,Outer London,E09000024,Merton,20.0,7.0
+E09000025,2020-03-18,Newham,23,78,LAD,E13000001,Inner London,E09000025,Newham,,
+E09000025,2020-03-19,Newham,32,79,LAD,E13000001,Inner London,E09000025,Newham,9.0,
+E09000025,2020-03-20,Newham,42,80,LAD,E13000001,Inner London,E09000025,Newham,10.0,1.0
+E09000025,2020-03-21,Newham,51,81,LAD,E13000001,Inner London,E09000025,Newham,9.0,-1.0
+E09000025,2020-03-22,Newham,57,82,LAD,E13000001,Inner London,E09000025,Newham,6.0,-3.0
+E09000025,2020-03-23,Newham,70,83,LAD,E13000001,Inner London,E09000025,Newham,13.0,7.0
+E09000025,2020-03-24,Newham,76,84,LAD,E13000001,Inner London,E09000025,Newham,6.0,-7.0
+E09000025,2020-03-25,Newham,77,85,LAD,E13000001,Inner London,E09000025,Newham,1.0,-5.0
+E09000025,2020-03-26,Newham,109,86,LAD,E13000001,Inner London,E09000025,Newham,32.0,31.0
+E09000025,2020-03-27,Newham,148,87,LAD,E13000001,Inner London,E09000025,Newham,39.0,7.0
+E09000025,2020-03-28,Newham,195,88,LAD,E13000001,Inner London,E09000025,Newham,47.0,8.0
+E09000025,2020-03-29,Newham,230,89,LAD,E13000001,Inner London,E09000025,Newham,35.0,-12.0
+E09000026,2020-03-18,Redbridge,7,78,LAD,E13000002,Outer London,E09000026,Redbridge,,
+E09000026,2020-03-19,Redbridge,18,79,LAD,E13000002,Outer London,E09000026,Redbridge,11.0,
+E09000026,2020-03-20,Redbridge,27,80,LAD,E13000002,Outer London,E09000026,Redbridge,9.0,-2.0
+E09000026,2020-03-21,Redbridge,42,81,LAD,E13000002,Outer London,E09000026,Redbridge,15.0,6.0
+E09000026,2020-03-22,Redbridge,45,82,LAD,E13000002,Outer London,E09000026,Redbridge,3.0,-12.0
+E09000026,2020-03-23,Redbridge,51,83,LAD,E13000002,Outer London,E09000026,Redbridge,6.0,3.0
+E09000026,2020-03-24,Redbridge,57,84,LAD,E13000002,Outer London,E09000026,Redbridge,6.0,0.0
+E09000026,2020-03-25,Redbridge,67,85,LAD,E13000002,Outer London,E09000026,Redbridge,10.0,4.0
+E09000026,2020-03-26,Redbridge,89,86,LAD,E13000002,Outer London,E09000026,Redbridge,22.0,12.0
+E09000026,2020-03-27,Redbridge,115,87,LAD,E13000002,Outer London,E09000026,Redbridge,26.0,4.0
+E09000026,2020-03-28,Redbridge,128,88,LAD,E13000002,Outer London,E09000026,Redbridge,13.0,-13.0
+E09000026,2020-03-29,Redbridge,143,89,LAD,E13000002,Outer London,E09000026,Redbridge,15.0,2.0
+E09000027,2020-03-18,Richmond upon Thames,7,78,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,,
+E09000027,2020-03-19,Richmond upon Thames,12,79,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,5.0,
+E09000027,2020-03-20,Richmond upon Thames,16,80,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,4.0,-1.0
+E09000027,2020-03-21,Richmond upon Thames,22,81,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,6.0,2.0
+E09000027,2020-03-22,Richmond upon Thames,25,82,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,3.0,-3.0
+E09000027,2020-03-23,Richmond upon Thames,31,83,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,6.0,3.0
+E09000027,2020-03-24,Richmond upon Thames,36,84,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,5.0,-1.0
+E09000027,2020-03-25,Richmond upon Thames,44,85,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,8.0,3.0
+E09000027,2020-03-26,Richmond upon Thames,55,86,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,11.0,3.0
+E09000027,2020-03-27,Richmond upon Thames,68,87,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,13.0,2.0
+E09000027,2020-03-28,Richmond upon Thames,83,88,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,15.0,2.0
+E09000027,2020-03-29,Richmond upon Thames,94,89,LAD,E13000002,Outer London,E09000027,Richmond upon Thames,11.0,-4.0
+E09000028,2020-03-18,Southwark,70,78,LAD,E13000001,Inner London,E09000028,Southwark,,
+E09000028,2020-03-19,Southwark,82,79,LAD,E13000001,Inner London,E09000028,Southwark,12.0,
+E09000028,2020-03-20,Southwark,110,80,LAD,E13000001,Inner London,E09000028,Southwark,28.0,16.0
+E09000028,2020-03-21,Southwark,134,81,LAD,E13000001,Inner London,E09000028,Southwark,24.0,-4.0
+E09000028,2020-03-22,Southwark,139,82,LAD,E13000001,Inner London,E09000028,Southwark,5.0,-19.0
+E09000028,2020-03-23,Southwark,154,83,LAD,E13000001,Inner London,E09000028,Southwark,15.0,10.0
+E09000028,2020-03-24,Southwark,181,84,LAD,E13000001,Inner London,E09000028,Southwark,27.0,12.0
+E09000028,2020-03-25,Southwark,209,85,LAD,E13000001,Inner London,E09000028,Southwark,28.0,1.0
+E09000028,2020-03-26,Southwark,253,86,LAD,E13000001,Inner London,E09000028,Southwark,44.0,16.0
+E09000028,2020-03-27,Southwark,290,87,LAD,E13000001,Inner London,E09000028,Southwark,37.0,-7.0
+E09000028,2020-03-28,Southwark,319,88,LAD,E13000001,Inner London,E09000028,Southwark,29.0,-8.0
+E09000028,2020-03-29,Southwark,365,89,LAD,E13000001,Inner London,E09000028,Southwark,46.0,17.0
+E09000029,2020-03-18,Sutton,12,78,LAD,E13000002,Outer London,E09000029,Sutton,,
+E09000029,2020-03-19,Sutton,14,79,LAD,E13000002,Outer London,E09000029,Sutton,2.0,
+E09000029,2020-03-20,Sutton,19,80,LAD,E13000002,Outer London,E09000029,Sutton,5.0,3.0
+E09000029,2020-03-21,Sutton,23,81,LAD,E13000002,Outer London,E09000029,Sutton,4.0,-1.0
+E09000029,2020-03-22,Sutton,24,82,LAD,E13000002,Outer London,E09000029,Sutton,1.0,-3.0
+E09000029,2020-03-23,Sutton,24,83,LAD,E13000002,Outer London,E09000029,Sutton,0.0,-1.0
+E09000029,2020-03-24,Sutton,40,84,LAD,E13000002,Outer London,E09000029,Sutton,16.0,16.0
+E09000029,2020-03-25,Sutton,45,85,LAD,E13000002,Outer London,E09000029,Sutton,5.0,-11.0
+E09000029,2020-03-26,Sutton,54,86,LAD,E13000002,Outer London,E09000029,Sutton,9.0,4.0
+E09000029,2020-03-27,Sutton,69,87,LAD,E13000002,Outer London,E09000029,Sutton,15.0,6.0
+E09000029,2020-03-28,Sutton,82,88,LAD,E13000002,Outer London,E09000029,Sutton,13.0,-2.0
+E09000029,2020-03-29,Sutton,93,89,LAD,E13000002,Outer London,E09000029,Sutton,11.0,-2.0
+E09000030,2020-03-18,Tower Hamlets,25,78,LAD,E13000001,Inner London,E09000030,Tower Hamlets,,
+E09000030,2020-03-19,Tower Hamlets,33,79,LAD,E13000001,Inner London,E09000030,Tower Hamlets,8.0,
+E09000030,2020-03-20,Tower Hamlets,43,80,LAD,E13000001,Inner London,E09000030,Tower Hamlets,10.0,2.0
+E09000030,2020-03-21,Tower Hamlets,51,81,LAD,E13000001,Inner London,E09000030,Tower Hamlets,8.0,-2.0
+E09000030,2020-03-22,Tower Hamlets,57,82,LAD,E13000001,Inner London,E09000030,Tower Hamlets,6.0,-2.0
+E09000030,2020-03-23,Tower Hamlets,67,83,LAD,E13000001,Inner London,E09000030,Tower Hamlets,10.0,4.0
+E09000030,2020-03-24,Tower Hamlets,70,84,LAD,E13000001,Inner London,E09000030,Tower Hamlets,3.0,-7.0
+E09000030,2020-03-25,Tower Hamlets,71,85,LAD,E13000001,Inner London,E09000030,Tower Hamlets,1.0,-2.0
+E09000030,2020-03-26,Tower Hamlets,93,86,LAD,E13000001,Inner London,E09000030,Tower Hamlets,22.0,21.0
+E09000030,2020-03-27,Tower Hamlets,129,87,LAD,E13000001,Inner London,E09000030,Tower Hamlets,36.0,14.0
+E09000030,2020-03-28,Tower Hamlets,160,88,LAD,E13000001,Inner London,E09000030,Tower Hamlets,31.0,-5.0
+E09000030,2020-03-29,Tower Hamlets,184,89,LAD,E13000001,Inner London,E09000030,Tower Hamlets,24.0,-7.0
+E09000031,2020-03-18,Waltham Forest,14,78,LAD,E13000002,Outer London,E09000031,Waltham Forest,,
+E09000031,2020-03-19,Waltham Forest,17,79,LAD,E13000002,Outer London,E09000031,Waltham Forest,3.0,
+E09000031,2020-03-20,Waltham Forest,23,80,LAD,E13000002,Outer London,E09000031,Waltham Forest,6.0,3.0
+E09000031,2020-03-21,Waltham Forest,38,81,LAD,E13000002,Outer London,E09000031,Waltham Forest,15.0,9.0
+E09000031,2020-03-22,Waltham Forest,50,82,LAD,E13000002,Outer London,E09000031,Waltham Forest,12.0,-3.0
+E09000031,2020-03-23,Waltham Forest,56,83,LAD,E13000002,Outer London,E09000031,Waltham Forest,6.0,-6.0
+E09000031,2020-03-24,Waltham Forest,61,84,LAD,E13000002,Outer London,E09000031,Waltham Forest,5.0,-1.0
+E09000031,2020-03-25,Waltham Forest,63,85,LAD,E13000002,Outer London,E09000031,Waltham Forest,2.0,-3.0
+E09000031,2020-03-26,Waltham Forest,95,86,LAD,E13000002,Outer London,E09000031,Waltham Forest,32.0,30.0
+E09000031,2020-03-27,Waltham Forest,130,87,LAD,E13000002,Outer London,E09000031,Waltham Forest,35.0,3.0
+E09000031,2020-03-28,Waltham Forest,154,88,LAD,E13000002,Outer London,E09000031,Waltham Forest,24.0,-11.0
+E09000031,2020-03-29,Waltham Forest,182,89,LAD,E13000002,Outer London,E09000031,Waltham Forest,28.0,4.0
+E09000032,2020-03-18,Wandsworth,59,78,LAD,E13000001,Inner London,E09000032,Wandsworth,,
+E09000032,2020-03-19,Wandsworth,75,79,LAD,E13000001,Inner London,E09000032,Wandsworth,16.0,
+E09000032,2020-03-20,Wandsworth,98,80,LAD,E13000001,Inner London,E09000032,Wandsworth,23.0,7.0
+E09000032,2020-03-21,Wandsworth,107,81,LAD,E13000001,Inner London,E09000032,Wandsworth,9.0,-14.0
+E09000032,2020-03-22,Wandsworth,110,82,LAD,E13000001,Inner London,E09000032,Wandsworth,3.0,-6.0
+E09000032,2020-03-23,Wandsworth,113,83,LAD,E13000001,Inner London,E09000032,Wandsworth,3.0,0.0
+E09000032,2020-03-24,Wandsworth,155,84,LAD,E13000001,Inner London,E09000032,Wandsworth,42.0,39.0
+E09000032,2020-03-25,Wandsworth,184,85,LAD,E13000001,Inner London,E09000032,Wandsworth,29.0,-13.0
+E09000032,2020-03-26,Wandsworth,204,86,LAD,E13000001,Inner London,E09000032,Wandsworth,20.0,-9.0
+E09000032,2020-03-27,Wandsworth,228,87,LAD,E13000001,Inner London,E09000032,Wandsworth,24.0,4.0
+E09000032,2020-03-28,Wandsworth,265,88,LAD,E13000001,Inner London,E09000032,Wandsworth,37.0,13.0
+E09000032,2020-03-29,Wandsworth,287,89,LAD,E13000001,Inner London,E09000032,Wandsworth,22.0,-15.0
+E09000033,2020-03-18,Westminster,68,78,LAD,E13000001,Inner London,E09000033,Westminster,,
+E09000033,2020-03-19,Westminster,78,79,LAD,E13000001,Inner London,E09000033,Westminster,10.0,
+E09000033,2020-03-20,Westminster,99,80,LAD,E13000001,Inner London,E09000033,Westminster,21.0,11.0
+E09000033,2020-03-21,Westminster,110,81,LAD,E13000001,Inner London,E09000033,Westminster,11.0,-10.0
+E09000033,2020-03-22,Westminster,117,82,LAD,E13000001,Inner London,E09000033,Westminster,7.0,-4.0
+E09000033,2020-03-23,Westminster,134,83,LAD,E13000001,Inner London,E09000033,Westminster,17.0,10.0
+E09000033,2020-03-24,Westminster,143,84,LAD,E13000001,Inner London,E09000033,Westminster,9.0,-8.0
+E09000033,2020-03-25,Westminster,152,85,LAD,E13000001,Inner London,E09000033,Westminster,9.0,0.0
+E09000033,2020-03-26,Westminster,172,86,LAD,E13000001,Inner London,E09000033,Westminster,20.0,11.0
+E09000033,2020-03-27,Westminster,189,87,LAD,E13000001,Inner London,E09000033,Westminster,17.0,-3.0
+E09000033,2020-03-28,Westminster,206,88,LAD,E13000001,Inner London,E09000033,Westminster,17.0,0.0
+E09000033,2020-03-29,Westminster,226,89,LAD,E13000001,Inner London,E09000033,Westminster,20.0,3.0
+E10000002,2020-03-18,Buckinghamshire,27,78,CTY,E10000002,Buckinghamshire,,,,
+E10000002,2020-03-19,Buckinghamshire,39,79,CTY,E10000002,Buckinghamshire,,,12.0,
+E10000002,2020-03-20,Buckinghamshire,39,80,CTY,E10000002,Buckinghamshire,,,0.0,-12.0
+E10000002,2020-03-21,Buckinghamshire,41,81,CTY,E10000002,Buckinghamshire,,,2.0,2.0
+E10000002,2020-03-22,Buckinghamshire,44,82,CTY,E10000002,Buckinghamshire,,,3.0,1.0
+E10000002,2020-03-23,Buckinghamshire,45,83,CTY,E10000002,Buckinghamshire,,,1.0,-2.0
+E10000002,2020-03-24,Buckinghamshire,50,84,CTY,E10000002,Buckinghamshire,,,5.0,4.0
+E10000002,2020-03-25,Buckinghamshire,59,85,CTY,E10000002,Buckinghamshire,,,9.0,4.0
+E10000002,2020-03-26,Buckinghamshire,66,86,CTY,E10000002,Buckinghamshire,,,7.0,-2.0
+E10000002,2020-03-27,Buckinghamshire,106,87,CTY,E10000002,Buckinghamshire,,,40.0,33.0
+E10000002,2020-03-28,Buckinghamshire,115,88,CTY,E10000002,Buckinghamshire,,,9.0,-31.0
+E10000002,2020-03-29,Buckinghamshire,128,89,CTY,E10000002,Buckinghamshire,,,13.0,4.0
+E10000003,2020-03-18,Cambridgeshire,14,78,CTY,E10000003,Cambridgeshire,,,,
+E10000003,2020-03-19,Cambridgeshire,15,79,CTY,E10000003,Cambridgeshire,,,1.0,
+E10000003,2020-03-20,Cambridgeshire,16,80,CTY,E10000003,Cambridgeshire,,,1.0,0.0
+E10000003,2020-03-21,Cambridgeshire,17,81,CTY,E10000003,Cambridgeshire,,,1.0,0.0
+E10000003,2020-03-22,Cambridgeshire,20,82,CTY,E10000003,Cambridgeshire,,,3.0,2.0
+E10000003,2020-03-23,Cambridgeshire,30,83,CTY,E10000003,Cambridgeshire,,,10.0,7.0
+E10000003,2020-03-24,Cambridgeshire,37,84,CTY,E10000003,Cambridgeshire,,,7.0,-3.0
+E10000003,2020-03-25,Cambridgeshire,41,85,CTY,E10000003,Cambridgeshire,,,4.0,-3.0
+E10000003,2020-03-26,Cambridgeshire,47,86,CTY,E10000003,Cambridgeshire,,,6.0,2.0
+E10000003,2020-03-27,Cambridgeshire,68,87,CTY,E10000003,Cambridgeshire,,,21.0,15.0
+E10000003,2020-03-28,Cambridgeshire,85,88,CTY,E10000003,Cambridgeshire,,,17.0,-4.0
+E10000003,2020-03-29,Cambridgeshire,100,89,CTY,E10000003,Cambridgeshire,,,15.0,-2.0
+E10000006,2020-03-18,Cumbria,34,78,CTY,E10000006,Cumbria,,,,
+E10000006,2020-03-19,Cumbria,38,79,CTY,E10000006,Cumbria,,,4.0,
+E10000006,2020-03-20,Cumbria,52,80,CTY,E10000006,Cumbria,,,14.0,10.0
+E10000006,2020-03-21,Cumbria,57,81,CTY,E10000006,Cumbria,,,5.0,-9.0
+E10000006,2020-03-22,Cumbria,79,82,CTY,E10000006,Cumbria,,,22.0,17.0
+E10000006,2020-03-23,Cumbria,110,83,CTY,E10000006,Cumbria,,,31.0,9.0
+E10000006,2020-03-24,Cumbria,129,84,CTY,E10000006,Cumbria,,,19.0,-12.0
+E10000006,2020-03-25,Cumbria,145,85,CTY,E10000006,Cumbria,,,16.0,-3.0
+E10000006,2020-03-26,Cumbria,176,86,CTY,E10000006,Cumbria,,,31.0,15.0
+E10000006,2020-03-27,Cumbria,211,87,CTY,E10000006,Cumbria,,,35.0,4.0
+E10000006,2020-03-28,Cumbria,238,88,CTY,E10000006,Cumbria,,,27.0,-8.0
+E10000006,2020-03-29,Cumbria,292,89,CTY,E10000006,Cumbria,,,54.0,27.0
+E10000007,2020-03-18,Derbyshire,27,78,CTY,E10000007,Derbyshire,,,,
+E10000007,2020-03-19,Derbyshire,40,79,CTY,E10000007,Derbyshire,,,13.0,
+E10000007,2020-03-20,Derbyshire,50,80,CTY,E10000007,Derbyshire,,,10.0,-3.0
+E10000007,2020-03-21,Derbyshire,64,81,CTY,E10000007,Derbyshire,,,14.0,4.0
+E10000007,2020-03-22,Derbyshire,75,82,CTY,E10000007,Derbyshire,,,11.0,-3.0
+E10000007,2020-03-23,Derbyshire,82,83,CTY,E10000007,Derbyshire,,,7.0,-4.0
+E10000007,2020-03-24,Derbyshire,101,84,CTY,E10000007,Derbyshire,,,19.0,12.0
+E10000007,2020-03-25,Derbyshire,110,85,CTY,E10000007,Derbyshire,,,9.0,-10.0
+E10000007,2020-03-26,Derbyshire,139,86,CTY,E10000007,Derbyshire,,,29.0,20.0
+E10000007,2020-03-27,Derbyshire,170,87,CTY,E10000007,Derbyshire,,,31.0,2.0
+E10000007,2020-03-28,Derbyshire,194,88,CTY,E10000007,Derbyshire,,,24.0,-7.0
+E10000007,2020-03-29,Derbyshire,210,89,CTY,E10000007,Derbyshire,,,16.0,-8.0
+E10000008,2020-03-18,Devon,25,78,CTY,E10000008,Devon,,,,
+E10000008,2020-03-19,Devon,26,79,CTY,E10000008,Devon,,,1.0,
+E10000008,2020-03-20,Devon,30,80,CTY,E10000008,Devon,,,4.0,3.0
+E10000008,2020-03-21,Devon,42,81,CTY,E10000008,Devon,,,12.0,8.0
+E10000008,2020-03-22,Devon,43,82,CTY,E10000008,Devon,,,1.0,-11.0
+E10000008,2020-03-23,Devon,46,83,CTY,E10000008,Devon,,,3.0,2.0
+E10000008,2020-03-24,Devon,48,84,CTY,E10000008,Devon,,,2.0,-1.0
+E10000008,2020-03-25,Devon,50,85,CTY,E10000008,Devon,,,2.0,0.0
+E10000008,2020-03-26,Devon,55,86,CTY,E10000008,Devon,,,5.0,3.0
+E10000008,2020-03-27,Devon,65,87,CTY,E10000008,Devon,,,10.0,5.0
+E10000008,2020-03-28,Devon,84,88,CTY,E10000008,Devon,,,19.0,9.0
+E10000008,2020-03-29,Devon,91,89,CTY,E10000008,Devon,,,7.0,-12.0
+E10000011,2020-03-18,East Sussex,8,78,CTY,E10000011,East Sussex,,,,
+E10000011,2020-03-19,East Sussex,8,79,CTY,E10000011,East Sussex,,,0.0,
+E10000011,2020-03-20,East Sussex,8,80,CTY,E10000011,East Sussex,,,0.0,0.0
+E10000011,2020-03-21,East Sussex,8,81,CTY,E10000011,East Sussex,,,0.0,0.0
+E10000011,2020-03-22,East Sussex,9,82,CTY,E10000011,East Sussex,,,1.0,1.0
+E10000011,2020-03-23,East Sussex,11,83,CTY,E10000011,East Sussex,,,2.0,1.0
+E10000011,2020-03-24,East Sussex,21,84,CTY,E10000011,East Sussex,,,10.0,8.0
+E10000011,2020-03-25,East Sussex,22,85,CTY,E10000011,East Sussex,,,1.0,-9.0
+E10000011,2020-03-26,East Sussex,26,86,CTY,E10000011,East Sussex,,,4.0,3.0
+E10000011,2020-03-27,East Sussex,39,87,CTY,E10000011,East Sussex,,,13.0,9.0
+E10000011,2020-03-28,East Sussex,43,88,CTY,E10000011,East Sussex,,,4.0,-9.0
+E10000011,2020-03-29,East Sussex,44,89,CTY,E10000011,East Sussex,,,1.0,-3.0
+E10000012,2020-03-18,Essex,27,78,CTY,E10000012,Essex,,,,
+E10000012,2020-03-19,Essex,31,79,CTY,E10000012,Essex,,,4.0,
+E10000012,2020-03-20,Essex,43,80,CTY,E10000012,Essex,,,12.0,8.0
+E10000012,2020-03-21,Essex,45,81,CTY,E10000012,Essex,,,2.0,-10.0
+E10000012,2020-03-22,Essex,53,82,CTY,E10000012,Essex,,,8.0,6.0
+E10000012,2020-03-23,Essex,67,83,CTY,E10000012,Essex,,,14.0,6.0
+E10000012,2020-03-24,Essex,80,84,CTY,E10000012,Essex,,,13.0,-1.0
+E10000012,2020-03-25,Essex,88,85,CTY,E10000012,Essex,,,8.0,-5.0
+E10000012,2020-03-26,Essex,130,86,CTY,E10000012,Essex,,,42.0,34.0
+E10000012,2020-03-27,Essex,166,87,CTY,E10000012,Essex,,,36.0,-6.0
+E10000012,2020-03-28,Essex,213,88,CTY,E10000012,Essex,,,47.0,11.0
+E10000012,2020-03-29,Essex,244,89,CTY,E10000012,Essex,,,31.0,-16.0
+E10000013,2020-03-18,Gloucestershire,12,78,CTY,E10000013,Gloucestershire,,,,
+E10000013,2020-03-19,Gloucestershire,15,79,CTY,E10000013,Gloucestershire,,,3.0,
+E10000013,2020-03-20,Gloucestershire,22,80,CTY,E10000013,Gloucestershire,,,7.0,4.0
+E10000013,2020-03-21,Gloucestershire,27,81,CTY,E10000013,Gloucestershire,,,5.0,-2.0
+E10000013,2020-03-22,Gloucestershire,29,82,CTY,E10000013,Gloucestershire,,,2.0,-3.0
+E10000013,2020-03-23,Gloucestershire,32,83,CTY,E10000013,Gloucestershire,,,3.0,1.0
+E10000013,2020-03-24,Gloucestershire,49,84,CTY,E10000013,Gloucestershire,,,17.0,14.0
+E10000013,2020-03-25,Gloucestershire,57,85,CTY,E10000013,Gloucestershire,,,8.0,-9.0
+E10000013,2020-03-26,Gloucestershire,64,86,CTY,E10000013,Gloucestershire,,,7.0,-1.0
+E10000013,2020-03-27,Gloucestershire,78,87,CTY,E10000013,Gloucestershire,,,14.0,7.0
+E10000013,2020-03-28,Gloucestershire,105,88,CTY,E10000013,Gloucestershire,,,27.0,13.0
+E10000013,2020-03-29,Gloucestershire,107,89,CTY,E10000013,Gloucestershire,,,2.0,-25.0
+E10000014,2020-03-18,Hampshire,77,78,CTY,E10000014,Hampshire,,,,
+E10000014,2020-03-19,Hampshire,87,79,CTY,E10000014,Hampshire,,,10.0,
+E10000014,2020-03-20,Hampshire,107,80,CTY,E10000014,Hampshire,,,20.0,10.0
+E10000014,2020-03-21,Hampshire,138,81,CTY,E10000014,Hampshire,,,31.0,11.0
+E10000014,2020-03-22,Hampshire,156,82,CTY,E10000014,Hampshire,,,18.0,-13.0
+E10000014,2020-03-23,Hampshire,171,83,CTY,E10000014,Hampshire,,,15.0,-3.0
+E10000014,2020-03-24,Hampshire,207,84,CTY,E10000014,Hampshire,,,36.0,21.0
+E10000014,2020-03-25,Hampshire,251,85,CTY,E10000014,Hampshire,,,44.0,8.0
+E10000014,2020-03-26,Hampshire,267,86,CTY,E10000014,Hampshire,,,16.0,-28.0
+E10000014,2020-03-27,Hampshire,317,87,CTY,E10000014,Hampshire,,,50.0,34.0
+E10000014,2020-03-28,Hampshire,384,88,CTY,E10000014,Hampshire,,,67.0,17.0
+E10000014,2020-03-29,Hampshire,432,89,CTY,E10000014,Hampshire,,,48.0,-19.0
+E10000015,2020-03-18,Hertfordshire,50,78,CTY,E10000015,Hertfordshire,,,,
+E10000015,2020-03-19,Hertfordshire,52,79,CTY,E10000015,Hertfordshire,,,2.0,
+E10000015,2020-03-20,Hertfordshire,61,80,CTY,E10000015,Hertfordshire,,,9.0,7.0
+E10000015,2020-03-21,Hertfordshire,75,81,CTY,E10000015,Hertfordshire,,,14.0,5.0
+E10000015,2020-03-22,Hertfordshire,92,82,CTY,E10000015,Hertfordshire,,,17.0,3.0
+E10000015,2020-03-23,Hertfordshire,115,83,CTY,E10000015,Hertfordshire,,,23.0,6.0
+E10000015,2020-03-24,Hertfordshire,139,84,CTY,E10000015,Hertfordshire,,,24.0,1.0
+E10000015,2020-03-25,Hertfordshire,147,85,CTY,E10000015,Hertfordshire,,,8.0,-16.0
+E10000015,2020-03-26,Hertfordshire,170,86,CTY,E10000015,Hertfordshire,,,23.0,15.0
+E10000015,2020-03-27,Hertfordshire,206,87,CTY,E10000015,Hertfordshire,,,36.0,13.0
+E10000015,2020-03-28,Hertfordshire,262,88,CTY,E10000015,Hertfordshire,,,56.0,20.0
+E10000015,2020-03-29,Hertfordshire,282,89,CTY,E10000015,Hertfordshire,,,20.0,-36.0
+E10000016,2020-03-18,Kent,21,78,CTY,E10000016,Kent,,,,
+E10000016,2020-03-19,Kent,25,79,CTY,E10000016,Kent,,,4.0,
+E10000016,2020-03-20,Kent,32,80,CTY,E10000016,Kent,,,7.0,3.0
+E10000016,2020-03-21,Kent,45,81,CTY,E10000016,Kent,,,13.0,6.0
+E10000016,2020-03-22,Kent,48,82,CTY,E10000016,Kent,,,3.0,-10.0
+E10000016,2020-03-23,Kent,64,83,CTY,E10000016,Kent,,,16.0,13.0
+E10000016,2020-03-24,Kent,72,84,CTY,E10000016,Kent,,,8.0,-8.0
+E10000016,2020-03-25,Kent,96,85,CTY,E10000016,Kent,,,24.0,16.0
+E10000016,2020-03-26,Kent,112,86,CTY,E10000016,Kent,,,16.0,-8.0
+E10000016,2020-03-27,Kent,182,87,CTY,E10000016,Kent,,,70.0,54.0
+E10000016,2020-03-28,Kent,230,88,CTY,E10000016,Kent,,,48.0,-22.0
+E10000016,2020-03-29,Kent,253,89,CTY,E10000016,Kent,,,23.0,-25.0
+E10000017,2020-03-18,Lancashire,15,78,CTY,E10000017,Lancashire,,,,
+E10000017,2020-03-19,Lancashire,24,79,CTY,E10000017,Lancashire,,,9.0,
+E10000017,2020-03-20,Lancashire,26,80,CTY,E10000017,Lancashire,,,2.0,-7.0
+E10000017,2020-03-21,Lancashire,30,81,CTY,E10000017,Lancashire,,,4.0,2.0
+E10000017,2020-03-22,Lancashire,44,82,CTY,E10000017,Lancashire,,,14.0,10.0
+E10000017,2020-03-23,Lancashire,59,83,CTY,E10000017,Lancashire,,,15.0,1.0
+E10000017,2020-03-24,Lancashire,71,84,CTY,E10000017,Lancashire,,,12.0,-3.0
+E10000017,2020-03-25,Lancashire,78,85,CTY,E10000017,Lancashire,,,7.0,-5.0
+E10000017,2020-03-26,Lancashire,102,86,CTY,E10000017,Lancashire,,,24.0,17.0
+E10000017,2020-03-27,Lancashire,141,87,CTY,E10000017,Lancashire,,,39.0,15.0
+E10000017,2020-03-28,Lancashire,167,88,CTY,E10000017,Lancashire,,,26.0,-13.0
+E10000017,2020-03-29,Lancashire,231,89,CTY,E10000017,Lancashire,,,64.0,38.0
+E10000018,2020-03-18,Leicestershire,14,78,CTY,E10000018,Leicestershire,,,,
+E10000018,2020-03-19,Leicestershire,17,79,CTY,E10000018,Leicestershire,,,3.0,
+E10000018,2020-03-20,Leicestershire,20,80,CTY,E10000018,Leicestershire,,,3.0,0.0
+E10000018,2020-03-21,Leicestershire,29,81,CTY,E10000018,Leicestershire,,,9.0,6.0
+E10000018,2020-03-22,Leicestershire,43,82,CTY,E10000018,Leicestershire,,,14.0,5.0
+E10000018,2020-03-23,Leicestershire,53,83,CTY,E10000018,Leicestershire,,,10.0,-4.0
+E10000018,2020-03-24,Leicestershire,65,84,CTY,E10000018,Leicestershire,,,12.0,2.0
+E10000018,2020-03-25,Leicestershire,80,85,CTY,E10000018,Leicestershire,,,15.0,3.0
+E10000018,2020-03-26,Leicestershire,98,86,CTY,E10000018,Leicestershire,,,18.0,3.0
+E10000018,2020-03-27,Leicestershire,128,87,CTY,E10000018,Leicestershire,,,30.0,12.0
+E10000018,2020-03-28,Leicestershire,136,88,CTY,E10000018,Leicestershire,,,8.0,-22.0
+E10000018,2020-03-29,Leicestershire,141,89,CTY,E10000018,Leicestershire,,,5.0,-3.0
+E10000019,2020-03-18,Lincolnshire,7,78,CTY,E10000019,Lincolnshire,,,,
+E10000019,2020-03-19,Lincolnshire,7,79,CTY,E10000019,Lincolnshire,,,0.0,
+E10000019,2020-03-20,Lincolnshire,9,80,CTY,E10000019,Lincolnshire,,,2.0,2.0
+E10000019,2020-03-21,Lincolnshire,9,81,CTY,E10000019,Lincolnshire,,,0.0,-2.0
+E10000019,2020-03-22,Lincolnshire,14,82,CTY,E10000019,Lincolnshire,,,5.0,5.0
+E10000019,2020-03-23,Lincolnshire,20,83,CTY,E10000019,Lincolnshire,,,6.0,1.0
+E10000019,2020-03-24,Lincolnshire,24,84,CTY,E10000019,Lincolnshire,,,4.0,-2.0
+E10000019,2020-03-25,Lincolnshire,31,85,CTY,E10000019,Lincolnshire,,,7.0,3.0
+E10000019,2020-03-26,Lincolnshire,32,86,CTY,E10000019,Lincolnshire,,,1.0,-6.0
+E10000019,2020-03-27,Lincolnshire,39,87,CTY,E10000019,Lincolnshire,,,7.0,6.0
+E10000019,2020-03-28,Lincolnshire,53,88,CTY,E10000019,Lincolnshire,,,14.0,7.0
+E10000019,2020-03-29,Lincolnshire,72,89,CTY,E10000019,Lincolnshire,,,19.0,5.0
+E10000020,2020-03-18,Norfolk,4,78,CTY,E10000020,Norfolk,,,,
+E10000020,2020-03-19,Norfolk,11,79,CTY,E10000020,Norfolk,,,7.0,
+E10000020,2020-03-20,Norfolk,17,80,CTY,E10000020,Norfolk,,,6.0,-1.0
+E10000020,2020-03-21,Norfolk,24,81,CTY,E10000020,Norfolk,,,7.0,1.0
+E10000020,2020-03-22,Norfolk,34,82,CTY,E10000020,Norfolk,,,10.0,3.0
+E10000020,2020-03-23,Norfolk,35,83,CTY,E10000020,Norfolk,,,1.0,-9.0
+E10000020,2020-03-24,Norfolk,42,84,CTY,E10000020,Norfolk,,,7.0,6.0
+E10000020,2020-03-25,Norfolk,45,85,CTY,E10000020,Norfolk,,,3.0,-4.0
+E10000020,2020-03-26,Norfolk,51,86,CTY,E10000020,Norfolk,,,6.0,3.0
+E10000020,2020-03-27,Norfolk,70,87,CTY,E10000020,Norfolk,,,19.0,13.0
+E10000020,2020-03-28,Norfolk,90,88,CTY,E10000020,Norfolk,,,20.0,1.0
+E10000020,2020-03-29,Norfolk,107,89,CTY,E10000020,Norfolk,,,17.0,-3.0
+E10000021,2020-03-18,Northamptonshire,15,78,CTY,E10000021,Northamptonshire,,,,
+E10000021,2020-03-19,Northamptonshire,16,79,CTY,E10000021,Northamptonshire,,,1.0,
+E10000021,2020-03-20,Northamptonshire,17,80,CTY,E10000021,Northamptonshire,,,1.0,0.0
+E10000021,2020-03-21,Northamptonshire,20,81,CTY,E10000021,Northamptonshire,,,3.0,2.0
+E10000021,2020-03-22,Northamptonshire,21,82,CTY,E10000021,Northamptonshire,,,1.0,-2.0
+E10000021,2020-03-23,Northamptonshire,29,83,CTY,E10000021,Northamptonshire,,,8.0,7.0
+E10000021,2020-03-24,Northamptonshire,37,84,CTY,E10000021,Northamptonshire,,,8.0,0.0
+E10000021,2020-03-25,Northamptonshire,43,85,CTY,E10000021,Northamptonshire,,,6.0,-2.0
+E10000021,2020-03-26,Northamptonshire,64,86,CTY,E10000021,Northamptonshire,,,21.0,15.0
+E10000021,2020-03-27,Northamptonshire,86,87,CTY,E10000021,Northamptonshire,,,22.0,1.0
+E10000021,2020-03-28,Northamptonshire,106,88,CTY,E10000021,Northamptonshire,,,20.0,-2.0
+E10000021,2020-03-29,Northamptonshire,126,89,CTY,E10000021,Northamptonshire,,,20.0,0.0
+E10000023,2020-03-18,North Yorkshire,11,78,CTY,E10000023,North Yorkshire,,,,
+E10000023,2020-03-19,North Yorkshire,13,79,CTY,E10000023,North Yorkshire,,,2.0,
+E10000023,2020-03-20,North Yorkshire,14,80,CTY,E10000023,North Yorkshire,,,1.0,-1.0
+E10000023,2020-03-21,North Yorkshire,16,81,CTY,E10000023,North Yorkshire,,,2.0,1.0
+E10000023,2020-03-22,North Yorkshire,20,82,CTY,E10000023,North Yorkshire,,,4.0,2.0
+E10000023,2020-03-23,North Yorkshire,24,83,CTY,E10000023,North Yorkshire,,,4.0,0.0
+E10000023,2020-03-24,North Yorkshire,30,84,CTY,E10000023,North Yorkshire,,,6.0,2.0
+E10000023,2020-03-25,North Yorkshire,45,85,CTY,E10000023,North Yorkshire,,,15.0,9.0
+E10000023,2020-03-26,North Yorkshire,50,86,CTY,E10000023,North Yorkshire,,,5.0,-10.0
+E10000023,2020-03-27,North Yorkshire,69,87,CTY,E10000023,North Yorkshire,,,19.0,14.0
+E10000023,2020-03-28,North Yorkshire,75,88,CTY,E10000023,North Yorkshire,,,6.0,-13.0
+E10000023,2020-03-29,North Yorkshire,88,89,CTY,E10000023,North Yorkshire,,,13.0,7.0
+E10000024,2020-03-18,Nottinghamshire,28,78,CTY,E10000024,Nottinghamshire,,,,
+E10000024,2020-03-19,Nottinghamshire,29,79,CTY,E10000024,Nottinghamshire,,,1.0,
+E10000024,2020-03-20,Nottinghamshire,41,80,CTY,E10000024,Nottinghamshire,,,12.0,11.0
+E10000024,2020-03-21,Nottinghamshire,45,81,CTY,E10000024,Nottinghamshire,,,4.0,-8.0
+E10000024,2020-03-22,Nottinghamshire,60,82,CTY,E10000024,Nottinghamshire,,,15.0,11.0
+E10000024,2020-03-23,Nottinghamshire,71,83,CTY,E10000024,Nottinghamshire,,,11.0,-4.0
+E10000024,2020-03-24,Nottinghamshire,78,84,CTY,E10000024,Nottinghamshire,,,7.0,-4.0
+E10000024,2020-03-25,Nottinghamshire,92,85,CTY,E10000024,Nottinghamshire,,,14.0,7.0
+E10000024,2020-03-26,Nottinghamshire,109,86,CTY,E10000024,Nottinghamshire,,,17.0,3.0
+E10000024,2020-03-27,Nottinghamshire,135,87,CTY,E10000024,Nottinghamshire,,,26.0,9.0
+E10000024,2020-03-28,Nottinghamshire,177,88,CTY,E10000024,Nottinghamshire,,,42.0,16.0
+E10000024,2020-03-29,Nottinghamshire,193,89,CTY,E10000024,Nottinghamshire,,,16.0,-26.0
+E10000025,2020-03-18,Oxfordshire,34,78,CTY,E10000025,Oxfordshire,,,,
+E10000025,2020-03-19,Oxfordshire,34,79,CTY,E10000025,Oxfordshire,,,0.0,
+E10000025,2020-03-20,Oxfordshire,40,80,CTY,E10000025,Oxfordshire,,,6.0,6.0
+E10000025,2020-03-21,Oxfordshire,44,81,CTY,E10000025,Oxfordshire,,,4.0,-2.0
+E10000025,2020-03-22,Oxfordshire,52,82,CTY,E10000025,Oxfordshire,,,8.0,4.0
+E10000025,2020-03-23,Oxfordshire,63,83,CTY,E10000025,Oxfordshire,,,11.0,3.0
+E10000025,2020-03-24,Oxfordshire,69,84,CTY,E10000025,Oxfordshire,,,6.0,-5.0
+E10000025,2020-03-25,Oxfordshire,86,85,CTY,E10000025,Oxfordshire,,,17.0,11.0
+E10000025,2020-03-26,Oxfordshire,98,86,CTY,E10000025,Oxfordshire,,,12.0,-5.0
+E10000025,2020-03-27,Oxfordshire,113,87,CTY,E10000025,Oxfordshire,,,15.0,3.0
+E10000025,2020-03-28,Oxfordshire,121,88,CTY,E10000025,Oxfordshire,,,8.0,-7.0
+E10000025,2020-03-29,Oxfordshire,140,89,CTY,E10000025,Oxfordshire,,,19.0,11.0
+E10000027,2020-03-18,Somerset,7,78,CTY,E10000027,Somerset,,,,
+E10000027,2020-03-19,Somerset,10,79,CTY,E10000027,Somerset,,,3.0,
+E10000027,2020-03-20,Somerset,10,80,CTY,E10000027,Somerset,,,0.0,-3.0
+E10000027,2020-03-21,Somerset,12,81,CTY,E10000027,Somerset,,,2.0,2.0
+E10000027,2020-03-22,Somerset,13,82,CTY,E10000027,Somerset,,,1.0,-1.0
+E10000027,2020-03-23,Somerset,15,83,CTY,E10000027,Somerset,,,2.0,1.0
+E10000027,2020-03-24,Somerset,21,84,CTY,E10000027,Somerset,,,6.0,4.0
+E10000027,2020-03-25,Somerset,22,85,CTY,E10000027,Somerset,,,1.0,-5.0
+E10000027,2020-03-26,Somerset,23,86,CTY,E10000027,Somerset,,,1.0,0.0
+E10000027,2020-03-27,Somerset,25,87,CTY,E10000027,Somerset,,,2.0,1.0
+E10000027,2020-03-28,Somerset,31,88,CTY,E10000027,Somerset,,,6.0,4.0
+E10000027,2020-03-29,Somerset,36,89,CTY,E10000027,Somerset,,,5.0,-1.0
+E10000028,2020-03-18,Staffordshire,14,78,CTY,E10000028,Staffordshire,,,,
+E10000028,2020-03-19,Staffordshire,18,79,CTY,E10000028,Staffordshire,,,4.0,
+E10000028,2020-03-20,Staffordshire,25,80,CTY,E10000028,Staffordshire,,,7.0,3.0
+E10000028,2020-03-21,Staffordshire,35,81,CTY,E10000028,Staffordshire,,,10.0,3.0
+E10000028,2020-03-22,Staffordshire,41,82,CTY,E10000028,Staffordshire,,,6.0,-4.0
+E10000028,2020-03-23,Staffordshire,54,83,CTY,E10000028,Staffordshire,,,13.0,7.0
+E10000028,2020-03-24,Staffordshire,76,84,CTY,E10000028,Staffordshire,,,22.0,9.0
+E10000028,2020-03-25,Staffordshire,97,85,CTY,E10000028,Staffordshire,,,21.0,-1.0
+E10000028,2020-03-26,Staffordshire,121,86,CTY,E10000028,Staffordshire,,,24.0,3.0
+E10000028,2020-03-27,Staffordshire,145,87,CTY,E10000028,Staffordshire,,,24.0,0.0
+E10000028,2020-03-28,Staffordshire,186,88,CTY,E10000028,Staffordshire,,,41.0,17.0
+E10000028,2020-03-29,Staffordshire,212,89,CTY,E10000028,Staffordshire,,,26.0,-15.0
+E10000029,2020-03-18,Suffolk,10,78,CTY,E10000029,Suffolk,,,,
+E10000029,2020-03-19,Suffolk,13,79,CTY,E10000029,Suffolk,,,3.0,
+E10000029,2020-03-20,Suffolk,13,80,CTY,E10000029,Suffolk,,,0.0,-3.0
+E10000029,2020-03-21,Suffolk,15,81,CTY,E10000029,Suffolk,,,2.0,2.0
+E10000029,2020-03-22,Suffolk,18,82,CTY,E10000029,Suffolk,,,3.0,1.0
+E10000029,2020-03-23,Suffolk,22,83,CTY,E10000029,Suffolk,,,4.0,1.0
+E10000029,2020-03-24,Suffolk,28,84,CTY,E10000029,Suffolk,,,6.0,2.0
+E10000029,2020-03-25,Suffolk,35,85,CTY,E10000029,Suffolk,,,7.0,1.0
+E10000029,2020-03-26,Suffolk,42,86,CTY,E10000029,Suffolk,,,7.0,0.0
+E10000029,2020-03-27,Suffolk,61,87,CTY,E10000029,Suffolk,,,19.0,12.0
+E10000029,2020-03-28,Suffolk,74,88,CTY,E10000029,Suffolk,,,13.0,-6.0
+E10000029,2020-03-29,Suffolk,87,89,CTY,E10000029,Suffolk,,,13.0,0.0
+E10000030,2020-03-18,Surrey,39,78,CTY,E10000030,Surrey,,,,
+E10000030,2020-03-19,Surrey,45,79,CTY,E10000030,Surrey,,,6.0,
+E10000030,2020-03-20,Surrey,57,80,CTY,E10000030,Surrey,,,12.0,6.0
+E10000030,2020-03-21,Surrey,65,81,CTY,E10000030,Surrey,,,8.0,-4.0
+E10000030,2020-03-22,Surrey,68,82,CTY,E10000030,Surrey,,,3.0,-5.0
+E10000030,2020-03-23,Surrey,69,83,CTY,E10000030,Surrey,,,1.0,-2.0
+E10000030,2020-03-24,Surrey,110,84,CTY,E10000030,Surrey,,,41.0,40.0
+E10000030,2020-03-25,Surrey,117,85,CTY,E10000030,Surrey,,,7.0,-34.0
+E10000030,2020-03-26,Surrey,142,86,CTY,E10000030,Surrey,,,25.0,18.0
+E10000030,2020-03-27,Surrey,271,87,CTY,E10000030,Surrey,,,129.0,104.0
+E10000030,2020-03-28,Surrey,314,88,CTY,E10000030,Surrey,,,43.0,-86.0
+E10000030,2020-03-29,Surrey,338,89,CTY,E10000030,Surrey,,,24.0,-19.0
+E10000031,2020-03-18,Warwickshire,10,78,CTY,E10000031,Warwickshire,,,,
+E10000031,2020-03-19,Warwickshire,11,79,CTY,E10000031,Warwickshire,,,1.0,
+E10000031,2020-03-20,Warwickshire,13,80,CTY,E10000031,Warwickshire,,,2.0,1.0
+E10000031,2020-03-21,Warwickshire,17,81,CTY,E10000031,Warwickshire,,,4.0,2.0
+E10000031,2020-03-22,Warwickshire,29,82,CTY,E10000031,Warwickshire,,,12.0,8.0
+E10000031,2020-03-23,Warwickshire,35,83,CTY,E10000031,Warwickshire,,,6.0,-6.0
+E10000031,2020-03-24,Warwickshire,52,84,CTY,E10000031,Warwickshire,,,17.0,11.0
+E10000031,2020-03-25,Warwickshire,59,85,CTY,E10000031,Warwickshire,,,7.0,-10.0
+E10000031,2020-03-26,Warwickshire,74,86,CTY,E10000031,Warwickshire,,,15.0,8.0
+E10000031,2020-03-27,Warwickshire,101,87,CTY,E10000031,Warwickshire,,,27.0,12.0
+E10000031,2020-03-28,Warwickshire,113,88,CTY,E10000031,Warwickshire,,,12.0,-15.0
+E10000031,2020-03-29,Warwickshire,127,89,CTY,E10000031,Warwickshire,,,14.0,2.0
+E10000032,2020-03-18,West Sussex,10,78,CTY,E10000032,West Sussex,,,,
+E10000032,2020-03-19,West Sussex,16,79,CTY,E10000032,West Sussex,,,6.0,
+E10000032,2020-03-20,West Sussex,19,80,CTY,E10000032,West Sussex,,,3.0,-3.0
+E10000032,2020-03-21,West Sussex,27,81,CTY,E10000032,West Sussex,,,8.0,5.0
+E10000032,2020-03-22,West Sussex,27,82,CTY,E10000032,West Sussex,,,0.0,-8.0
+E10000032,2020-03-23,West Sussex,28,83,CTY,E10000032,West Sussex,,,1.0,1.0
+E10000032,2020-03-24,West Sussex,52,84,CTY,E10000032,West Sussex,,,24.0,23.0
+E10000032,2020-03-25,West Sussex,57,85,CTY,E10000032,West Sussex,,,5.0,-19.0
+E10000032,2020-03-26,West Sussex,69,86,CTY,E10000032,West Sussex,,,12.0,7.0
+E10000032,2020-03-27,West Sussex,86,87,CTY,E10000032,West Sussex,,,17.0,5.0
+E10000032,2020-03-28,West Sussex,110,88,CTY,E10000032,West Sussex,,,24.0,7.0
+E10000032,2020-03-29,West Sussex,113,89,CTY,E10000032,West Sussex,,,3.0,-21.0
+E10000034,2020-03-18,Worcestershire,5,78,CTY,E10000034,Worcestershire,,,,
+E10000034,2020-03-19,Worcestershire,8,79,CTY,E10000034,Worcestershire,,,3.0,
+E10000034,2020-03-20,Worcestershire,10,80,CTY,E10000034,Worcestershire,,,2.0,-1.0
+E10000034,2020-03-21,Worcestershire,12,81,CTY,E10000034,Worcestershire,,,2.0,0.0
+E10000034,2020-03-22,Worcestershire,19,82,CTY,E10000034,Worcestershire,,,7.0,5.0
+E10000034,2020-03-23,Worcestershire,28,83,CTY,E10000034,Worcestershire,,,9.0,2.0
+E10000034,2020-03-24,Worcestershire,38,84,CTY,E10000034,Worcestershire,,,10.0,1.0
+E10000034,2020-03-25,Worcestershire,55,85,CTY,E10000034,Worcestershire,,,17.0,7.0
+E10000034,2020-03-26,Worcestershire,76,86,CTY,E10000034,Worcestershire,,,21.0,4.0
+E10000034,2020-03-27,Worcestershire,93,87,CTY,E10000034,Worcestershire,,,17.0,-4.0
+E10000034,2020-03-28,Worcestershire,108,88,CTY,E10000034,Worcestershire,,,15.0,-2.0
+E10000034,2020-03-29,Worcestershire,126,89,CTY,E10000034,Worcestershire,,,18.0,3.0
